@@ -1,3 +1,0 @@
-Filled container:
-Container contains 1 elements.
-0: It is Tree: name = pine, age = 1. hash = 0.5

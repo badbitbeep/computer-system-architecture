@@ -1,6 +1,0 @@
-tree oak 10
-tree birch 20
-bush berry february
-bush herb august
-flower sunflower wild
-flower tulp garden

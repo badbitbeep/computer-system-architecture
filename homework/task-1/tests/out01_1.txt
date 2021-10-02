@@ -1,8 +1,0 @@
-Filled container:
-Container contains 6 elements.
-0: It is Tree: name = oak, age = 10. hash = 0.666667
-1: It is Tree: name = birch, age = 20. hash = 0.2
-2: It is Bush: name = berry, bloom month = february. hash = 0.2
-3: It is Bush: name = herb, bloom month = august. hash = 0.25
-4: It is Flower: name = sunflower, flower type = wild. hash = 0.333333
-5: It is Flower: name = tulp, flower type = garden. hash = 0.25

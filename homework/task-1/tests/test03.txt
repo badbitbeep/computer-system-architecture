@@ -1,3 +1,0 @@
-tree birch 20
-tree birch 10
-tree birch 15
