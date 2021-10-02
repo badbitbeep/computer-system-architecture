@@ -1,0 +1,11 @@
+Sorted container:
+Container contains 9 elements.
+0: It is Tree: name = oak, age = 10. hash = 0.666667
+1: It is Tree: name = pine, age = 200. hash = 0.5
+2: It is Flower: name = rose, flower type = home. hash = 0.5
+3: It is Flower: name = sunflower, flower type = wild. hash = 0.333333
+4: It is Bush: name = herb, bloom month = november. hash = 0.25
+5: It is Bush: name = moss, bloom month = december. hash = 0.25
+6: It is Flower: name = tulp, flower type = garden. hash = 0.25
+7: It is Bush: name = berry, bloom month = november. hash = 0.2
+8: It is Tree: name = birch, age = 20. hash = 0.2
