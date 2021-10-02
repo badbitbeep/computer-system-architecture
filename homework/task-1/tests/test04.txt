@@ -1,0 +1,9 @@
+tree oak 10
+tree birch 20
+tree pine 200
+bush berry november
+bush herb november
+bush moss december
+flower sunflower wild
+flower tulp garden
+flower rose home
