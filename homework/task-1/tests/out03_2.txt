@@ -1,0 +1,5 @@
+Sorted container:
+Container contains 3 elements.
+0: It is Tree: name = birch, age = 20. hash = 0.2
+1: It is Tree: name = birch, age = 10. hash = 0.2
+2: It is Tree: name = birch, age = 15. hash = 0.2
