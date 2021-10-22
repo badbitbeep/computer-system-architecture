@@ -7,8 +7,11 @@
 // rnd.h - содержит генератор случайных чисел в диапазоне от 0 до max
 //------------------------------------------------------------------------------
 
-inline auto Random(int max) {
-    return rand() % max;
-}
+class Random {
+public:
+    auto operator()(int max) const {
+        return rand() % max;
+    }
+};
 
 #endif //__rnd__

@@ -1,43 +1,47 @@
 //------------------------------------------------------------------------------
 // tree.cpp - содержит процедуру ввода параметров
-// для уже созданного прямоугольника
+// для уже созданного дерева
 //------------------------------------------------------------------------------
 
 #include "tree.h"
-#include <string.h>
+#include <cstring>
+#include <sstream>
 
 //------------------------------------------------------------------------------
 // Ввод параметров дерева из файла
-void In(tree &t, ifstream &ifst) {
-    ifst >> t.name >> t.age;
-}
-
-// Случайный ввод параметров дерева
-void InRnd(tree &t) {
-    int length = Random(size(t.name) - 1);
-    for (size_t i = 0; i < length; ++i) {
-        t.name[i] = char('a' + Random(26));
-    }
-    t.name[length] = '\0';
-    t.age = Random(100);
+tree::tree(ifstream &ifst) {
+    ifst >> name >> age;
 }
 
 //------------------------------------------------------------------------------
-// Вывод параметров дерева в форматируемый поток
-void Out(tree &t, ofstream &ofst) {
-    ofst << "It is Tree: name = " << t.name << ", age = " << t.age
-         << ". hash = " << Hash(t) << "\n";
+// Случайный ввод параметров дерева
+tree::tree(const Random& rand) {
+    int length = rand(128);
+    name.resize(length);
+    for (size_t i = 0; i < length; ++i) {
+        name[i] = char('a' + rand(26));
+    }
+    age = rand(100);
+}
+
+//------------------------------------------------------------------------------
+// Вывод параметров дерева в виде строки
+std::string tree::toString() const {
+    std::stringstream osst;
+    osst << "It is Tree: name = " << name << ", age = " << age
+         << ". hash = " << Hash() << "\n";
+    return osst.str();
 }
 
 //------------------------------------------------------------------------------
 // Вычисление хеша имени дерева
-double Hash(tree &t) {
+double tree::Hash() const {
     int vowel_count = 0;
-    for(char c : t.name) {
+    for(char c : name) {
         if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
             vowel_count++;
         if (c == 'A' || c == 'B' || c == 'I' || c == 'O' || c == 'U')
             vowel_count++;
     }
-    return (double)vowel_count / (double)strlen(t.name);
+    return (double)vowel_count / (double)name.size();
 }

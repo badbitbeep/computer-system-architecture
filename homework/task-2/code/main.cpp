@@ -4,7 +4,6 @@
 //------------------------------------------------------------------------------
 
 #include <iostream>
-#include <fstream>
 #include <cstdlib> // для функций rand() и srand()
 #include <ctime>   // для функции time()
 #include <cstring>
@@ -36,7 +35,6 @@ int main(int argc, char* argv[]) {
 
     std::cout << "Start\n";
     container c;
-    Init(c);
 
     if (!strcmp(argv[1], "-f")) {
         std::ifstream ifst(argv[2]);
@@ -44,7 +42,7 @@ int main(int argc, char* argv[]) {
             std::cout << "cannot open file: " << argv[2] << std::endl;
             return 1;
         }
-        In(c, ifst);
+        c = container(ifst);
     }
     else if (!strcmp(argv[1], "-n")) {
         auto size = atoi(argv[2]);
@@ -57,7 +55,7 @@ int main(int argc, char* argv[]) {
         // системные часы в качестве инициализатора
         srand(static_cast<unsigned int>(time(0)));
         // Заполнение контейнера генератором случайных чисел
-        InRnd(c, size);
+        c = container(Random(), size);
     }
     else {
         errMessage2();
@@ -67,17 +65,16 @@ int main(int argc, char* argv[]) {
     // Вывод содержимого контейнера в файл
     std::ofstream ofst1(argv[3]);
     ofst1 << "Filled container:\n";
-    Out(c, ofst1);
+    ofst1 << c.toString();
     ofst1.close();
 
     // The 2nd part of task
-    sort(c);
+    c.sort();
     std::ofstream ofst2(argv[4]);
     ofst2 << "Sorted container:\n";
-    Out(c, ofst2);
+    ofst2 << c.toString();
     ofst2.close();
 
-    Clear(c);
     std::cout << "Stop\n";
     return 0;
 }

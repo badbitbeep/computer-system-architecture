@@ -13,7 +13,7 @@ void Init(container &c) {
 //------------------------------------------------------------------------------
 // Очистка контейнера от элементов (освобождение памяти)
 void Clear(container &c) {
-    for (int i = 0; i < c.len; i++) {
+    for(int i = 0; i < c.len; i++) {
         delete c.cont[i];
     }
     c.len = 0;
@@ -21,9 +21,9 @@ void Clear(container &c) {
 
 //------------------------------------------------------------------------------
 // Ввод содержимого контейнера из указанного потока
-void In(container &c, std::ifstream &ifst) {
-    while (!ifst.eof()) {
-        if ((c.cont[c.len] = In(ifst)) != 0) {
+void In(container &c, ifstream &ifst) {
+    while(!ifst.eof()) {
+        if((c.cont[c.len] = In(ifst)) != 0) {
             c.len++;
         }
     }
@@ -32,8 +32,8 @@ void In(container &c, std::ifstream &ifst) {
 //------------------------------------------------------------------------------
 // Случайный ввод содержимого контейнера
 void InRnd(container &c, int size) {
-    while (c.len < size) {
-        if ((c.cont[c.len] = InRnd()) != nullptr) {
+    while(c.len < size) {
+        if((c.cont[c.len] = InRnd()) != nullptr) {
             c.len++;
         }
     }
@@ -41,28 +41,20 @@ void InRnd(container &c, int size) {
 
 //------------------------------------------------------------------------------
 // Вывод содержимого контейнера в указанный поток
-void Out(container &c, std::ofstream &ofst) {
-    ofst << "Container contains " << c.len << " elements.\n";
-    for (int i = 0; i < c.len; i++) {
+void Out(container &c, ofstream &ofst) {
+    ofst << "Container contains " << c.len << " elements." << endl;
+    for(int i = 0; i < c.len; i++) {
         ofst << i << ": ";
         Out(*(c.cont[i]), ofst);
     }
 }
 
-// Сортировка контейнера методом Straight Selection
-void sort(container &c) {
-    int i = 0, j, k;
-    plant *temp;
-    while (i < c.len) {
-        k = i;
-        for (j = i + 1; j < c.len; j++) {
-            if (Hash(*c.cont[j]) < Hash(*c.cont[k])) {
-                k = j;
-            }
-        }
-        temp = c.cont[i];
-        c.cont[i] = c.cont[k];
-        c.cont[k] = temp;
-        i++;
+//------------------------------------------------------------------------------
+// Вычисление суммы периметров всех фигур в контейнере
+double PerimeterSum(container &c) {
+    double sum = 0.0;
+    for(int i = 0; i < c.len; i++) {
+        sum += Perimeter(*(c.cont[i]));
     }
+    return sum;
 }
