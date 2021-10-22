@@ -1,0 +1,5 @@
+Sorted container:
+Container contains 3 elements.
+0: It is Bush: name = berry, bloom month = october. hash = 0.2
+1: It is Bush: name = herb, bloom month = september. hash = 0.25
+2: It is Tree: name = oak, age = 1. hash = 0.666667
