@@ -1,0 +1,1002 @@
+Sorted container:
+Container contains 1000 elements.
+0: It is Tree: name = v, age = 69. hash = 0.0
+1: It is Flower: name = ygpvl, flower type = home. hash = 0.0
+2: It is Flower: name = wr, flower type = home. hash = 0.0
+3: It is Tree: name = l, age = 15. hash = 0.0
+4: It is Flower: name = kzmycgjzn, flower type = wild. hash = 0.0
+5: It is Tree: name = s, age = 33. hash = 0.0
+6: It is Tree: name = gsctybjnzqmxkwdvrmz, age = 100. hash = 0.0
+7: It is Flower: name = pl, flower type = wild. hash = 0.0
+8: It is Tree: name = d, age = 67. hash = 0.0
+9: It is Flower: name = gpwrp, flower type = home. hash = 0.0
+10: It is Flower: name = qw, flower type = garden. hash = 0.0
+11: It is Flower: name = lp, flower type = wild. hash = 0.0
+12: It is Tree: name = zmgyldlzqdg, age = 46. hash = 0.0
+13: It is Tree: name = k, age = 50. hash = 0.0
+14: It is Bush: name = pb, bloom month = november. hash = 0.0
+15: It is Flower: name = zjpnlr, flower type = wild. hash = 0.0
+16: It is Bush: name = qnrdvyjx, bloom month = october. hash = 0.0
+17: It is Bush: name = zgyqx, bloom month = june. hash = 0.0
+18: It is Tree: name = f, age = 59. hash = 0.0
+19: It is Flower: name = qjmw, flower type = home. hash = 0.0
+20: It is Bush: name = tdd, bloom month = february. hash = 0.0
+21: It is Flower: name = mp, flower type = wild. hash = 0.0
+22: It is Flower: name = xsytcvvgy, flower type = wild. hash = 0.0
+23: It is Flower: name = bbpxvcyl, flower type = garden. hash = 0.0
+24: It is Tree: name = gpccwdsnt, age = 100. hash = 0.0
+25: It is Bush: name = yvptjqfbzbpjzkthrbn, bloom month = may. hash = 0.0
+26: It is Flower: name = rfk, flower type = wild. hash = 0.0
+27: It is Bush: name = wjm, bloom month = february. hash = 0.0
+28: It is Tree: name = dyhwccpy, age = 69. hash = 0.0
+29: It is Tree: name = v, age = 86. hash = 0.0
+30: It is Flower: name = gtf, flower type = wild. hash = 0.0
+31: It is Tree: name = hffdbk, age = 87. hash = 0.0
+32: It is Bush: name = ddppttwpzwjxtzbcdxrwwqbbj, bloom month = january. hash = 0.0
+33: It is Tree: name = ltzhivzdtysccvpvbxnbwmzxryvmbgbvbhnclv, age = 19. hash = 0.02631578947368421
+34: It is Tree: name = ncvljryjdyxcyjhyxrbmhdjpsko, age = 3. hash = 0.037037037037037035
+35: It is Flower: name = qwtroldhllysjfxldxxbgbvyt, flower type = home. hash = 0.04
+36: It is Flower: name = gfquhkknzdskpzwycxwtmz, flower type = home. hash = 0.045454545454545456
+37: It is Flower: name = ycrizwxbqqkwcptttmcpq, flower type = garden. hash = 0.047619047619047616
+38: It is Bush: name = cqwbtycssfnkvzrhfttjnzuunxkescmzvrgnqvrdkmnbycrptjkgtsyb, bloom month = august. hash = 0.05357142857142857
+39: It is Tree: name = ndvzhmslwdjvxsbyem, age = 15. hash = 0.05555555555555555
+40: It is Tree: name = jfucqswqzhwqpshssg, age = 43. hash = 0.05555555555555555
+41: It is Flower: name = bdafgwmwkwxpdrrlp, flower type = wild. hash = 0.058823529411764705
+42: It is Flower: name = qfsjxsdflwxyhlhu, flower type = garden. hash = 0.0625
+43: It is Flower: name = slgnbdcstumwmvy, flower type = garden. hash = 0.06666666666666667
+44: It is Bush: name = pgrmnerzlcqdmsw, bloom month = october. hash = 0.06666666666666667
+45: It is Flower: name = dxybrjqtrrnpzxbwyjgquzbnhcrrra, flower type = wild. hash = 0.06666666666666667
+46: It is Tree: name = fccomdcrxmanzmtnfvvtccmmlrfgc, age = 43. hash = 0.06896551724137931
+47: It is Bush: name = pbjttrnkvaddcx, bloom month = july. hash = 0.07142857142857142
+48: It is Flower: name = fxsghbcbcqkwmfpngveldvjbdep, flower type = home. hash = 0.07407407407407407
+49: It is Bush: name = dzxjlrnnhmtvtsrpobgtwjbpfiykkjbyymchzunq, bloom month = february. hash = 0.075
+50: It is Tree: name = enzzcxgyknqsk, age = 86. hash = 0.07692307692307693
+51: It is Tree: name = ywilrxtztfttr, age = 69. hash = 0.07692307692307693
+52: It is Flower: name = qcuqxqmdbvywq, flower type = wild. hash = 0.07692307692307693
+53: It is Bush: name = xlltvtelygzrfocpwqqczqkpllbnhwndqvcyyvqyxguftrahzq, bloom month = december. hash = 0.08
+54: It is Bush: name = gmlqqvxlxdyalngqpwppebwdwhsxskqdxgqxejcrvcfpgdczkxkpsqgzpsavlxebhtstikvknawtgvkqwcbvlbj, bloom month = december. hash = 0.08045977011494253
+55: It is Bush: name = kbeyvzccgvfchwklvubzwksg, bloom month = march. hash = 0.08333333333333333
+56: It is Tree: name = freollwlwdykpnbrcxjwjszx, age = 43. hash = 0.08333333333333333
+57: It is Tree: name = mugwnyzlqzjy, age = 28. hash = 0.08333333333333333
+58: It is Bush: name = hlmlzfxjgmce, bloom month = july. hash = 0.08333333333333333
+59: It is Flower: name = bvwxkjatshhqqpwmkbrqwqldcyoamwwantljzgvjpxhgowvvnlksyjxtylcftpzatqhjkykchgaqmxzmkpqckdypcwxsihktbfacdypszdldpphbgzclubf, flower type = garden. hash = 0.08403361344537816
+60: It is Bush: name = byqhyxpjvdozmdbyftqtbxxqqgwjqlnlxlrkzrycxkasolwbhhbjemvquldjvryvlavgrtb, bloom month = october. hash = 0.08450704225352113
+61: It is Flower: name = lzzibbggrlbbcmslrmynwpfltlscsgrociqcafdarqmxvxpwkcynwzyzvxjcgrksmupcs, flower type = garden. hash = 0.08695652173913043
+62: It is Flower: name = jhajywtvumqyxwtqqknkpspnhncupzxjyd, flower type = wild. hash = 0.08823529411764706
+63: It is Tree: name = bxkeyctcaxdcdfmgzjqllwrrcipwcrxtdq, age = 36. hash = 0.08823529411764706
+64: It is Tree: name = ruwysffrskgwpictkxrixhhrcmikdtfcfsjztlzxjbjstlkhbifyhxbmxbqhmbznnlyjqjflnqgdaipwthuwhccylzegktmrqnnndetjfgyldfhxxwmzybfkigt, age = 72. hash = 0.08943089430894309
+65: It is Tree: name = tpcnlnxnbxi, age = 49. hash = 0.09090909090909091
+66: It is Bush: name = yvywudjjdlh, bloom month = december. hash = 0.09090909090909091
+67: It is Bush: name = ejjlcbbwqtw, bloom month = april. hash = 0.09090909090909091
+68: It is Bush: name = qizpccbxnzv, bloom month = october. hash = 0.09090909090909091
+69: It is Bush: name = vrslhnzzvkmdylssakltcjnigjhzkhddqlabnvwzbwi, bloom month = october. hash = 0.09302325581395349
+70: It is Bush: name = giwjfnbnwehpjlbppjyttqlvreplkhh, bloom month = october. hash = 0.0967741935483871
+71: It is Flower: name = hxrkqdffktrhooqbbwogqfhrgpdnmxufgvbzdpswwxrnhvfclcggnaqyywhbjzgziwqmhqqxsayufyrbzf, flower type = home. hash = 0.0975609756097561
+72: It is Tree: name = esjlbsvwgsofgbrhtjpfshzjqvwfxxkydlxrynnexkkxvnoqlyphycbqxhclqgjzqhiebi, age = 67. hash = 0.1
+73: It is Tree: name = mwgxnrnssxybgmplwrogympknsiezm, age = 15. hash = 0.1
+74: It is Bush: name = yrlpsujnxz, bloom month = november. hash = 0.1
+75: It is Bush: name = stawkeazpvyrcbmqrcnhphthlcvzhcfhdljzsoqnsjpnfgrrmffogyytzzka, bloom month = august. hash = 0.1
+76: It is Bush: name = mptstnfohz, bloom month = april. hash = 0.1
+77: It is Bush: name = bpumlhypqw, bloom month = march. hash = 0.1
+78: It is Flower: name = tvkgusfvgnxajstvppnb, flower type = wild. hash = 0.1
+79: It is Flower: name = dpyafcrwqb, flower type = home. hash = 0.1
+80: It is Bush: name = lcogsedgxrhtqtujskpthzbtfihrlcctlrbstrfj, bloom month = november. hash = 0.1
+81: It is Bush: name = flownzbrhezxysdntxzqvpnplgrtfsumwhojrdczvoapdvuwwfhqcjgpssfdlgmnlftrkjcghtxberkykicgqcgpdt, bloom month = march. hash = 0.1
+82: It is Tree: name = pclgklkaxcrgdlqkowbx, age = 46. hash = 0.1
+83: It is Bush: name = jlcwezjsefvjtojlzxwqpnjzjsfhbcmljckhljznasrsubfzhrhmfymqtbbxswmcikibzabfpopdxnxlrzqzzozzrffjkugbrzdvgrfpbct, bloom month = january. hash = 0.102803738317757
+84: It is Bush: name = qzmlbsfzdzfwncyvqjkrfvlwfrbokywlotxzzcbkkzkelzgppzwzsgkvprwxwimecjxjcrerxufplvborfehfpjpfvaxkbjipcysgfpqftdjmyqwbhsqjteprfcoct, bloom month = november. hash = 0.10317460317460317
+85: It is Bush: name = qhyeojmnvryxnckkviitbhldrpffetrhnjkqkwyztredwlohtlfnwyjlxvmnlkhldkrpmfangwmvkjopyvnwtxt, bloom month = may. hash = 0.10344827586206896
+86: It is Tree: name = zbaknxsflzxtmzbpzbcmhwizpuxkx, age = 8. hash = 0.10344827586206896
+87: It is Bush: name = rhylklztaugrtozlwcrvsmxwztdufqzqrhdawnscbypqxntmwctzqdterkpojevghbyyytdxrbxcpcqjchsoexpsbytjhvdmpihyrbqywsykqdgjyhop, bloom month = july. hash = 0.10344827586206896
+88: It is Tree: name = jcswkynipwhvhtvohpilrssmftvcklnddwwodutsrldwxwhtltfwreztjqfhpxqweqt, age = 53. hash = 0.1044776119402985
+89: It is Bush: name = dnhdpndcyrcvpvgqfqwnaxwijffvvfqitopbnsdqwelgybjcyvjpfzqmbxvcrtycflfdclucibah, bloom month = may. hash = 0.10526315789473684
+90: It is Flower: name = xzdqtbcvbpmpvnjdxlwjwztkxhehywjvledifbszxxretbmmbdacgdhijairpnyhqyfpbvsxcshs, flower type = garden. hash = 0.10526315789473684
+91: It is Flower: name = ndgmcvfwhkuyjzrjhbpasgoybavpzlqflddjdaafrvdcyutxdjrftcktgnkbmpdqffsbfstfbtvktqdfsbsclbxxpuqkznlvybnxuxuo, flower type = home. hash = 0.10576923076923077
+92: It is Flower: name = ttkwvqgtosfdbshjzquqxyuwypdqbxzswvolmulupmrkmwybnpsfyfzygqjzwjmked, flower type = garden. hash = 0.10606060606060606
+93: It is Flower: name = hbquxtqpfbksxdqgiwqtkscmvdmvsvkvitczxghhoyzpbpfczzfdfwetnzxrnjgpjanogvvlrkdjhwsgxxpaqrvydewwet, flower type = garden. hash = 0.10638297872340426
+94: It is Bush: name = xcnlccvxhksstqnhfcfsitlvvulpstpvsrsjkwksaxfgbzkiqkabvvputgwixftnvpbswybzsir, bloom month = february. hash = 0.10666666666666667
+95: It is Flower: name = ltmqsqdpopsyycbcmyzsnnpbwzsrfinwukzsjfofcbycyzewylidwfyn, flower type = wild. hash = 0.10714285714285714
+96: It is Flower: name = xhnknhnawvpwmqmpesynxpbxskibalvkwrpcj, flower type = wild. hash = 0.10810810810810811
+97: It is Tree: name = sgyxtjtjtcrplxtdpfqjnwtwvxemnpkkqobbikzgntomlpjkudqlmal, age = 85. hash = 0.10909090909090909
+98: It is Flower: name = qiccbzynm, flower type = garden. hash = 0.1111111111111111
+99: It is Tree: name = uprpzgwnf, age = 57. hash = 0.1111111111111111
+100: It is Tree: name = tdfebasmzrlhbvsgkbvhxpavgcf, age = 89. hash = 0.1111111111111111
+101: It is Tree: name = ggdknsufbrinnqllofttzhfjynhbqawvsfctlktgxzlqabjvoezkqqxcbhtyndw, age = 15. hash = 0.1111111111111111
+102: It is Flower: name = gdndghmsdtggmbclftfapmwkfmdehvabcrsjbuoyldnbyjidnsubtbzdpivwkcbmjyhkyuldtplnrcrdf, flower type = garden. hash = 0.1111111111111111
+103: It is Flower: name = xzrytlzcfbhxitfatg, flower type = garden. hash = 0.1111111111111111
+104: It is Tree: name = fperzdobkjyzhvpgmxkcghmgsfztorzretscdxvgrcah, age = 32. hash = 0.11363636363636363
+105: It is Bush: name = ibbbgsqbltwubkhcwhwpdegkmztnmhplgeadsvortjkgkbsamrfsrbtsmyqxgyllzzdhbo, bloom month = december. hash = 0.11428571428571428
+106: It is Bush: name = nxvxugptopsyxrhdyxfacfggzofqmbxnjct, bloom month = november. hash = 0.11428571428571428
+107: It is Bush: name = jppocxsgplcgskaywxpqpdizhsnyfpdmcwu, bloom month = march. hash = 0.11428571428571428
+108: It is Tree: name = lppjyntsjxupmwrwwrqonrkkbjhcrflgoslghoanjqnwscxtttde, age = 22. hash = 0.11538461538461539
+109: It is Bush: name = vckgzvntsjpkhnwzvzldqrtpuysijnykanuzikfjthbolscrwpnkffdmycjnvpnwairhqxuxcwdfjg, bloom month = february. hash = 0.11538461538461539
+110: It is Tree: name = qkhgjrulzxgmprmjqdtxqzdupexoxpnydjfuauxsjimvtcxnhtzpefbspffnbcxdndfgvghdwywwkmkvgbznndnuxsgkecjvxxgfjgqfqceirxtj, age = 63. hash = 0.11607142857142858
+111: It is Flower: name = utvgimlzyqqsherxlremghcbvmmxqhgpjp, flower type = garden. hash = 0.11764705882352941
+112: It is Flower: name = njwipyiffowxjyxkcqyivqfnjbnvnymfyeyphddhxyacgzmtwsmlumvnayekheqsdtxfjwzwwvqfntggzvbgd, flower type = garden. hash = 0.11764705882352941
+113: It is Tree: name = mwbnzwgjczmyslxxkuxqzuawogbjghelprzahjpcbpdfvggeqjdmwggftgdfzajahvmbnqszgfmf, age = 37. hash = 0.11842105263157894
+114: It is Tree: name = lobojwiimnuwzgpjkxbjqqsshkhammkeqgjskwmdutvrkcxggpqvzbtmfzlubhdijpwgcgngvtxhbhpqyfyd, age = 91. hash = 0.11904761904761904
+115: It is Tree: name = udcvxgorsinmyfyqytzjrqnvdmhrrboeqqvwhokhcsxlfukximuqvwzbfykhstpjrpqxfcvxkagzbyqhwytv, age = 79. hash = 0.11904761904761904
+116: It is Flower: name = krzfnjpdglntnipgnzccrqqlleqfgmskrnqltdakxfqltgvowgbqozirmwnrsafimxybljvvomohvxyftrdecfwbjstsvljpkusaypgvyldyciybvbzdc, flower type = home. hash = 0.11965811965811966
+117: It is Tree: name = uwfyssnlbqxsmwybdbaltltze, age = 31. hash = 0.12
+118: It is Bush: name = klvxymkowfqpqcwmcdmvwgzwdbbxchrfbluhwruuugwrypowznkpvpovsvjrvtbdbwszunjvfow, bloom month = december. hash = 0.12
+119: It is Flower: name = hsdejjcwvsilrppannjmfskcgcpknhkof, flower type = wild. hash = 0.12121212121212122
+120: It is Tree: name = zyuyxiyflkbrkpxhgptfrkpjmdnaisfhpedsdtksq, age = 56. hash = 0.12195121951219512
+121: It is Tree: name = xpzrikqvzwwvivehitwntkvcmppcfthhffynrnhukwxuxqjpt, age = 62. hash = 0.12244897959183673
+122: It is Flower: name = ovzhgaskcmhkgqlqvklgpqlhtlakhdshfsejmjayujmbfclusxwjtfnrm, flower type = garden. hash = 0.12280701754385964
+123: It is Tree: name = qsepcmtsrxvhwtqpkztnlgedrrsluwlubdudganbqjiexdbxfflxmkyymsgchfbovlzngckuwqqtqlomnymmnsjbeyskvnqgyqvsgzdnfadtomyjkv, age = 63. hash = 0.12280701754385964
+124: It is Bush: name = wpqaymyzbebzalmfucxhbhzgfxmgvhfscpyklfafmvydycxlafvhiwbmj, bloom month = august. hash = 0.12280701754385964
+125: It is Tree: name = lrwsywtkqebjqdrjwcileiadqjgfsrygqmbnhylqssjjwqafrrqgrjzlephmzgqiurcfplbmq, age = 4. hash = 0.1232876712328767
+126: It is Tree: name = rwjkacywlptpcdmdzosgmibqkzyqstnskxqcexeclwnhtdqlzzxbdnrqhuwgkzdsphtdkhebafczetlobntlwdymnphgsgfkasarndjldyzgnoprwtaucntsg, age = 38. hash = 0.12396694214876033
+127: It is Tree: name = dnzstrupkpbkyuskpxvotlsknmodvivqnncysoxxpwcdmqpdktaqvkms, age = 1. hash = 0.125
+128: It is Bush: name = qxgmsadwedydjhkr, bloom month = january. hash = 0.125
+129: It is Tree: name = qdtampwb, age = 84. hash = 0.125
+130: It is Flower: name = burxpmpjslqflpjhjqcnbqrwdyrdhvsqerelnjnpggkyvgmrzzyzgtfsgowarlvasizjrocxgajydryuqzmmuvyvdyqevzvh, flower type = garden. hash = 0.125
+131: It is Flower: name = nkrtdzsretlxnpckmbmdfojtwmzwewgvrsfottwfngipwlru, flower type = wild. hash = 0.125
+132: It is Tree: name = cbxglhjguryvhctdvyjjoiaffvtjplbb, age = 32. hash = 0.125
+133: It is Bush: name = gqewgtmvyzbshnmbaontezvbbwhytnml, bloom month = december. hash = 0.125
+134: It is Flower: name = vxvfeuzckxpyqchcpkxcgrcxdebiiyzlvxmsgenbknjpmpycbpqxbakeskqffkejoykjmrrxpvhrcnhsqtldgreoqgmtxnrvqdxgyqux, flower type = home. hash = 0.125
+135: It is Flower: name = xglmznro, flower type = wild. hash = 0.125
+136: It is Flower: name = ccichjehlbqpdolwbdwixbrkohvjbqhmpkzxclignavmdgqvdycsthdzvwglcwaapfpsjpzr, flower type = home. hash = 0.125
+137: It is Tree: name = ajtdnfmmchibnzfv, age = 8. hash = 0.125
+138: It is Bush: name = wjlbxjsu, bloom month = august. hash = 0.125
+139: It is Flower: name = pksszhildafdgytfwiiukrvkinzzjuypchqmhwtrybzkzybtdamzgsobtzivfbgzwgppwfnvfzbdwfw, flower type = wild. hash = 0.12658227848101267
+140: It is Flower: name = bmsnchapbkmpwdugujztxhllzicxdskrlzfmhwdjasxynaaphxvztmmssertcxonbglhvhkwbygwlitasnviziizynkrljhlguytenhggfzgzlvtzpgyygqgyzvdpc, flower type = wild. hash = 0.12698412698412698
+141: It is Tree: name = xmbdiqhizrxzlnnvnqsvofcrkhnowqsthnvjjolymqztozq, age = 5. hash = 0.1276595744680851
+142: It is Tree: name = jmiohoebbfbsjhvqjtmgcklnzumkgvwtvtgmdwjlelbzjbx, age = 34. hash = 0.1276595744680851
+143: It is Tree: name = ehpgtxfyaysswntavzvhrxflapidkyzxxdtknmwnuqqghgb, age = 66. hash = 0.1276595744680851
+144: It is Tree: name = sbpersgzuoyzskyswgybjxgxjbchdpzckgfxujrjoppwsmyguqzmhgpyprcpgzumlqfejrfizsixjb, age = 62. hash = 0.1282051282051282
+145: It is Bush: name = cbgqbgbgtcbukfptcqaycwhmhvmomme, bloom month = september. hash = 0.12903225806451613
+146: It is Tree: name = wscwbsflvytsicftcakbabbrntjhzor, age = 89. hash = 0.12903225806451613
+147: It is Flower: name = jzhbkuborhwoipuwhbtwltguqqhsdnxnvviuddxgzpnphhkqnwqxpxtcysmlvnbvvxxymnutnenwqfzdjfwfqguajdwlc, flower type = garden. hash = 0.12903225806451613
+148: It is Tree: name = zmiclmlscszknxfdwyrdpiurkgtotybrqxupfzwbedtxvvcqwjjuyqfjbdqynbbqcyvpbocvatiazifrhdkyfjuuvtqjrzvtyfkotxsybjgrzrjbyvkg, age = 75. hash = 0.12931034482758622
+149: It is Bush: name = dohgvvhphjjbzbfqhvaxqzteflkapkgylaoznpjjbwmlebjtmtukvyznydhryfnwxuqralqcdkfbtbzmelgrw, bloom month = february. hash = 0.12941176470588237
+150: It is Bush: name = ujzrbmexdpgrctppflpjbjhmnjrqtkhmcdkyvxxzvjlrciogfsudrcebitrnnqkwddqvmxxtrxxmyyiumdjdumtjhmrnsumaxsox, bloom month = november. hash = 0.13
+151: It is Tree: name = krrrgtrqqwqlpiiknblbkqu, age = 25. hash = 0.13043478260869565
+152: It is Tree: name = pdlqqhbhnpqpbjozjphbouv, age = 87. hash = 0.13043478260869565
+153: It is Bush: name = tcdjvlrzgvpxawfhahmkzjcnixavukazrughbitmevrhiqqrwtwqvcxrwvswkebhzqrjbgnmgjdqwjkjvmjosbbgqyfr, bloom month = september. hash = 0.13043478260869565
+154: It is Bush: name = dmgjpemxcvtzkmxpvohxnusqvmjvpfuwiijkxktiwtolmlknhshhsmstrznqtcmdzrrudxccfumgkkttiwwn, bloom month = march. hash = 0.13095238095238096
+155: It is Tree: name = ndeunlbexlfvdkcckwxdtnykbobslcqunwoqnrygmvgwpphhaonrcxyxjcxgr, age = 86. hash = 0.13114754098360656
+156: It is Bush: name = ldlegdsjqzmbubwtezvsgxoqmcjzpksxxvycyrdmswysusdhcpijimctxggbqdswesmpgkggeikwwfojedhvsmpvotgnpnxpwhx, bloom month = october. hash = 0.13131313131313133
+157: It is Flower: name = wnklrsvtcviwyvcebrszdzcxggzbenvgodagml, flower type = garden. hash = 0.13157894736842105
+158: It is Bush: name = jwxvoxkxqdfinfbjgfhmyrrzfzadjzfyrnnpkcmgyfrrovklmymfbdsudpddmeulvahwxdddixzwquqghvturllaslkenzfnzmwmcyawbetfvwmcfx, bloom month = march. hash = 0.13157894736842105
+159: It is Bush: name = drnlgouvhpglrhjcnnlxcewicjnnilkpwqvfkf, bloom month = december. hash = 0.13157894736842105
+160: It is Flower: name = dcnpvpugxkwjzblktknnriwpdqseryklopbacm, flower type = garden. hash = 0.13157894736842105
+161: It is Tree: name = dlbpigbfgnafpskdelybnlzvstgnoxnacljybj, age = 55. hash = 0.13157894736842105
+162: It is Bush: name = ucjvcqcwjfmnrnzpcaqjdzvsdzabek, bloom month = june. hash = 0.13333333333333333
+163: It is Bush: name = wrzrxxgcmhutukovpvqxzlpwnmbmhvpktcggrghsyhqhurqbnsmhsilkpnxzbgkbixoewerrwli, bloom month = september. hash = 0.13333333333333333
+164: It is Tree: name = xzudhtwgxtrobdejbrstdypodjnpnw, age = 62. hash = 0.13333333333333333
+165: It is Bush: name = ugoxsffyvkblbdjnycjluecymfdyxkdolkhspznumlngedvbfwlbozsczvrizydbcyggypwrkjriwqlrqfovlzycgmumaslbkllbjsblutvcevdn, bloom month = august. hash = 0.13392857142857142
+166: It is Tree: name = ksummijhmxhrylasnweylczdhjuopcprtrnzcxwwfhmlntyhqqvbfbhdmtfelmfyebotdjprotlctjflfe, age = 8. hash = 0.13414634146341464
+167: It is Bush: name = oypcmxfwvvnmzsjajtphsyfbgtplkprjbavnshxywasdrtjsmjjuaxpfhonjniunhmb, bloom month = december. hash = 0.13432835820895522
+168: It is Tree: name = kvaxvzvvwnhfvqnxkqlpiuokosvdkltmrjzxurkzfrzrgapxwwbxygxdsjegmfqtqfrffyleneicvlwzxjxknocbp, age = 21. hash = 0.1348314606741573
+169: It is Tree: name = bvjdqqqycbpkhnsleaxbrlvdtotzojcocbgfv, age = 49. hash = 0.13513513513513514
+170: It is Tree: name = zphwfveuzchvxfexykthvxiiedrxdisbwloftsklnoksphuqqwfbmwdisypkylwhzcrcvjrrtcmlhcmwq, age = 12. hash = 0.13580246913580246
+171: It is Flower: name = wmnllugtlddcyjnwdulqjvcrcedicftwfypitlbotqfzjalpnnwggfgkxtjmvabhxpwxpdsuwgyhnzcjouwvhcaj, flower type = home. hash = 0.13636363636363635
+172: It is Bush: name = grarsmnltrfftqpxmmkovi, bloom month = september. hash = 0.13636363636363635
+173: It is Bush: name = jmimhjuarrbqgkczstqshh, bloom month = january. hash = 0.13636363636363635
+174: It is Tree: name = opmvkrrexziytburkfqdvucxrvlrkfwdvqcreyskunxpsrcyptx, age = 63. hash = 0.13725490196078433
+175: It is Bush: name = nadjeqhdahzggeozkxwlvwcplsjsfxnmhkkrcocnfbqhzmzhbdcxkyuqmwqryxhuotatcalctmzgqlxpzdysyqe, bloom month = november. hash = 0.13793103448275862
+176: It is Tree: name = yjovskibmshpodnxwhqgmwpoedjiabvgdwfhqwahkhndmrfvlhvkrgzbsaylchmzchdjsgizefpwzflkmmlfbgyvqifffyzhxaimb, age = 67. hash = 0.13861386138613863
+177: It is Flower: name = tzwcxrnbgylcckmmdscgtzvslptsnyzmzsckikkglvrapihuckvitbfesqnfbnghfhwbkpgjnpenbimafhhzdghlsjhiaqothcame, flower type = home. hash = 0.13861386138613863
+178: It is Tree: name = wbfepqeweyvcpzesdyqxtzpobfcpbszrfszb, age = 76. hash = 0.1388888888888889
+179: It is Flower: name = nsvzvjgbvxhguukjlgsgyuhwluxgbqzpqfzfihhealvmkwgpgckltzphqgcxjrjdcpkqmtohoianlvp, flower type = garden. hash = 0.13924050632911392
+180: It is Flower: name = xhkyeetxprjrfcdhxgrgeotijyuijqfbfmssccpcewdkkdqkjebsfqdmdqcsllpvxykdaprhtgegtfl, flower type = wild. hash = 0.13924050632911392
+181: It is Tree: name = jtqtxhqjlfuahtkpzmfclyrjboattglgrwslxhzszatutnzjrkeafwzllpqgeltrkfnducphitiexqvvhplpxxyqvdlwdznmtfmqhasnmytmvakwkswuggoppw, age = 70. hash = 0.13934426229508196
+182: It is Bush: name = gwonzmcvibvwkcxvcsorvcecfhprbmainxqnctyspwc, bloom month = november. hash = 0.13953488372093023
+183: It is Tree: name = mwgifjqhfvlngtjqxpfncejsnythtgnicbxmynuklcnkqrzbuvfsdglqzmvkashrofixcnhffaihuppghnvjtnuxidcjr, age = 9. hash = 0.13978494623655913
+184: It is Tree: name = muguwwssmriigdgnycqjcfvctzvvmmhqirmwgdjbpvtflsvmvrfiizmedhgtaguxhgbjkzrfkmziolqppgbbjsmvbqekdmerklfg, age = 70. hash = 0.14
+185: It is Flower: name = rgnblyccxhdejxyaxfpxfqasntvfwkprgtqfcychcrzduixnizegpblumvjjqefulstfsrivwxzssh, flower type = wild. hash = 0.14102564102564102
+186: It is Tree: name = rxfqpwatrugtbvhsetjxvuhwxrlgvbkpndxiveocvwnzxlggadyxgrwb, age = 19. hash = 0.14285714285714285
+187: It is Tree: name = ngncfsobniukxqydmgvzp, age = 54. hash = 0.14285714285714285
+188: It is Flower: name = fwiqmjw, flower type = wild. hash = 0.14285714285714285
+189: It is Flower: name = utmewdvtpwdkgm, flower type = wild. hash = 0.14285714285714285
+190: It is Flower: name = fmffwvuolkloartpvpfqxfwrojpbwsjkbjebdetdsuptfynrwqbfjmkg, flower type = home. hash = 0.14285714285714285
+191: It is Tree: name = eqmggvfkvtlttbjhoqluulazssutjfpiyndtwfjuzxeftwfjmmsngnfpdrlnityjwxfmizsbvrnjs, age = 34. hash = 0.14285714285714285
+192: It is Bush: name = yrxhgoq, bloom month = january. hash = 0.14285714285714285
+193: It is Tree: name = gheuqpsgjpyfhgmjacghwwlcwzkbklkjmfmoejxlbaqzjzqvdayigljb, age = 77. hash = 0.14285714285714285
+194: It is Flower: name = kbxlloz, flower type = home. hash = 0.14285714285714285
+195: It is Bush: name = ypvkhtmpdguedmdrfmenygdjrjugjfyskthhqwwjbanxsxuklpuypvrubtpvupbwevnlpnjmgdvqtprsfogrsfbualeaylrrpncztbaswjosgpxryspjwrk, bloom month = march. hash = 0.14285714285714285
+196: It is Tree: name = gglkexy, age = 3. hash = 0.14285714285714285
+197: It is Bush: name = gtlxabopqybqzf, bloom month = august. hash = 0.14285714285714285
+198: It is Flower: name = zugifudqvvjkrmewwldpbctpfpatonhdrlosdsngtmsphdoxfnljxztytsmixftixsmgcc, flower type = home. hash = 0.14285714285714285
+199: It is Tree: name = uchznpc, age = 52. hash = 0.14285714285714285
+200: It is Tree: name = ceqrnjg, age = 23. hash = 0.14285714285714285
+201: It is Tree: name = guzmlbzzmqlcxzruqvfwrzzctuur, age = 67. hash = 0.14285714285714285
+202: It is Flower: name = zhjhzrwydursvtxxezwjtsqqjsympgdsutdufrwabkmvdqtuyjifsuqyluwldgtkhqpxfqdhbwfdczcdkwyoziegcxclsspxrkvzomira, flower type = wild. hash = 0.14285714285714285
+203: It is Tree: name = oyhhykjqryjqiw, age = 40. hash = 0.14285714285714285
+204: It is Flower: name = wogcddtymysonv, flower type = garden. hash = 0.14285714285714285
+205: It is Bush: name = ljuszvhcywjrqfzigdbmkjfcfxxruuxqnvgetxdylmptovyzvcaqbgxqwkmjgjggltquehgsikveysrrhvtqcziemgnnmygret, bloom month = january. hash = 0.14285714285714285
+206: It is Tree: name = fhzxuqrszssyfsunqzkzbaqvnsguzaalmlcliokwhemqdjykwvcukqxcgoflvgofvcmlwsfnvqzzjlgqsphkigvsvikyzrjkv, age = 80. hash = 0.14432989690721648
+207: It is Bush: name = slkyzwlrvfhplsghmnhvhbfzhjvacdqlluawfmatjvtxbtdmiiruzqpmhgkwmivrptacrmirhxjrvezrebh, bloom month = december. hash = 0.14457831325301204
+208: It is Bush: name = yljrhbxhcakfkmijzccnesqlqrsxgqymfvsgfvutqgyzsyryvultjvgogpbwgmemcegbsxbnneomkibbiqv, bloom month = june. hash = 0.14457831325301204
+209: It is Flower: name = htzfuizkpnjtpqizsxtgllefqcpzkrpmectwkrfkfjxhgqnfeiyvaxnmgkjgzcalgrqarxmswmbo, flower type = wild. hash = 0.14473684210526316
+210: It is Tree: name = zayevcagrrccvpgafbrvahprmkncyqwdnwtaolabhvycnoblxhvrqbfrsxrbmnrwrvvmujvducdc, age = 42. hash = 0.14473684210526316
+211: It is Bush: name = yvcpzrezhapkydiuzldvbelxaxgjxnuwbjrajdxvxfeqwyflxqqskegwyhljcyyfdlwhp, bloom month = april. hash = 0.14492753623188406
+212: It is Bush: name = yqipszumnfoeznbfjlytotrpmgqywngqfncwriskbxmtlvsxosgqlwo, bloom month = march. hash = 0.14545454545454545
+213: It is Flower: name = zkonfhdbjanapmljggzcrdziomianwddvvzwblhrdmczlfgzyajtnqb, flower type = wild. hash = 0.14545454545454545
+214: It is Bush: name = bfwxydaszeqrfhbtmpympgpffbczkzuejevzdimswpnznczsofkunqs, bloom month = march. hash = 0.14545454545454545
+215: It is Flower: name = ukmhjtocrpymlzviofreckhkaquawudvlugwryplsyzimlktbqssgfyjqkenoohcgjrzjjyjkdxjcjvhtsvhjvqtrxsyslll, flower type = wild. hash = 0.14583333333333334
+216: It is Bush: name = dwthvqdncebjqynujnapjkrsprrpwbbhecvmqdwqxhwhwlryqyjosdwkdvardctgctetxshwevmeqcuapfpjdchiplldbnoanpfwrxmyyrmsunipoctd, bloom month = september. hash = 0.14655172413793102
+217: It is Flower: name = cklxkcleiixydbmsyxddjkqjzkrndjqsglwnhwhwhhegfccqnogfpqzyqxwkaduawlzfsmixrmfgbmdeuyxosgqdgqgfqgubtsnasgxilydef, flower type = wild. hash = 0.14678899082568808
+218: It is Flower: name = dqlgwcqbirlvvgsdgqpsaokvaavpjtttxp, flower type = home. hash = 0.14705882352941177
+219: It is Tree: name = onzwhgfeqvwdwilpjheklkqpngolsakkbqkjbgpfukvwancozcfmxbtltysqfnecpykz, age = 86. hash = 0.14705882352941177
+220: It is Tree: name = ptwrisdzmvvfehybqtxazbpqypvffgfijdptvnpwywoztzgxqcfyqnlnvvbluszimtktrnjpiozpdpcvpznjqgazucukpezihfrgisddmawgxmnapumhhvwcwq, age = 35. hash = 0.14754098360655737
+221: It is Bush: name = tkpolijelemdnjhvynzgqsbvnpn, bloom month = june. hash = 0.14814814814814814
+222: It is Tree: name = hvkpoqmllomympnukjkytompmkw, age = 10. hash = 0.14814814814814814
+223: It is Tree: name = kqviwooxlfigvltvdgcostfqwqfpclmttrdknrshneovrdnhewihcqmnobgcbuehlhiqhqzvqvomdgdctwglvclvrpycmomrlkfgg, age = 42. hash = 0.1485148514851485
+224: It is Flower: name = sgncitxjrdbrmemvinvbdgurfmweifdyzdzaqrdaldoyylqvzagdxleudvdtflrctsdqjxmiylhhrynxqlylgmjfbclolvazwkjpz, flower type = garden. hash = 0.1485148514851485
+225: It is Tree: name = tqpnjwievarsspfccifkubcgmheqceyojyitgoaqcnsgpfjbmnwnjpsfxjtvpjgyqpxwpfjgmm, age = 43. hash = 0.14864864864864866
+226: It is Tree: name = hdemjsvzvecieewrdofsiamlqljvbbyrvdwfmvxdgflqmwagpiwhngpipgfgxdwvlwehimhijgnfvvcjcmwggyepvqkgdkhhsctgactdxhyhyhyrvsqksfaex, age = 59. hash = 0.1487603305785124
+227: It is Flower: name = krhryuegvqnywdkdsksuwdziqlgrmpqhevqtmjwqveeqfdk, flower type = home. hash = 0.14893617021276595
+228: It is Flower: name = ppxfnewhnyvhymvufbqnsojrbzbntngnaufrdmfmamhhbntooszhwcgvujkxzqfrytdkfohzstxwhpaxxtxqqieygctjmo, flower type = garden. hash = 0.14893617021276595
+229: It is Tree: name = almagbtmvkndlefbwlss, age = 43. hash = 0.15
+230: It is Bush: name = bvhunkulwmjqnduwzkbpeaawkgyxmgzxybllwxwq, bloom month = may. hash = 0.15
+231: It is Tree: name = nophznvsyewsqkpguvgdjzvzpogyviqrpyajhnpw, age = 99. hash = 0.15
+232: It is Flower: name = rvrwlbdzoesgklcpobhjhyfwmjfasoheknvvhshg, flower type = wild. hash = 0.15
+233: It is Tree: name = lywcfjhdmzjmflgzpffkupzhnhoiinrlrdahlnrhlzlbmfckwuhsxsklaodwktqdbxwimynlkdozorgwjquuekypxfwwx, age = 46. hash = 0.15053763440860216
+234: It is Tree: name = utoakirggfznbyprqndjskjkkktoghelikcwzgmbkllwecyhzffoxzkaxglddvdswpkznqxja, age = 74. hash = 0.1506849315068493
+235: It is Bush: name = tkwknsdwxyvfxwrzoxqnbcacrvvptalfacnueiibhkfxfqprnptqbwjtpdkwpcvloidleprts, bloom month = october. hash = 0.1506849315068493
+236: It is Bush: name = zyrcanfykpbbwqtsjwbtetjqfcyepjnacvtdrofadcwwlegscahmm, bloom month = july. hash = 0.1509433962264151
+237: It is Tree: name = qwjwbyrnpchyzizjbghjlideeukpziqxafcknsvzphqwdyjxurtds, age = 69. hash = 0.1509433962264151
+238: It is Flower: name = htmudamvpqkgxvhseqtxvdlbklwklatcdyakscydxcxowbijrmekpjpdmpihjuyzbnphgnmkdrmykwmbntoyupwmokmymbirpzzcgewlgjmtaqtwnexbezs, flower type = garden. hash = 0.15126050420168066
+239: It is Flower: name = xidaolxplccbqpcgalakmvudpfcwemffehspjmzwyxglxacqesvybzqcwkavqdfjajgstllazbkzmzwlmmgyzadjpsklqtdipuxljkxhpthmggfsaxvhotq, flower type = home. hash = 0.15126050420168066
+240: It is Tree: name = iqgggqomifkmltmezdqdxkvuftdmgtyjw, age = 10. hash = 0.15151515151515152
+241: It is Bush: name = hzbkggrzqsmbgcowlmurnfwcsoaczerhgbrslxasomjonfuqbdzpydkrpkfwvmyurkdsfsqfrxhrwtdxhqbjaszhfyscyijqezujhdsgejawqyje, bloom month = april. hash = 0.15178571428571427
+242: It is Bush: name = jpmmdkxkmejaicdqupdqnwfpwqpfgrfvhdvhesfpupgtso, bloom month = may. hash = 0.15217391304347827
+243: It is Flower: name = dxfiswncbzfahrysntvgtcpwffqypxxqqwdutoxesepogh, flower type = garden. hash = 0.15217391304347827
+244: It is Tree: name = xlwzdswdvqzqrtfkokzidhzpyzitdlcxxavyurnxxufleqmpxpnygdlgzqoafcbepqxvslxnienkhumpllbxscmkzcvumqkjmtfyboeqf, age = 29. hash = 0.1523809523809524
+245: It is Tree: name = ghvmeqdfwmezfctwcknjcnfucpvvecjmglxxujvyxbquuqevmvnwdedjaclsspltetuqmykpxwwghkxdsipbnepwkdacqfwpsrcfbilkaqynqysslwqfzu, age = 30. hash = 0.15254237288135594
+246: It is Flower: name = idrfhdjdvyebczfzdukyksyldgbopmczihketkrrlnriwencqhpbrxymyuc, flower type = wild. hash = 0.15254237288135594
+247: It is Tree: name = dpgvzuyjkmegsjyydtijobfkohuhsmqkdwvlylzrkhqjbrnrrexkbobjqbqkjarwgzulagbw, age = 45. hash = 0.1527777777777778
+248: It is Tree: name = bktnbfchppdrnudznyqclucakwkohtyygsnwicfawjsitnpximkygtrrzmplibmgcqbdyhhtezyjlsbzbihgssnwrhrswvvezeqjaomdiinwkth, age = 58. hash = 0.15315315315315314
+249: It is Flower: name = gxaddqruldfdibpmhezksohftqmeovpgrufauxgxzlisxqhkbttmmaufsyqecjxmtzmlwgcplipfpnosxhbcldqtxrpfgpkfymgdmfkc, flower type = wild. hash = 0.15384615384615385
+250: It is Tree: name = dqpddoyvxigct, age = 44. hash = 0.15384615384615385
+251: It is Flower: name = kofhhjxcioqpmwshwrldttophjpddtekwmkriyttocvnpxjfucxx, flower type = home. hash = 0.15384615384615385
+252: It is Tree: name = vnwkctwguoyzcqbltguoduhdrzvswixpvydotzlgtfydcwdtfdsiyctwipgsvuznqebfvjwpetlqgp, age = 29. hash = 0.15384615384615385
+253: It is Bush: name = dvyuqxvvvgyuslfbnuedaspklnsjhbwgfzwelnn, bloom month = november. hash = 0.15384615384615385
+254: It is Flower: name = ktpgpdtvyoqqwhbniqzpbqetzusrlmmzuguclxzfyptwvpmoklji, flower type = garden. hash = 0.15384615384615385
+255: It is Flower: name = ckyeljyolctncatatxafdqwfyixewzmnbwsfdhwwzvfdgzirmbbybwdnivxrtihds, flower type = garden. hash = 0.15384615384615385
+256: It is Tree: name = bguckjblhnwpqbgbsviztlkknwpsflyjpyfvlpfjrkltkojfiskiyxhnaayzfwxtapcoyvhvwkockjobrwanaxfpikm, age = 66. hash = 0.15384615384615385
+257: It is Bush: name = yjvbnodewgricvarenmbapccqfpcuymbolnmabjstivtpfsfmngpdgdzkwwsfntqp, bloom month = december. hash = 0.15384615384615385
+258: It is Bush: name = rqnewwvkkjjczlluuafdhyloewsjgmwjdhnxhdsarzppyflzjzir, bloom month = february. hash = 0.15384615384615385
+259: It is Flower: name = duxlvhznjsihrrbvirtzyszpbckyfgpdrgofmytcydjkocfikhlztzukpxtczbsfxidogpynuveyifjjjdsmikxycklbxclbweskijjypgpegtwmkavaerfqyyv, flower type = garden. hash = 0.15447154471544716
+260: It is Flower: name = ngsnqlwszcokkehnnobtoqgqbtleyxvdpuplsvodziurbbvxpkgvtrhbzw, flower type = home. hash = 0.15517241379310345
+261: It is Flower: name = tzzvcwxenzwmouggyhnkgmynydubsfxktdmsffwwhbkbtptvtlfsvnuqcqlnyulaiuvqtvdpkkayqrkdpdggkenfmznprroyfwawofxnpuqpnbghquea, flower type = home. hash = 0.15517241379310345
+262: It is Tree: name = jknwqwmoagycyyazadnmtcmltimpdusvpyjlmtqvuhotfebswklanvbbhbdyxkuipibpdnmrhhwllkhtbqnxtcymxo, age = 95. hash = 0.15555555555555556
+263: It is Tree: name = wyrvftwgqmkhednvqalousabgmvzlybsonwsucdxlgfdj, age = 69. hash = 0.15555555555555556
+264: It is Tree: name = wmzybxwmrzwrgdaflnfhncoeqkrwjwaoklntudhkyakqw, age = 54. hash = 0.15555555555555556
+265: It is Tree: name = padenategmqwpgqvpyfeghnydaihnlvnmmugytjngjewbbtztqlamljjzsphhsswpazuejcfdnhdlsqanbwgfncxrm, age = 50. hash = 0.15555555555555556
+266: It is Bush: name = ctqjkhxigpoxbhrsbaqtiockbhhxajjxqsqeivbpyyjznadeqowhbsyxqqdbipnwlohvccdzzakdprfpqgefxeizzurrbppyxzpjkswfwljttllvdpwejbqnmk, bloom month = december. hash = 0.1557377049180328
+267: It is Tree: name = eqmvkpkovvhepeycdbzptswnjkqgccevwmlintlefhpzxgfzxllalbmugxdhcommpzsmtlaemsrhl, age = 57. hash = 0.15584415584415584
+268: It is Bush: name = nslvnbunjmmtessnllufjivlohdjkjlkyiknhagimqbpbcrbkfkghuznzhxlihvdkcefswejcnyqh, bloom month = june. hash = 0.15584415584415584
+269: It is Bush: name = hsbolpaoyfwynqjyqfaowjfdglpmmyrr, bloom month = may. hash = 0.15625
+270: It is Tree: name = rzaamrpvxsvowttnkefkutszxtykoftftydcyjsealewbnwqgmgwdolfvtxkecncbdjsflvrcnoyfndhbuswuucljoewgbfojhqvdljyztfyjzlnckz, age = 55. hash = 0.1565217391304348
+271: It is Bush: name = awtfopftthljrphbphuzdbzzpypefskvrcboafgdrforbklopgiuduljbduxpryvbnnizxgzrsjwxgwhmly, bloom month = august. hash = 0.1566265060240964
+272: It is Flower: name = pmqmancifrkcgbjlhsaubbfahbdczyokigttjdvfbvgtdnanfxrbgnelqpmazfawrqumjsxmyelsqyxldnq, flower type = garden. hash = 0.1566265060240964
+273: It is Bush: name = yhyhxlgzdtjqbnkynuionhdqtxgjuvancypalcchzmovjdbrxya, bloom month = april. hash = 0.1568627450980392
+274: It is Bush: name = fxfnjcevbtjhtunclyxxocechsaeyunbmjqpagltqjjdcnknzns, bloom month = february. hash = 0.1568627450980392
+275: It is Tree: name = xmzlkfagtykroytzlarzbmsahqlnlvyftolccgxoqkklxfkizye, age = 26. hash = 0.1568627450980392
+276: It is Flower: name = wahllzdlxswiyciclswzugicsguvrqbbpvnwivpokjmmfbvurapujlrkkqprcvfbojdsqtdqeszlhpbprrtaudsccplnsjctmkjqot, flower type = garden. hash = 0.1568627450980392
+277: It is Tree: name = zdhtzjiuqmvjigfqeugyibwdftoqmgvnoctkkjjmkzyqngpcnhbvrbvaufswszijkmdfrm, age = 16. hash = 0.15714285714285714
+278: It is Tree: name = lywsgglwlyapnxmcniiqmphihlmcjrtqhjkxleciovgmdfxjrxtchtsxklqrgjwwdefhyokphfseaqicempeqyhkf, age = 27. hash = 0.15730337078651685
+279: It is Bush: name = dbvupmxvcjmlxjficwxlkbvbfonqjmiqzynfuhkqmlprmnatiecafaoxhzmltsgkbvkbrthpzqimpchvrneozbgqb, bloom month = june. hash = 0.15730337078651685
+280: It is Flower: name = qlvhdsrfqzhmrzgoceimdqodmtcvsezvzmvtrhsbwnfzvgszldtbmqcemcbknkiyavdrrfnoodzdglvfuumppzaiyhrdnsdqbqfohneorghc, flower type = wild. hash = 0.1574074074074074
+281: It is Flower: name = rbjcqwfosigwrehlpgzdccefnyzpajdyfomoebwewogeyunpmyxklzyrbngfbfowtddjfnawwohkuhzpbggoxbhghddvjthzblvnfuzqrsgcwlqfqd, flower type = home. hash = 0.15789473684210525
+282: It is Bush: name = mletpaiiwhhyckwtwxcturotobinrgjzikdkhxmdsmsjyrxctpqhrvmekheapckrqfpkbmxqkbufysgzrfubxtzrpzotqjd, bloom month = february. hash = 0.15789473684210525
+283: It is Flower: name = woqqldoqmhchlpmjjphzixhzwrmgsfugzpbpcffihjudiswdbdkgfpkloczszcbnavrnkhevzcjojkmijnjsogqmniluncizvohfggsyrcrbjunpmf, flower type = wild. hash = 0.15789473684210525
+284: It is Tree: name = dsmmahkaqqhnuczzxvq, age = 51. hash = 0.15789473684210525
+285: It is Tree: name = rxitpedvaxdoxwqokqxzfvjfydqjmajijuxxtzvzoacniklblfxqxopccrjfjjcgckgohhhgrjvcrctpkhzcrvkfrhqcxuiclynjwovhrdsjkmgiqe, age = 21. hash = 0.15789473684210525
+286: It is Tree: name = fvtvzuodpkzhwxkdgto, age = 39. hash = 0.15789473684210525
+287: It is Bush: name = ionflphczksgrvlsccrvmqqhweluhamqbdvvurhsufbmtysujgzomhgthnxscjslrqabnbydtquxnnoofgfjptktooizvxpzdnhwb, bloom month = may. hash = 0.15841584158415842
+288: It is Flower: name = xrpekyoumsdxyzjqxzrdzyqsbqdwkjbhpfznzowceorjixxdfqoopzsxkczejxpxfmfwcrzzxeddgozvbdnenhlchzehbelktjgubdjtranhdjukclfvpgoysxctgu, flower type = home. hash = 0.15873015873015872
+289: It is Flower: name = hxmngkxfyoufdzumurfcfqfxeitbmsleztregnvnvtxrkvfokfvqxegfrlsfqvr, flower type = home. hash = 0.15873015873015872
+290: It is Tree: name = ncmgdsibrvzrrkhyksjkfryvuelohpnvyjgdwhfufznzwosnedhpkrkbidwhjhvkmbmxgbganyzzfruloiytlhmwxufxfwimwjkemhmsuqi, age = 20. hash = 0.1588785046728972
+291: It is Flower: name = jdmjqbrkboefwzcsgncaxzdnystccttlocyowejivgqd, flower type = wild. hash = 0.1590909090909091
+292: It is Bush: name = qondrxxngtllkbgpvkvfmreshzazpgkyumussffraohr, bloom month = march. hash = 0.1590909090909091
+293: It is Tree: name = prufpdgbcxkbyagysyxzokpvpvbhgqnoswarxhrbzvorgiwqqygwygcmhuxtjnfpduxfkxciijindlatxwemnzdcdocpjdojzmfbvvmwwmivtqtku, age = 20. hash = 0.1592920353982301
+294: It is Tree: name = rakaqqxmkvvcyxnqyybgqxghazkjwtqasxsuoxanzighkpwqlmseimrbsxgyxfefddcuoshpkfufoctkjjyqhnmjytwdggqwhxorpmjyefkysuqzx, age = 50. hash = 0.1592920353982301
+295: It is Flower: name = dbhidshflfdypbpiaggwiybxgxtlawmlfmmzadkjzbrkrjozgndetpjhspiydwesgrxmi, flower type = garden. hash = 0.15942028985507245
+296: It is Tree: name = nyzokimhashlmptyicbyjovniirhsewlpipcuqofgzvduhanpeplzszvyqnlcynbnypfwbporqlsaszdmpzkonqpnykehrhmxfmxmdsvsqsymhosngjtxkt, age = 43. hash = 0.15966386554621848
+297: It is Flower: name = kpogndhknkvygycwynvpnuxegdknurwvnscbixocpkercibkzs, flower type = garden. hash = 0.16
+298: It is Tree: name = hucmmzpzcwcwpcfawswidgbux, age = 80. hash = 0.16
+299: It is Flower: name = rfbjlynpilzsdusubajzpyklv, flower type = garden. hash = 0.16
+300: It is Bush: name = xsebtfctyfygmeddjaaytxhsl, bloom month = november. hash = 0.16
+301: It is Bush: name = tlfaiztprncjwoqipagzezhxzmyqghogptvrvxcndofgzqhpboflycywniwvxkfnvvtntzshayi, bloom month = february. hash = 0.16
+302: It is Tree: name = iotetwxbdlpxciqcvodpcpkxujrqnnmkcyrlkrbbepyxsdcixridgbfz, age = 68. hash = 0.16071428571428573
+303: It is Bush: name = tjeoxzczfdwpcwqxaycalvlljytnfjqggzvytbjoozqtswyqdqugmapmbifdqudfeyymxbxeltnglaovbmsdjkxensptscclrhqvmwrsviwiekbq, bloom month = may. hash = 0.16071428571428573
+304: It is Flower: name = qoxdjnbwubonyhxsesjtjgebgwywxbx, flower type = wild. hash = 0.16129032258064516
+305: It is Tree: name = vkxtrvykjwwudvnkdfzhiamyswtlbasmfuulgxkulvqxlvkwduigltqdddyrav, age = 65. hash = 0.16129032258064516
+306: It is Flower: name = zfdyptmmirvnvfsdfgmcayycljmltaxkbsojpscgnlbyelfubdfbfafnmlcajrhaobaditvnqpxdhhvnhjopwehnjkyad, flower type = home. hash = 0.16129032258064516
+307: It is Flower: name = jhfjczafajhfydnlshpyzacpkmecshqnjmyrapmjwciwoxfnojfsdtqernzdlzcdgzqfsnssfwqaiavizzyajtcmjctzqgpiwqwwgbeqyntlhjpxtuusebtxddfa, flower type = garden. hash = 0.16129032258064516
+308: It is Tree: name = xxtgsqtumyhsieygfroozymxlsnqifvmlsljglcxmmwqankrbpzgajgyqaaprfijtctt, age = 28. hash = 0.16176470588235295
+309: It is Tree: name = lepiamacvpzjkfysnveuehbbfkskrwjvynozwsuujanmznmotpxirtkobpfpdlshfzgmjxoosywuhlhksnbgvsvqldddypqtddvlttnkwfzyvok, age = 1. hash = 0.16216216216216217
+310: It is Bush: name = ponjvpaqheyzjbukkyowqrwjjmvrnujqpplkx, bloom month = january. hash = 0.16216216216216217
+311: It is Tree: name = ydwbkvxdnouapdgdwzqlsydbaytamvylnzodn, age = 100. hash = 0.16216216216216217
+312: It is Bush: name = fksklkdjgnurijqxmeboypqfcmotjtwijgzyxqpjlaeqpfpubvgkwhmgyapkcazccagxkjqmbbrizqgpkcxnxpltutdvxuqbqocjsmsxubhkqmhnwuxbiqqjhoc, bloom month = october. hash = 0.16260162601626016
+313: It is Tree: name = bucnweswsruydbrzcrlhgbsuhzvjiozdnmyjhrgnpiv, age = 31. hash = 0.16279069767441862
+314: It is Tree: name = ncsbokbwdelitedpxpscitbhrtdxjzjdpopgxcicttq, age = 67. hash = 0.16279069767441862
+315: It is Flower: name = lwanzbqjjicmbckidsnhsdpkrhsazungezefwmqbjks, flower type = wild. hash = 0.16279069767441862
+316: It is Flower: name = afsxgggbmppdlbvadwkilpkmdllwzvrvjzyvcizoffhvaiqqo, flower type = wild. hash = 0.16326530612244897
+317: It is Bush: name = ivmgmghustptzcxfyrctnzmfokizoyptzswjqupowsokdwxrfgnifgp, bloom month = september. hash = 0.16363636363636364
+318: It is Flower: name = jdsmyfppsleylkjwyzstklqinbcvtwluxyyktfqfoslqtqvhswricxdelqqdiqslovemgkseotpftgtpsgolmqiknrqiirqmeimsdkspgpdftuixrqtb, flower type = garden. hash = 0.16379310344827586
+319: It is Bush: name = zqigwmyswnoufpyxxymjbkmbzidxnmfswyxcxmibumbqmpljccrtswqnhydtpzhrhidgqmpmgugoukmgsyvilcaiijpcrkycnibjrcrsxgbklaezzhau, bloom month = august. hash = 0.16379310344827586
+320: It is Bush: name = ybygbojwfajxwohkrbjfpgqffmsdpswephpyihybsjwoxzjuqcwhzcfyfotmxzqqinkeqsbcqusmslamhejyglwcdawtwfmhaznkkroyniltmzcpmngjlobeey, bloom month = february. hash = 0.16393442622950818
+321: It is Tree: name = zvfjolcpmpljifqkwssegjytjifoghxvbustprwxohaumsafxgsvanhvuyxngomyskpyrvjwqznermzwvzvpfcxrkwntxrbyuscuxsdpdiansctqtdqhmtuitw, age = 49. hash = 0.16393442622950818
+322: It is Tree: name = evftzpebjhcyjpjlgwpdahkfspmhsodgckrwzupchwdrzydvjgyfrfbyyrybfummoyludkqyhkvyhreloxuckncdamajecsrbxhiqaixsymhfonzaczgbczrik, age = 8. hash = 0.16393442622950818
+323: It is Bush: name = jdctdmxuujfmjpmiioaezppreftmtrljyblqjktjbooxpiigjqywyhmfnzzdjfvqjmewtlvaynpwgqspjxjpgvrtndtmbqmwtjswfpphttzxlecxgwizouyhukphumgo, bloom month = june. hash = 0.1640625
+324: It is Flower: name = olqxyckyfdscucmiackpnasvejwhdsuhcateewhwvfmusfolndhghvqnrkttqrcdllqgsxmxjvpciyg, flower type = garden. hash = 0.16455696202531644
+325: It is Flower: name = zbivbszxahpwifuemgkedwlhfwycxtiduuhlmalkeocbbcckfwhmplekmslzbqnqjrlptfpljcdjgkplovblxysotbb, flower type = garden. hash = 0.16483516483516483
+326: It is Tree: name = tmpgtdvgpdjkoxmcnwzitoldqvulbcskszdzoipnhcbbvlyhgigsalvuigvyjkbtnwinreubpkovhdftetnrqcizbteazghntfhmgghrxhsnznqlnec, age = 32. hash = 0.16521739130434782
+327: It is Tree: name = quwwyifhbqwiuwamsjqnxxsfbufzipfvtdmhteficpnogaghkpvrsvszrxnwuchlsjgukrdylxyhsujzchrsiddfslagprjkidfgnlhdiwlpgbceszibsncns, age = 39. hash = 0.1652892561983471
+328: It is Tree: name = lbdvqljtclxuimqiscmruxnn, age = 52. hash = 0.16666666666666666
+329: It is Flower: name = jafwbc, flower type = garden. hash = 0.16666666666666666
+330: It is Bush: name = vmwhixhqsnmmzxfwfseipbgvcptjazxhusgqiutbgp, bloom month = june. hash = 0.16666666666666666
+331: It is Bush: name = alunjxopwvldfgiqnasiflepfmfszvwsmxqhubcyjrmcwosthxmjtx, bloom month = january. hash = 0.16666666666666666
+332: It is Tree: name = ezmkcrmiqedpgrsgszztgfegdvmxto, age = 1. hash = 0.16666666666666666
+333: It is Tree: name = oyttcbowpdalxdxmgotrmsjkahtjrhzishnrgzlslfmbllea, age = 24. hash = 0.16666666666666666
+334: It is Tree: name = nqxxal, age = 60. hash = 0.16666666666666666
+335: It is Tree: name = amwtlx, age = 91. hash = 0.16666666666666666
+336: It is Flower: name = xbilfdcmzdmxeasflf, flower type = wild. hash = 0.16666666666666666
+337: It is Bush: name = tlghofelfxavtufgcyozqcvbypptxmnivqipgfxmrntgdapbaudfkzdpcbtj, bloom month = april. hash = 0.16666666666666666
+338: It is Bush: name = uakyvmzllhhj, bloom month = may. hash = 0.16666666666666666
+339: It is Bush: name = wghvlaziksogggjgfl, bloom month = may. hash = 0.16666666666666666
+340: It is Flower: name = thnzje, flower type = wild. hash = 0.16666666666666666
+341: It is Flower: name = gfmjpwsqflzskawgbfkzuyrqcglfzuvpjezpvmfpimrmpdjrjkiaxqamewxoxpzvlzscdzhiocnnzpncerno, flower type = home. hash = 0.16666666666666666
+342: It is Bush: name = mxdaxihezivznoffhsbhuxmyedtmocphwetwnzhlcpzxpmcksfajpbpafxsltbguyshhvnpamwirqrshoswfnvpszr, bloom month = june. hash = 0.16666666666666666
+343: It is Bush: name = zjumpq, bloom month = january. hash = 0.16666666666666666
+344: It is Bush: name = duxihcvriodaxtdhxjbbchcmsprzvbbfjegt, bloom month = july. hash = 0.16666666666666666
+345: It is Bush: name = rilqrertacaghnmnplrfmoykhpdyvismbrkgiuwyxctbsnzp, bloom month = may. hash = 0.16666666666666666
+346: It is Tree: name = pribcm, age = 84. hash = 0.16666666666666666
+347: It is Flower: name = bhymcrqfacothvgswjlnckwxxemoevrrgbor, flower type = home. hash = 0.16666666666666666
+348: It is Tree: name = osspftkilhromznyvlletovfbqbcweibovkqkvzigogxnhngbbfbbgnmebcgknflsb, age = 66. hash = 0.16666666666666666
+349: It is Tree: name = qvtajvbhzzexexkwtespzzhqmftyskirwzccergmefcpsywntyhqmkdycvzftpoivrxaazen, age = 99. hash = 0.16666666666666666
+350: It is Tree: name = vpupobyysuxylvingphbnipjylvnmwxdisjy, age = 29. hash = 0.16666666666666666
+351: It is Tree: name = wljrkkqrrksabrueybfpmbavxgyvgziuqnupgcdbvh, age = 45. hash = 0.16666666666666666
+352: It is Flower: name = kdapqgcblqmuetekovddpofiulkjxnjwfcnzhqndeamnzjkifnkldgnkjzrdyuxlovyqwvgyzylydr, flower type = wild. hash = 0.16666666666666666
+353: It is Flower: name = kgiwgtkokxqurwmkdcmqwrufbsbgiryzjkcckezakacrdfxmgqidtfpsqsvtpbfamqpbhekmveqabcnrrklcdlxunslyxyogjbdxeswxfaam, flower type = home. hash = 0.16666666666666666
+354: It is Flower: name = gewuqrdsjsmz, flower type = garden. hash = 0.16666666666666666
+355: It is Bush: name = msklessvlyzqahgcwuvfezlm, bloom month = march. hash = 0.16666666666666666
+356: It is Tree: name = ukwssraaxklzdrqldp, age = 0. hash = 0.16666666666666666
+357: It is Tree: name = vrxybgicmkhkbnwhxpsvyilubkpqcwjiitcrhygorgvjrcqaxxeaowbjtzjdzeyywivhwbamswqllxpadrwh, age = 19. hash = 0.16666666666666666
+358: It is Flower: name = rjzsjbycqswgagkxokplmcqkuwcyfpfftyvamrjgwsigcdfjthyopuhuroxbjasxyvxyiuxtjgfkiv, flower type = wild. hash = 0.16666666666666666
+359: It is Flower: name = floxbhpwgmrjryqvfswglvopuztptloztgnmahmjotlcvmcbbsiqqsvhvkxvcuaftmcxahtoccxnafquilbykcjkrycicfttcxqeclrboikwdqhteyxqvzvudxoqmy, flower type = wild. hash = 0.16666666666666666
+360: It is Bush: name = jbdjqlngopmbnclneggimuwn, bloom month = december. hash = 0.16666666666666666
+361: It is Flower: name = vwnvtgmhxjunyrzaafqrsdbhatwlqdqhawvuytwcwqovpdzi, flower type = wild. hash = 0.16666666666666666
+362: It is Flower: name = oihmdpwdslclluznuoukicsecrtozgwyypvrwsllqvfxmhjljuhweqrznskwqxmfly, flower type = home. hash = 0.16666666666666666
+363: It is Flower: name = ivrlfubbdznitcfimdyhhsbqcbcosnsdnbfqtcjymmxdsjkcxaqislyifrifuovzpssvsittbkhfxycipaddfftze, flower type = home. hash = 0.16853932584269662
+364: It is Tree: name = mtxspzdghrrivjnxhalxtkwilwjkectqdeanrwmnslfgwgmixnaoivcnnvmjrqswklyvurfskbeexpqboxc, age = 64. hash = 0.1686746987951807
+365: It is Tree: name = nprmmbikhzxkvzsacfsmrzogrsljwshuixzznmmqdaiisyovkicydcxcjratbxzbrcwangnotyctwpxxnso, age = 54. hash = 0.1686746987951807
+366: It is Tree: name = pxpxthkrwceudvfxzeiuvahvbyefnkrnxpjnwgbrarldmljpkbzcsojgwmyqhbnhfcqfoplezfwie, age = 77. hash = 0.16883116883116883
+367: It is Tree: name = jusqyizsybpntoghgvyjpjwsevaxrsvmwgwqgimsmsthmwugefehdxifwtacpxrdadjwbzs, age = 37. hash = 0.16901408450704225
+368: It is Bush: name = gvampqgjczjgyvwscmmrfdkkqqehvychwcsuzcarfpyrcletbxvatqaubguzrfjedrxuuxfeehgdjcghiwwlpkzfhoytlrxbtwldbsmhbcfrnzjhiraokgzwgweu, bloom month = april. hash = 0.1693548387096774
+369: It is Tree: name = etdzkdtkwrbeepwrjxlltvorxgvwkolxvhwhuuesmukflhvnoxtffitwsqtpltfejxnjxhoofdulwttgrhrtddgnzpsbuumoadwdhjobkhktjfwwnqbdjx, age = 72. hash = 0.1694915254237288
+370: It is Flower: name = ezljzqajxrhetygfspckgpzcphmfeebtffgfxqjbprtqeoqglvvyzchdcriirvlyrikfikqstspvdminmiinunrrfazfsqmrykqlokqmvuhgitgl, flower type = garden. hash = 0.16964285714285715
+371: It is Flower: name = xdlfznefdllyfnfoibzdexbcrkzpfspfwidylormynjzzdcgisaaz, flower type = wild. hash = 0.16981132075471697
+372: It is Flower: name = xfruztuvgyxpnyrqcvbcfncqtesphqgfxxopsffvsrbxmtrejvdqckitoinygwzyrcpprbmyiogjovfzfotarxlaiujwfinjhugybjctzm, flower type = wild. hash = 0.16981132075471697
+373: It is Bush: name = bganyjrzomfmifflspbcwklfqlgaactjuymsdnvnomhqaxj, bloom month = december. hash = 0.1702127659574468
+374: It is Tree: name = czakvcydiadubdvzypkyisfmtkqbxhebnmzvkjqwtinweqqmqabvmfkwcpynycqmvvnvtauugrrdafyjqvbojysa, age = 14. hash = 0.17045454545454544
+375: It is Flower: name = vtahaumkdygbuitelyqmllpwhldnxsxxytsrlukjlcxzrutqjovstsdosumwbjvphgbxjrgccduegburwf, flower type = wild. hash = 0.17073170731707318
+376: It is Tree: name = wtvnnqjasmhngvcosvbanyouixvyayjyfqattrcmzdokfedrcyskocxvgxdhbimxddrffxpegztcskmqap, age = 5. hash = 0.17073170731707318
+377: It is Tree: name = ldoxlzohgevnnutpsaxudvzracflbvztaczdjbvcldgzxvzkjriqfitmtskniegswfbcllrynlav, age = 67. hash = 0.17105263157894737
+378: It is Flower: name = lbearxqutqdcmjioknqrxcgknolrmvxcawqpgaixwvrgfeupptpckbswfyfpwdugnqsevxvyfgsh, flower type = home. hash = 0.17105263157894737
+379: It is Bush: name = zydfuorcdaamrbnepwsitggscmljxmrvzhq, bloom month = january. hash = 0.17142857142857143
+380: It is Flower: name = nlyssyitiqvkqejmbffucmtbnxqchrdokivobwepdpjpraqdygoylltplyulmwdyombhcg, flower type = home. hash = 0.17142857142857143
+381: It is Tree: name = pdhndrqteedpsemgesxanofmnnsewzclkvowmnqluxxdcdyawtmpgmahlzshmnzm, age = 45. hash = 0.171875
+382: It is Flower: name = fzbpozcdxrdimobijkjxoqcwbfyxj, flower type = wild. hash = 0.1724137931034483
+383: It is Bush: name = biwzvkggakdgkwfgcnexajmepbzpp, bloom month = june. hash = 0.1724137931034483
+384: It is Flower: name = riqwwzmgwsovpbmymmybryxeoyynlaexzelzplignzohkmuuqyrkfgqkdfelfpwykjhpyvtifoymznqxmhrsvejsprggmcpsamthwuivznllne, flower type = garden. hash = 0.17272727272727273
+385: It is Bush: name = hgemnlypcxzsbtqyyplspmspsvnpqvuqjhnduvmrutivhboukelmugdxbnhxemownkpuzqwazqkffhjfxgpllxhkmidtbnuxkfndoardxuivjt, bloom month = august. hash = 0.17272727272727273
+386: It is Tree: name = ovvstamrdreslxyvpgrlnvdlzfbagqhtxczvoeiruluqusdhcyrvjdgyqosxhssmnnpgiuqpetwyxnblh, age = 37. hash = 0.1728395061728395
+387: It is Bush: name = acksechnatugxlhrjbokmuospzyvqlaxspsnhpzcyssjhgzxnynimtsanczwgdcksvaqfkwrhfaefbumh, bloom month = july. hash = 0.1728395061728395
+388: It is Tree: name = mqbibdouphxfnigvdrsogulwkwvwmjsicgqqilftxyidwdwpjssy, age = 4. hash = 0.17307692307692307
+389: It is Tree: name = yjxjkadwhrewhwjltqjtibowhntfssmfreasgycwhljhaodmzomp, age = 75. hash = 0.17307692307692307
+390: It is Flower: name = khcsgjzyuaijafnfgmxjbxgjijlglnwrhjybqdwtuetsfmruszri, flower type = garden. hash = 0.17307692307692307
+391: It is Tree: name = bfyudwlqpszgmtcecvqsnuzcyjsqbigasglwsqptrnilvfltsioe, age = 39. hash = 0.17307692307692307
+392: It is Tree: name = eocmwwlsyygniwffrjohfopoptdppvnqtdzghkfrgehxrwruhjjvxqqqkpiwkaacgwgynuqntgrrgshvaninfgwukseg, age = 0. hash = 0.17391304347826086
+393: It is Bush: name = nubpodfkixmyzwtubpdkdwp, bloom month = september. hash = 0.17391304347826086
+394: It is Bush: name = gzfrzjkhfhhgqdshhhaozlabxuvweaxahmzgexppxbfrzjttezyylktmeohakyxefpalsucdreqdvfpctwcyfbdgajjkssimvpmxisxtznmtullxwsj, bloom month = december. hash = 0.17391304347826086
+395: It is Bush: name = flpneebojpndvexufdowgstkyyfqfzttvodxvruehzmhggewsenpppcxrttdozgmkuilzjrdktkxjmqzqcadfq, bloom month = april. hash = 0.1744186046511628
+396: It is Bush: name = dccmxjbpoxcznbxrekqkaadaqnxvgqgmhgskllxspwnucdhhnqizxmfcaujmxosnzzkoxyjhraucvbkffludas, bloom month = july. hash = 0.1744186046511628
+397: It is Tree: name = hxwqhbulfvirfrhgozkcmhpheckvlnhnjrhsdjnbljuxmwdetoeclagqwuljchvorpcabsvrcsynpfuvseidcw, age = 59. hash = 0.1744186046511628
+398: It is Bush: name = xkswwbutaikfvjbbfjrjlalbdwkormapajbjtdabjjilytexrtfxdlsmxbrtolcmepwwnoxejkkklnzbehwrct, bloom month = november. hash = 0.1744186046511628
+399: It is Flower: name = obqfaikvugpclhmvwfqpdvursnyvtumjgtqqcpakowvtceaywjsyygxsbkaadnyqrfncwenhcedshclvjgetfm, flower type = wild. hash = 0.1744186046511628
+400: It is Tree: name = wtauwofxffxiqtrnpmoywcobxpufftqhwbxvrwmt, age = 49. hash = 0.175
+401: It is Bush: name = ydsuwlmgrnzupcnxcdtsrlhgykhlekhuqbzdqourxweexscbezicuwarprnvgrdrrsxwlslqqamqgfof, bloom month = september. hash = 0.175
+402: It is Tree: name = duocpefpslgbafdovuqvdvgpvzvfvxtbykwcalvdjslmrvkecrhwyuyyqtdjferjgezkzwzprowslziznjlroxgtmervdounw, age = 16. hash = 0.17525773195876287
+403: It is Flower: name = zxskjgmbqhsyajhngcjjojmqfhlpllmratucxramuprsvnvrbpkffpunsjawmjomwocbevwthwgyoxarsicnhewlcslfkyasa, flower type = garden. hash = 0.17525773195876287
+404: It is Tree: name = ocxlrxqlrdiprcpheyqttepylgeeloytyjaeypcwktcndxdhvxvuszrfm, age = 93. hash = 0.17543859649122806
+405: It is Tree: name = rhzoiwztvceekxrzwbtwzojxgftvlwiyjkldoxqiziijtsqbaneptcwslgvtowjbuchxbitmmncsmeonjuvdjbqzmgnoclkyylcccrjrjrezjgcxtt, age = 58. hash = 0.17543859649122806
+406: It is Bush: name = xsqycmdajocuoxjxrwxyfgdsqdrhcdrqqzqkfecjpfucgzvzxsiahfhdjccuigeifijhrnqjlj, bloom month = march. hash = 0.17567567567567569
+407: It is Tree: name = okgohkwnqipoqpmxzufkdvmxzxtzpivncuoiijjjotnktjqftkxpwzmqydcgbrxyxappkumwmk, age = 2. hash = 0.17567567567567569
+408: It is Tree: name = oehfyrbvcxlpvywrsburvcoodyrbodvacwuwuhljftxexkpnrdvzmozwrhsknjepcvephtqqjz, age = 54. hash = 0.17567567567567569
+409: It is Tree: name = tcgrwysazqdjfjhjubbhihndnesfkrpvwuwwgnrtopimzgjtnvajgjhyhncchceulmuezwppcbezfjyuhwhyqniadmg, age = 95. hash = 0.17582417582417584
+410: It is Flower: name = wopqtkoednsobjbvgjmxglbddgpozkmirrfhfrlmsdrabokmqwzuzvetgcqbdqwsecyjoeaanqtctfcocichwkjygwpibfaccdsjllhctlvk, flower type = wild. hash = 0.17592592592592593
+411: It is Bush: name = vsbpfblfxtpxfjzvtodbxobjwtacvgllzswpbxvgmmrsxkmypkjfaoesaswqdfocthlcikcsiiwadryogdspylsegmkwnatipdtroxxhhsdakbowinyfbhiexkkqx, bloom month = january. hash = 0.176
+412: It is Flower: name = vthryrvacptglcfeazclojtobxglxfvivx, flower type = wild. hash = 0.17647058823529413
+413: It is Bush: name = omxkgbmjwhjppfnsdjnmqfhtcnhhbekrvznylhvvacqrfzxpgqirkaqrivnlikmozmisezmolmmaynbypcouinupzhwjnatn, bloom month = february. hash = 0.17708333333333334
+414: It is Bush: name = jjllqnehzyzlhgfhuhgluhloxmhamboxgjahkhlctfwrsntohgioqjwpptxizpgfhcjpxeaahvvpgwy, bloom month = august. hash = 0.17721518987341772
+415: It is Flower: name = lxtreqlkmiceujudccorwgiksvoxdlrrdcnszhkhzgxcclfskcgppfvpreaavlyjccgarjudk, flower type = garden. hash = 0.1780821917808219
+416: It is Bush: name = rkplhyafhzbszmdrjxsnkigrstmwpplhvxctedboegaxgaoolvgpfsvbqdqewqrlooywjtaxm, bloom month = june. hash = 0.1780821917808219
+417: It is Flower: name = nesdyhmebvzhnofoykgkohjjwagnghymbzjortmbxkxiwfdovakvnyhjefsaonqzbdwgjgzcl, flower type = wild. hash = 0.1780821917808219
+418: It is Flower: name = mlmqjmgdrelllbjtjdesxpliutug, flower type = garden. hash = 0.17857142857142858
+419: It is Tree: name = eksksbouhzqomdmyouxgidyvvgcnndycvipdqvxzqevifpqzmvookdscohxjgjdsobmrilggrqgbwubgflrhtzarglxajvgcpgwvnztaqg, age = 84. hash = 0.1792452830188679
+420: It is Bush: name = mdowfhfdkefzhriyawmjsmesryspsdurhbfqiddilugzgryfcsiagoyvkpjbssfxilhdzogfdvjwsr, bloom month = october. hash = 0.1794871794871795
+421: It is Bush: name = ddypnsigxptxokiovlhfwxbycnhzqqneggxkpau, bloom month = october. hash = 0.1794871794871795
+422: It is Bush: name = qmjdydirjcrojbjqrihgxmrufqtfkkmbmjrqzcxednaqeiusdxbwmoqthquxplqpfryxluckdkrwyahuxhixtodxyckpenrvwavt, bloom month = june. hash = 0.18
+423: It is Tree: name = cflawxghznlnonhaqtosdiwvfobhcirzhjdbqwqdorytfeknvd, age = 3. hash = 0.18
+424: It is Flower: name = ujgqsphsqrpewkhcayjkuwrgmowwxwmgejrxrirnjrjixlipzqeqxpdpehfzmqsvqwcetyhoazejrydqthpluxytynygghuptigm, flower type = home. hash = 0.18
+425: It is Tree: name = gojkabesmukbjovqpdjsywaoqerktkfrwuhsiundiwdzmrcjdalgvipbqbfychqcquejzzujjsvwpsmsqvpmibkxmoxhakxhrkjubgwbblbrpqjgrzdwwlmsek, age = 92. hash = 0.18032786885245902
+426: It is Tree: name = zyjrmbvtuopfkjmxlwxofzhtuqpnyqhemyiiyuuqxqaqusclegtzqzzhzcwrcjqjdp, age = 8. hash = 0.18181818181818182
+427: It is Flower: name = cjcozgkovantrrszhdfiyeplzwppzqoyeknflciojdbethccjwuadljatibsamvutkklcyuhxwdmmbqnvcawnfrhukavrjfvhhkdplgqgfrgmt, flower type = wild. hash = 0.18181818181818182
+428: It is Tree: name = cxisdrsothozfhgeaqdofbxgfwonfexkjepvufejivsttqnirfpafhbnfsypqtahxgmtrkkdhvusfgcxydwmcawfrdkyhogpkghjqwraitkjyb, age = 43. hash = 0.18181818181818182
+429: It is Bush: name = rsshknszdymdpjbgowuaiywjrzrfmnxlflrmvlfagawlouxikimtbgsvfhdltyzqzusfzqnqtfixifbzacbkesir, bloom month = april. hash = 0.18181818181818182
+430: It is Flower: name = jkepdbxtyxamkzkehdqkypnuuucdwxpulzkhxidgctkeddhnmkjlgpe, flower type = garden. hash = 0.18181818181818182
+431: It is Tree: name = hvyatbqnikdjydfxjtjmkiqoeftuethocumccmqifxhfjajhnyxfqnwfwtowalirtubbosytsfvjykmupjvvcbkcgfpqqvndmah, age = 16. hash = 0.18181818181818182
+432: It is Tree: name = ysaohxflwovpsqixansfrrbtvlztgqqnhqravjofxgydiwqvwvtdwidvgsxguregffvqjrdwznqlyeagbvbiauzc, age = 24. hash = 0.18181818181818182
+433: It is Tree: name = weoxnhlprbljadngimlbjn, age = 9. hash = 0.18181818181818182
+434: It is Tree: name = soxucwqbtpjidkgqxprgwgewxqqjqbygmxbikygkksmkmadsyugmytidmdemspadie, age = 80. hash = 0.18181818181818182
+435: It is Flower: name = jnezqjnndhudnkpsjqecjcutsaryzhlttdzpfrnmabmmsliwswtkonlgqrweuzyalvfdauksbcdgodefafswtddrznjvfzqeudvthplbttjevzkegjqcwtheemmavq, flower type = garden. hash = 0.18253968253968253
+436: It is Bush: name = iduqdlepzoprjymozlkylshgicsqjyjfajdoylongrqrcyiwzvsvgcjbjhmsardzvitugneflygqjmqknfioyqwctsqga, bloom month = december. hash = 0.1827956989247312
+437: It is Tree: name = gkobnqgrpkbxeksjorwmkhjfytsozlmeckwxotpytnipjvkccozbfwoolfawlmrfwemxpjkozfbwparrom, age = 72. hash = 0.18292682926829268
+438: It is Tree: name = osleepwvcmvrsekwbyseperfdzyrftsxjqtfgegqbzevkovmvstbyvbsqdqrbbcpkzvxduuwfiuigyjxaq, age = 2. hash = 0.18292682926829268
+439: It is Tree: name = ospqulxvbmzhacgyeacfksekcnzmezmxrnvotazjdpjgjijbqzhfoubscyhbjvdodwlfllfchtlivssbahqbowanzshdjgpnhzcxoebokmudpqgtoqgwrkvc, age = 23. hash = 0.18333333333333332
+440: It is Flower: name = igpefrymiimbysqoavjmrqihdecrqvlbxscpyfzwudrzogzmxwnuclfhbskidltcouwhngmumpmecmvsmshqxqbksrsjjmpoix, flower type = garden. hash = 0.1836734693877551
+441: It is Tree: name = scgpyonagubpypsmlritcknkizeamtywrutvmggvyxizyjrvxblzldodjfvlxcqtyxnvrcjwiklqrakaalaumzv, age = 26. hash = 0.1839080459770115
+442: It is Flower: name = kmnmpxvzatkofmlcfqlcrmdwnuktoelpsxbhfjwvsdubeamgtavpjxxjozqxasrojoufmkzkklgq, flower type = home. hash = 0.18421052631578946
+443: It is Tree: name = lnbabhxcnibreyesibcqqcpjwsgrfkwvdvfjqgrcyptxrbxyziebjmxiecbwvhlxdbngxuyyduldaaosuozcgvmnanzkbunhhplthdmnbgcgqndiai, age = 89. hash = 0.18421052631578946
+444: It is Flower: name = cnqqwkoexxirxnadryawsavyxvghkqfffuqjnh, flower type = wild. hash = 0.18421052631578946
+445: It is Tree: name = ydhzkoxjnavykjzzgjdbqlqlaandkpoblyugru, age = 87. hash = 0.18421052631578946
+446: It is Tree: name = yuawktroykjbexksqxrpysjvglywlkzyyuuinw, age = 80. hash = 0.18421052631578946
+447: It is Tree: name = jfktcybhhqpvhmfwcryredfferthvyifidrchotqijfweataiamhmzpwedjlvlknp, age = 7. hash = 0.18461538461538463
+448: It is Bush: name = ksmdjeojaooqpplltclgrnxbslyfnbyylythvighfoezplhoqzouwvhucjknfbbapzbxfcjkliwfjxnoolrasfddycsc, bloom month = may. hash = 0.18478260869565216
+449: It is Flower: name = vgvugxsaanipjjzgkqgrdhfukgp, flower type = garden. hash = 0.18518518518518517
+450: It is Flower: name = lsewbjgtqboxjksssbhkqvcbaojybmegfmcdrkbxxoctgxatskjfhvamfirovsgwafjwkztzzxymhotreaybbliqutxrywexzsoxaimhmwbb, flower type = wild. hash = 0.18518518518518517
+451: It is Flower: name = czufnkrhqfwnyjctppgqdacgjqmgcjkhxoqwtrbjollwaxdazkpztuvfigfeswwknyprdjpowdloaaxhscxlkyjjdkinyjximfrdffyoiixecbwutorsnfrgjoye, flower type = garden. hash = 0.18548387096774194
+452: It is Flower: name = nuwcyntdtdcyqpjjqggohmhbfrtwncdprleogxzogpobyvwqafuuvzexwnujygglntduxmnnkcunvunjztqmueafznnyfkijq, flower type = home. hash = 0.18556701030927836
+453: It is Flower: name = ovlsdedzditslnhqahqkxdnrhrsgrmtzwpjbvpojzstpjbgxwmetxjsxqloidmijttywlestlyiaakvfhndiwntueinsbingj, flower type = wild. hash = 0.18556701030927836
+454: It is Tree: name = tnmetkituisjflrumlfcomfxvigqkukwgslfztdnovphubnipvfzinusfdhcnqohajvwnxchskahwcfmlgwbfxioyllwfouwnewjfkbrdrfkzrshj, age = 22. hash = 0.18584070796460178
+455: It is Flower: name = qagmodmtkwbmzlivrgxtcifhjmalhhvashradadlypz, flower type = home. hash = 0.18604651162790697
+456: It is Flower: name = dmmgxxiohhcxkrqyvdrkgawukuugfnwamazqlssbfbrxyhyutazzyvxjhawxqwetqlfelkbwduotqvuvpdbbzs, flower type = wild. hash = 0.18604651162790697
+457: It is Tree: name = zipgnciyecmdjoezwbyzyjhqmbxasifacipnvdrdwtfqelmizwrfilmzjptoljsrkfslbvheofgypyrdwcuetbyufxrvzumlkxdxhx, age = 59. hash = 0.18627450980392157
+458: It is Tree: name = ricnkgpslvlztmneyzfnuungemzmwsymdqdxcuwaalftqqbablvaevskwikvmintninlcxzafsiryyttlsqzebeztxyynjcpflvnij, age = 14. hash = 0.18627450980392157
+459: It is Tree: name = gytvptkqpuqsfxeskzcjxmrquedseluaypguikllvlohyggmcrpvkgsbpinrrxqbvtrdlnmdtxdraelzfceouarrvkxnhgunxdczho, age = 21. hash = 0.18627450980392157
+460: It is Tree: name = zjmoobyodkigagzvvcakqbbhzocyrbndypxxkxofpwlaokllbgrotuumoxiqxgzeplmmkjmsnpmcdxyqhxuespcdolygmcffwcpznj, age = 12. hash = 0.18627450980392157
+461: It is Bush: name = bybphlecbsdxnbuiigpojtrbeozaljrjlovnnjkiwemqpzpxrektfahpybsneutyqlslyczbzoqivksvwarkocsvxzmlwpffnrzbjl, bloom month = december. hash = 0.18627450980392157
+462: It is Flower: name = slldqnduslvrscuaelewlfsndfkfzdnyarzezbvwatmioufebxplvwrrouxdrwzwybkfgpdtxadgzfenxodznhtncstxnatcsadjobbpfyxrvzdftifnit, flower type = home. hash = 0.1864406779661017
+463: It is Flower: name = weuuemlfagplgwyzlcttwrbzcghiztqaekgaadvvkhwtthpqyjsvatxptvd, flower type = wild. hash = 0.1864406779661017
+464: It is Flower: name = eloqwxhzaaszsvxjhqrinchyibtllycqflurqwleohbypjkrdvnoaphlcfr, flower type = garden. hash = 0.1864406779661017
+465: It is Flower: name = jptmxthwerpjpborymmvgllgporunpvnfutclhjnlpnihthjtsjeafhoigjhwcalzljifpsgfqacgwsgnplemubugfa, flower type = wild. hash = 0.18681318681318682
+466: It is Flower: name = vpvckagrktpndwjxdcwizowjpccgzzqzdlbjkvzkeojkkqkatuqapoyurdvzmzqgrxvtsobpazothlvbjkpobdedcodjujci, flower type = garden. hash = 0.1875
+467: It is Bush: name = jsxoaslpamaupfyxawxrdlmsowcjlsfzjgqeulzbrhdymksm, bloom month = april. hash = 0.1875
+468: It is Tree: name = aqfykphixgmwovhh, age = 78. hash = 0.1875
+469: It is Flower: name = ndwyqnimavlqqgcuqtwomdtllglklawdjfoyfnowpimxsdhgyazmdhnupynhretjeyxzcpzetwqugozc, flower type = home. hash = 0.1875
+470: It is Tree: name = thnaqctcvcbwdsolujthhrodxpslwnzeikofscpbkfnulwmtfxccekacegurhsyk, age = 21. hash = 0.1875
+471: It is Tree: name = yhlntevfelcbutealutxcrrvczfpcplbevgzagjomvvwyfqvunpjiwckplrwubpd, age = 20. hash = 0.1875
+472: It is Bush: name = bqnvyuqsgewgagcq, bloom month = september. hash = 0.1875
+473: It is Flower: name = nfyoczbxkocupsolsbzlvjnollivldbzehehowdzmntjgfhz, flower type = wild. hash = 0.1875
+474: It is Flower: name = wjslieuwbmgybwdt, flower type = garden. hash = 0.1875
+475: It is Tree: name = wtnzraawhfdwtlukfqfygmsdqwznmxkechbowglvcusmujzqimhlfciiidnntmvngihjxbxuiajkmuztgzsxhtkdboywpnqkjivgozofxnywenzvhddya, age = 21. hash = 0.18803418803418803
+476: It is Flower: name = ddlmwnnlqgfkuzldfotgrttvixjjykrhtwewpzeigwajibmdijbcxnscmunryebomyivexulgddcyqkeeyqfhmvljnwsqrczynowgfizejmvmjmitwrfu, flower type = home. hash = 0.18803418803418803
+477: It is Flower: name = zyzpdafxqjwvsfcafexrbuynmavrlwkrufwbzndtnaueeebbgnbhaskjtodaxmhytijhpivyzkqpbtxkzlzwk, flower type = home. hash = 0.18823529411764706
+478: It is Flower: name = ttejbvuqopjpscgyshdddokvyzhpqugicuoxfmvazgorqhdrjxbhkkbmncihdydmijylu, flower type = wild. hash = 0.18840579710144928
+479: It is Flower: name = uactsxptjtdwtdkeaxscimkhfarflhknmgizmdyqnkwatugmmcebphqannhjjythshanu, flower type = garden. hash = 0.18840579710144928
+480: It is Bush: name = yzhjxlazwcoxaoqclulqvrzwletiyjnstwwpyktvtpxhbbdfrdbtsapidxydeiskwhlukdnefydimstsapgolzcnhu, bloom month = november. hash = 0.18888888888888888
+481: It is Tree: name = frqqhggpzlisynbaysqnhqbgjsmifidvnahlidemjbobpcrtxwwbzsaodsbzhqziihderrlnhylfseaqqqpqoebspz, age = 92. hash = 0.18888888888888888
+482: It is Bush: name = fmjibnxgryfcgbiokmvwwmnlofwnaaxflmgueqqkjfawcniiejaneytlrhmzchobfzrntfgxmtjszvvimmoxgjososftaurzcfvwwkhkqtqnsgk, bloom month = august. hash = 0.1891891891891892
+483: It is Flower: name = sxunaepmulyshtkvuptjmtywmzlcvfjasysyo, flower type = garden. hash = 0.1891891891891892
+484: It is Flower: name = rabmgyxenfmhtecvqanyipxrzrafbsxjxzsvsofidadggqkafsquyozpgoyhwccjltiuksiwxwlwjqgypbzmdfbahjeubskkztnjjworkdqhkwi, flower type = garden. hash = 0.1891891891891892
+485: It is Flower: name = dtltbiewersogjefbggtxyqktppudylzlkity, flower type = home. hash = 0.1891891891891892
+486: It is Bush: name = qqekjzrzuterjkwhsbmwazlprzdhihspmsdvfrworeljdfiaxtgouskyqhdbbofclrlmfhpcxucqspowxplcuabrxgceodj, bloom month = february. hash = 0.18947368421052632
+487: It is Flower: name = mwdhmgnwaezoxbtaviaepkafnucwbzywvxpgifirxtlfvpymrcptgrxefftzsxzhdbmiddssuwbzthfjrgraxiwhcmfneirhhyzu, flower type = home. hash = 0.19
+488: It is Flower: name = oxworbyidmuejeplpxsribytovvxqozjtqoxvvkuclwfpirmzwbqhzhoecuidqycfbgdfleogcdkkscpbvltsabklmgtxfzcragqrpgfw, flower type = home. hash = 0.19047619047619047
+489: It is Flower: name = yyucsuhpvwwfmiicxzzqkcyhvxnofnijfmijhybukb, flower type = wild. hash = 0.19047619047619047
+490: It is Bush: name = abwmftiperfurhqsyecdoaeejamwhmjjdnwnfxqkxcjkhqjsloxpwzzhcbnidqy, bloom month = february. hash = 0.19047619047619047
+491: It is Bush: name = hafmhiqkgxtkdnomvzlabkuozjrsrvymbexavrvyhwqbcgfxgbyyarpwksbpuuemwadknielftgxkuhrojzzbnxqrpjwdeppjqgrivgixaqfpt, bloom month = december. hash = 0.19090909090909092
+492: It is Flower: name = zojhexwrtffzsbznfydfioadvlsoopqfglwpcpjkuvqidjrgwebukujcynnhebuiytivmdyzsqcpflxjsqlixwtnj, flower type = garden. hash = 0.19101123595505617
+493: It is Tree: name = hkgrqluosazgctycpnqawfbllunqfbtltuqzyousienssbowzjwpgjzhzbkvwwudtbeg, age = 67. hash = 0.19117647058823528
+494: It is Tree: name = trttvslntofzudvhherduwjhxrtaljxvowijiwhseczqpypvkgahczjozdfvfdtribru, age = 69. hash = 0.19117647058823528
+495: It is Bush: name = ahazjsysucvijonafvkxlxedufpjhgeeczzptoontubqdsgnsiyvwzfqskxmmtzeftcamvdxgbqygfkfumswdwwkbvflewigbarhtjlyedyygqynhirgsnba, bloom month = september. hash = 0.19166666666666668
+496: It is Bush: name = urkqpxklzaeotbqndlwmnignzhvtmglgbrkqgnkcofmasstrmhbaqyhjdadkfldnvudzxryumiovsunpypweyronozugqsweiskzpnweiigfnlrtmjvpfrvs, bloom month = july. hash = 0.19166666666666668
+497: It is Flower: name = wxnpenihazatcfrapxffjewbkipcchlrbmobtalexqkefbbybxsdxovjcfqdwqizdhbvwmicqwoleaebqrdvmkoiycxjhkejrxubfkgkxcjskhuqkfhlknzw, flower type = garden. hash = 0.19166666666666668
+498: It is Bush: name = tbnjcjoznggbshzwrixgkkoszqvbptazubxpcyzqhonrmuazkfcdscpmdehxxaiejijgylsop, bloom month = november. hash = 0.1917808219178082
+499: It is Flower: name = khmegckcabgvvzjnbtanfthxptkcpvhagdcexvsieabbrlewrfumkixijlqbahiuafcbkgzjhdxfyaytdmfjijpdttnjparsynw, flower type = garden. hash = 0.1919191919191919
+500: It is Flower: name = scfybotejhozsirmzkqmfverzaidygasteamasylsrwhibvbvxbtlwccjvnadqjahxgsthuvydhewpsvkzhnexmpzhezvyebgzq, flower type = garden. hash = 0.1919191919191919
+501: It is Tree: name = bspfvcmtcgurfsybbmqxeqnlkagdnlyugfkxorncxondysmibojtvfdewtuygueqavgprcpekaytyapossddpozvnhtwwsspocd, age = 54. hash = 0.1919191919191919
+502: It is Flower: name = zyhxbxakuxddzdiaaswvmihfstypvhcrgqhpizzzzgaahjqhetyr, flower type = home. hash = 0.19230769230769232
+503: It is Bush: name = xyxbjfjhmnbctemplfxuizdzhvtndfmiwajiicfchurqujgwfydesawgelcozkbhuptqzgztzkhhhhfpqwhsumysetkofhlgweaatwdzdlrbe, bloom month = august. hash = 0.1926605504587156
+504: It is Flower: name = weeojlfwxmaazzsucaahrkzqqfkjdkjduqtzwacmcdmcjqyczbupgbhfh, flower type = wild. hash = 0.19298245614035087
+505: It is Tree: name = crhvxfeviykebgczvwznkowcvlufeevjldmlukofliaxmcwfhjuyhazxygnurqybsbpyqtoexcgqsgmthgayyfdf, age = 41. hash = 0.19318181818181818
+506: It is Flower: name = wzagowydeeldxldltrpebhmknxgsgnhkfmbvbqovpxilbadwtsdhdubgvgdsaniysxjkgebamwjqunkucizxuzcx, flower type = wild. hash = 0.19318181818181818
+507: It is Bush: name = srzyjdpwxnalyhdmaqbpprvczpxextonpdvdwzeslqjdhdggcgamtcaxaejchzqqefqujjvreqkkltpzozjxdvyuuclgwfoynerthaffkciindhbbyacuoc, bloom month = december. hash = 0.19327731092436976
+508: It is Tree: name = knfvxfoqrgtehdnfwaxglgztsiyxioobpgfnpoggrkezprebcvfdhcnkvgasas, age = 67. hash = 0.1935483870967742
+509: It is Flower: name = dzdftvhncellpsmksimicyzuwfoztid, flower type = home. hash = 0.1935483870967742
+510: It is Flower: name = ivnguevmjxeplsvkffibsonjfsswlqtzcojunifkzvbsvheekklgxjtktrhudn, flower type = garden. hash = 0.1935483870967742
+511: It is Flower: name = bykflegytaulbhuhlskrtuszblavenkqvxxroczxrptilmaiigfzmnxmqbirdewismgyuxyzvgtiylptcviudqfutgspyrosdxyzfacyyznhvlkkwplyzvilljmu, flower type = wild. hash = 0.1935483870967742
+512: It is Tree: name = mimlacmcnubakvqdsrieojeohitmpszyewiqscgnfpfavhovvjvvgshtyvvczjkvtorayztkhtxtrhzlwzchobdftuxsd, age = 31. hash = 0.1935483870967742
+513: It is Tree: name = gumzhsvazwrwfolgpuxfazdwvsippnh, age = 68. hash = 0.1935483870967742
+514: It is Bush: name = jrixslwsckszdddtifnktxbwemgahsszayykcnksclicgbwivwvzilwvuldvdwuoebu, bloom month = january. hash = 0.19402985074626866
+515: It is Tree: name = kqylamnguqvskflswakfiyvmjxtvlnuxepov, age = 28. hash = 0.19444444444444445
+516: It is Flower: name = torpjahfqvzzyiyxngvdifiiihmdwsvqamarlohjjvvqhacxbavzlyitjpcpqwnqgsogthdbuelgskgvtyfdonzcdtoxcmylxreazfoznnpl, flower type = wild. hash = 0.19444444444444445
+517: It is Bush: name = uodjcazvzsztabhnlnwqxqrllrywzrlufazjwpmgnyheuykauwoaxoipgbxpdzlyrvgtkytg, bloom month = july. hash = 0.19444444444444445
+518: It is Tree: name = dxvftdrtvlkgpxrjqoshtvomkslzxspxsshbnewzqijatlngnuesiewiqbgjlfsgbefootge, age = 65. hash = 0.19444444444444445
+519: It is Bush: name = xxpxhsemogslsfuzpatdebddovrxfvuazfgrtgipdybwmtkdopqfoujpowtcbzjagkkbllziqgzbx, bloom month = march. hash = 0.19480519480519481
+520: It is Bush: name = getcyvugowqsiittqjhbkemfszgsqlvjwfyomxvexkclxxxcccnlxgiijqfbyjrwfwcspoayjixoi, bloom month = october. hash = 0.19480519480519481
+521: It is Tree: name = nxdenwjmhxjxvhwjpxkskankbrbuusoehliamfxjl, age = 30. hash = 0.1951219512195122
+522: It is Tree: name = jkvwoydxljueshurexnofcsdjkjjnhnvfvtoceqbalevzmqoshqzaocwecplqupaakusrfkiyfzwrvrkbgzjdbqdbzmwrlrcavdikdzgnibcohhusgdvvycdkdt, age = 68. hash = 0.1951219512195122
+523: It is Flower: name = ttewcgvumfshssznmbprboyravabzhoruqruwrygv, flower type = home. hash = 0.1951219512195122
+524: It is Flower: name = xkfpygvqbbrgnusylvpdfdjktgeiqcdkfhohfodqotkohobxypqnmijpexjhwmhdcqgmufbnswbdwysdmwycdoopczexustssatruogcfeqzhingomtafnjpuxo, flower type = wild. hash = 0.1951219512195122
+525: It is Flower: name = bgkepbutgoymuenvaszlpwmcwtgsqjtraslzozfbg, flower type = wild. hash = 0.1951219512195122
+526: It is Tree: name = lnsainchhvpzjkevsavbvwdffsikzivhjcpppbquicicnibazyiloayufbtxdyygynkhnataincraycvpobchwtnsxteohzdhmcrbvhbrorvcynizfkezlyqffdsqcxs, age = 89. hash = 0.1953125
+527: It is Tree: name = fedbakwbhjrvoetcfrgoaoctdzuimbzsktulkvtycvrvgfccrssodrwlrdmfprmsjbpwvdvztpsazpzvfhaonhqhdnoewpudsoswwwimjpoyfjejqgjmvhgoecuqhuhk, age = 29. hash = 0.1953125
+528: It is Bush: name = nmagyigmiwjhrcdemfdlbexiiayonfttrkmfzxjbpficctdffkuhpyawolcewllegrifnnsdyxdvmslltnywxrsuaapdowgoldwurujvmnldzmtxqfcjfhjiiptczfmc, bloom month = april. hash = 0.1953125
+529: It is Flower: name = ndtsdutaxigxvtuvwvpsdwumpxdobcvceumczgczvhuazyenwcsgbpxvyhceeexneskgwxkqhefwsvtjypjmbqo, flower type = home. hash = 0.19540229885057472
+530: It is Tree: name = zrmkqxmabxyqvsmolilrlqaarssxfazvvhblcnlzqewiaz, age = 28. hash = 0.1956521739130435
+531: It is Tree: name = iwcvsnjfosrnruziwkohkndakhgljcbjrmiuqcjuyjcusghsisenmbtikkvrlnjeqzvzquhlczfwopybgegozbvkscvj, age = 83. hash = 0.1956521739130435
+532: It is Flower: name = ozejvvwdzqqhfwtrvholfkumxvoxrbejvscuxcwibkgxaxxtaywqybwatvfexzhmecmvfrouanvdgvbjxnetbokbpnjf, flower type = home. hash = 0.1956521739130435
+533: It is Bush: name = zmadagyizjnvnvawhleblstlgaekneltlmxwrufrvtgswxkiihmobucpcxmapkktfbphjhdqmmrdovyzqpmbitoqviuvrfvmg, bloom month = october. hash = 0.1958762886597938
+534: It is Flower: name = islracywbvmajqbgdwyqwdtcrejhoxpkkwbfbexnlcjcmcykhderoncyraacsxbvcumpmduwywcunlmevbemnbziyooolzxgg, flower type = wild. hash = 0.1958762886597938
+535: It is Bush: name = pxryvekptnkreuzvtftmjavfjksycviobalzncoiphzddldistm, bloom month = april. hash = 0.19607843137254902
+536: It is Tree: name = pckcqsemdhmarbtuwebfjrbgiuaxbcdjtgukmapfvvwtpnntjit, age = 71. hash = 0.19607843137254902
+537: It is Flower: name = vzqvmkhrajstmgyayfhmlluishesdlezagvnoweonidhrhxcnuaycjlxcnxflnvoheggrlvjmfltwgrrjryfkuexhdprezkzcczaev, flower type = home. hash = 0.19607843137254902
+538: It is Bush: name = xmvihhfazlcqaydhlzgclweabqwalgijimldgcbflefnbsurmbmgnyoc, bloom month = december. hash = 0.19642857142857142
+539: It is Bush: name = yjbkrvsbthphrehiiniuhcxbrpwqobblbwvdymchwkxijqujsemzgwnxctoqsvenwnmfiedpcfesxjkwqbgnlmmqifpnblsvladkiynopneddheldjoeu, bloom month = june. hash = 0.19658119658119658
+540: It is Tree: name = sqimsoltkjmmzjvfpnrjleqjddahdcwtoyorzudochvgvxmhwqmyeayyrliffxngublaewzfimwdzvhfyakijudnfreydpbvroimvimtolqbsjwctlostnwtlz, age = 50. hash = 0.19672131147540983
+541: It is Tree: name = xwuswbtodosdpkvtflreuqkzfxnrqqjhjhnfgztxccplxnbribxiiiodudkalanwduaynhdlxwnxspkrybjmgdlytpcbwdkeaeibdbmqmbcegaqujlvqydkaro, age = 28. hash = 0.19672131147540983
+542: It is Flower: name = zezvcigqykiytjrlupprblwqoaxecqggkjidvidexlbssrwkbfyalctxnirnr, flower type = garden. hash = 0.19672131147540983
+543: It is Flower: name = fuzhnuynzmemivyunlzgcfrwzgzbmvsvcgyklqizakmwbuubcwflzptdlijuzbrwaudotzd, flower type = garden. hash = 0.19718309859154928
+544: It is Flower: name = mzoybtizhqzwqsuvkbfcptjwgkwavcrovktaxdxjwivxyhnvsetghfiicsytvjnakpxtaoi, flower type = wild. hash = 0.19718309859154928
+545: It is Bush: name = sfktpicjckmnzdzkpdfgbrgqibfaleytobtvzoqgdjruuthxrolzcdyzmibtjitzkrljilbausjainqrg, bloom month = march. hash = 0.19753086419753085
+546: It is Tree: name = xoaydxdrbjejfnbqigofikzddzliwyjcpunoelcbyovaphcwkngrkfdxvpwjowdjkksdoxpgmauwqdbrunlbhv, age = 18. hash = 0.19767441860465115
+547: It is Tree: name = guequhwtvyrjhiypdylvmrlfqftjkvjlflulurngejcoxibijdlcrmuyexoonkwaqkqlckspclabdridbjdhph, age = 70. hash = 0.19767441860465115
+548: It is Flower: name = ylpdetyuwwxouectxvstlhdyoxighltqrhobiizljgtfzayiuyytvitnninvfbxlrdgzbzckqcqkzpsgocyrbtpaarq, flower type = home. hash = 0.1978021978021978
+549: It is Bush: name = uszhnzvdyaylcazhvpetfnvknweflkzemcocmgxqpoyebwpmeaaxdctqeadsyjjwhniobbjweyvsyvznnciccswcypxvujyzdtcwgnjpihawvay, bloom month = january. hash = 0.1981981981981982
+550: It is Flower: name = eeydnzijavbposqjdpucoeaysulymdbknxrmhbshcmdhlijhyfrjqqrssjyntzriihhcaipgmkukpmycpjtbtsvwvurcazckxgbiqohfiyojxaqlllvg, flower type = home. hash = 0.19827586206896552
+551: It is Tree: name = izhlnjpvpdkamwyfrjmlebxjyxhjrfhuuqcumfxkfmwgrqnusxkadxkdelsrafuprdmqafdiacqazgvqranfdcqeswenihndqwhizmwbzbrzauwercqw, age = 96. hash = 0.19827586206896552
+552: It is Tree: name = vglmtjnxpwaiidupblifphdhbfojrwaeinsjjeqmxvpftvcualtsskdpkvpvasockbnqwybwtsucswimyjvtnfezunfqwsytifmblarccudzwmzhdzovaivmk, age = 47. hash = 0.19834710743801653
+553: It is Tree: name = vjninilztvjpkoseakrzxfxlrkmvgeyworjdtymdimtkgivazjciutcnepgkrfgbiepkbhqokfobetfctcqbptmyrqkpswxitjqtbaaobwnxdbnoiwwttfydl, age = 39. hash = 0.19834710743801653
+554: It is Bush: name = qmdmnphopxttybbbwoiqnkgxczqmtiqbhnjbgobitjqtozbktoamabzopwngeheukcvboxstyrlsgkmdoyzibzqqotxtcaqoerapiqxpfkfnykmlyactkvbsqeklmq, bloom month = september. hash = 0.1984126984126984
+555: It is Flower: name = bjcoydxoojneqlmylszhqhxndpiinsotrrk, flower type = home. hash = 0.2
+556: It is Bush: name = mvowxkxaekwtskkvkmigdruyrktnagoinpikkktxsxlkd, bloom month = august. hash = 0.2
+557: It is Bush: name = zabcgxvdrhopvpienftwolzyentmnmrzdicxuznrqjdic, bloom month = june. hash = 0.2
+558: It is Tree: name = hfiozgqnwhezjfr, age = 1. hash = 0.2
+559: It is Flower: name = gjjkbhejufsfemyucoivhzrelvozhuckzvxvbeqwccfgcnmrmh, flower type = garden. hash = 0.2
+560: It is Bush: name = cfwxuzchesdntighvjwtekrhxzafrsicuwp, bloom month = july. hash = 0.2
+561: It is Flower: name = olmnnhjwdtrzsrzzuviiwyshu, flower type = home. hash = 0.2
+562: It is Bush: name = hofll, bloom month = november. hash = 0.2
+563: It is Flower: name = rhoyvxqwjahnnaiurstmghwwsmsreqqdibtkvfirtvemwbytwaztbegjzprygmmuxdwenvydfionaplfjjzcvodtqdopyilhsxcygeofgkifhp, flower type = wild. hash = 0.2
+564: It is Bush: name = kcwemmzwcaacmlugcpyv, bloom month = february. hash = 0.2
+565: It is Flower: name = fflpwpuwiftunyx, flower type = wild. hash = 0.2
+566: It is Tree: name = qmwjheoygdifjlfrgbeighwnb, age = 52. hash = 0.2
+567: It is Tree: name = lmayyuhjovvzlidpwawuaiqynxwdktqwsbeojvlyskbwpabheledcrkarmyvrlozzncbfhqygsxkyluq, age = 75. hash = 0.2
+568: It is Flower: name = icjdslsmabqgwzdctxllfkiowavgzbvypwafbxwxobqcnbohwlgnqlveiqoiyyfamoqjserzitoyjfhfxwupdacisrhdknkybvhzgpwhhkqcblesrkpongoujneyl, flower type = wild. hash = 0.2
+569: It is Tree: name = xapqjgvmrslzghthhcivomzderoabdulgpuatqdobqjiftwddxwfikatywegbhrdloyxrxvqpmjzdjgttfirevspmyavrad, age = 31. hash = 0.2
+570: It is Flower: name = rehilxxtkhbeghw, flower type = wild. hash = 0.2
+571: It is Bush: name = iybobxgkgt, bloom month = july. hash = 0.2
+572: It is Flower: name = egbfj, flower type = home. hash = 0.2
+573: It is Bush: name = glikfwpdzvdtkoaajzws, bloom month = september. hash = 0.2
+574: It is Bush: name = iszipgjrbigwwfrflkim, bloom month = september. hash = 0.2
+575: It is Bush: name = dmyza, bloom month = november. hash = 0.2
+576: It is Tree: name = xdjrdwniebdefurbrbqgnpzub, age = 88. hash = 0.2
+577: It is Flower: name = kyfkhzzsnpjlwhbcwdliulslnwhhsqenxwtuqbrnpbzpomhsanadpsklodoayzzdudbvbpadocwsnfjgaaablaevcphmjailnvqioyysckxvuvdcnnk, flower type = garden. hash = 0.2
+578: It is Tree: name = bzongwbffjhyeqyprzxemlhukqwacjlxmjuukeyy, age = 48. hash = 0.2
+579: It is Flower: name = mtirj, flower type = home. hash = 0.2
+580: It is Flower: name = wcqstweqqgtwvtvogjaoixthfrtzimspdkimzuhoocgmcrpuimjldbjjrbbsyzrdyillurqalfhglfcu, flower type = wild. hash = 0.2
+581: It is Bush: name = nxxeysltuhseodnjafvkvubblpoqbnhtozlbrlvblektkkhbyowmchbphpijefatxkeiuumjvxkwtjzaxpedntwcijpblsyzvoxcqfheuyxqnybtlcxyuyhgylke, bloom month = january. hash = 0.20161290322580644
+582: It is Bush: name = dbibcguemslknqpnuqsntnacyfnwkzpbvpnutpzxwahgusedufuiztjkbohtbqfmypdurbkfxjgafydkjugawvuxcnztscjgcdkdjwobakzoakjsef, bloom month = september. hash = 0.20175438596491227
+583: It is Flower: name = zzyjlmrprnhmcmecwpsyvymauygtcmwjzcomaduqwpsfasawawiickcfqtmlhtoxxfmpvklhtuvuaeoqpenlqtfadjnadtidmkmgurzbcmqofblgdd, flower type = wild. hash = 0.20175438596491227
+584: It is Bush: name = rkftdtsnwngdwiufndamsjaebgilxitfnxndlwbanhaphcguwefiejpardggyknmmasledyyogblczunqrjefgzsuhzgttcbflvkssuvflxja, bloom month = december. hash = 0.2018348623853211
+585: It is Flower: name = supuakfefybpkyznmnllvlfzxwehcqzphchqxuivtezzxplzpelmtdxooxlmsvjnhfgblaqxcuhnhvguttiksamljtwjexedlytouhkmddaib, flower type = wild. hash = 0.2018348623853211
+586: It is Tree: name = ngagmzdlcatescvmuujtngyjzszuooerqezrlvekhkusqaodvrziplwjuysfkuwgvrirfnjmlwahaipcsznfjmfrrgcbhvlqckwxgpzv, age = 55. hash = 0.20192307692307693
+587: It is Flower: name = uqcpwfbbeilxoepnbboqmfqhtauzffqmzvpflveiihuciazyatxqjrmkcexbdurqyqmdpzfzphlqpiesxszmhakvgwytkujpzrtzvdzc, flower type = wild. hash = 0.20192307692307693
+588: It is Tree: name = admxgrkcxwvsuqbagzocolaivnnjofdnsrhxsyacbxxijugovpnllkdxrwswjtmprcigskzkletdofdugutsvcviklbumztnhte, age = 83. hash = 0.20202020202020202
+589: It is Bush: name = hcbmzjpaxidcntjbkkexvofebehpgskkvqdqvtogukxflvocucpfhhowcbkpxnrgihaitjkwyvaoridhlshgantrg, bloom month = december. hash = 0.20224719101123595
+590: It is Tree: name = qhmglpyrrxjrtubkgcqelorajiyhksmfuhlkbozqzrvbcfnxvdafccdizchyfplxoljuwmuussrufflotxia, age = 93. hash = 0.20238095238095238
+591: It is Tree: name = ythmaidopzzkexhpjnekdvgmauvhfwucthrfncylepqxhroymeyfqckgfuqmisaykiblrvznacmdgnq, age = 34. hash = 0.20253164556962025
+592: It is Flower: name = jgoazklhjsvdubolqdokrnkvtscpkfugnvjwexxkdirzjdpvkyhugdhsjipgapivavahcynokppfawy, flower type = home. hash = 0.20253164556962025
+593: It is Bush: name = yivvbibcfdjwzffpnisefsbmyxgwfiipqzargawslljvmxexabitttypbxjjnnpepjusmjbofimqzxa, bloom month = september. hash = 0.20253164556962025
+594: It is Bush: name = uvfrbgajerttsklinczalrngsxessbjecljhcpoznajwsquwpfcxsdrbmhqinlrnsbduwrgglagksnowuofbluwiooakcmjmukjsvmofahsgpblcwlklst, bloom month = march. hash = 0.2033898305084746
+595: It is Flower: name = dudfvikiwmujcteuarkyxmeakpenqvnsddtpbjkhelmktypqlaktyccfkzzqelpzpryymvpjonoqctezlqkqeounxkthaxobtymbwpmlwmebgcglmagtob, flower type = wild. hash = 0.2033898305084746
+596: It is Bush: name = witbgfnmydiwjwswwetvbmkqzakwytbjfjezyiabfjhqesffuwugraevgnd, bloom month = february. hash = 0.2033898305084746
+597: It is Bush: name = smyunhphyfvxkfogkpiwuzatucrprhafjnoficcfxtlsjlxzgeavnflsfzgsceckfbuhrqjrzztawblfphdtitldyuuaoeijbkjzgsjtqbatvltep, bloom month = march. hash = 0.20353982300884957
+598: It is Bush: name = zvuamwgtuszqzzaxjkwvdsuamcjodryfgrguxqitlhuvfdvzn, bloom month = december. hash = 0.20408163265306123
+599: It is Tree: name = jbmstvwiuopxazjifsxbplincvuvwvydduxnqzsgkjwkteukc, age = 17. hash = 0.20408163265306123
+600: It is Tree: name = peomnjpwrumlboiyumcxotwbkmxngjtgvflznkantrug, age = 74. hash = 0.20454545454545456
+601: It is Flower: name = zcfqsughgjmkoxrixhrrifivkezvlnvwrpmckvxhhxlyjnaqiwcqjlmzsdgrouzoxtoprbeoookpfqwfekbkinnw, flower type = garden. hash = 0.20454545454545456
+602: It is Tree: name = sqquisiriterpgfdjvncxhxrzpjxbbkpujproimjdehw, age = 4. hash = 0.20454545454545456
+603: It is Flower: name = qhpzhaurfrquxotacqkrwdrggnyiuhgpjlpuvlz, flower type = garden. hash = 0.20512820512820512
+604: It is Flower: name = kygzxuivhbdendvpfbcwjfyzemhesooaycksrvx, flower type = garden. hash = 0.20512820512820512
+605: It is Flower: name = dfrhrkpjfvizomfjftfedwcswimfoiwqgnibwvbmihmpecwcvtjdallailhuajcuywywatlshdvvzpzkehfnauommmymfkgvbnjggmunbtyhfsoiiqgkh, flower type = home. hash = 0.20512820512820512
+606: It is Flower: name = aeflckmjxvaqildphgyfqxjrxtymiamcphjmezrwbkjwutxkpqtuaquzhygvwwegedsblszrhehhoupfjyqzyrpkejhxtqipidepsbnybnoukfgo, flower type = home. hash = 0.20535714285714285
+607: It is Tree: name = hoxtbvtzrkfvsfeqhshjrgcpugrkoxtsvlpqwjqlmrofokazvbqwrzugtxuaksgnwhgyxuimmqdcdmgonqpmdxzsaudohjugwkheuusmqjuuorls, age = 4. hash = 0.20535714285714285
+608: It is Bush: name = gqydqgiokfpukrucmsdiouzhrqvgjvprwxxejwqkwxkwiuvfskfduftnzitxbjggiqoebhthc, bloom month = february. hash = 0.2054794520547945
+609: It is Flower: name = wxxckejjinyzhelrtqyrpqchiemmdqmtooapmkhojshujfosngupshijpxvcwvdzxawfvakifmyylgnmgftumihtanuzzgrjsivgpaqwqcl, flower type = wild. hash = 0.205607476635514
+610: It is Tree: name = hpzicxkgoxdtgakfwvxzxkqoecdpeudoxwnjujmiqswdpoqmmcetfxnwacvzkzcevzdourrirlwxutfuqmgkgrhfjlapfmgarhvvwpkncte, age = 96. hash = 0.205607476635514
+611: It is Tree: name = gyrknxzijshtrjapvogspbwzzdwkhjcvglaupoazshuwhbqqvvtkulhzcsrposjcquybatllopfhhreebxcveijkwkaxnxewozzhve, age = 51. hash = 0.20588235294117646
+612: It is Bush: name = kmevgmccuuaqjolbfevoszdxzyxqmspmbm, bloom month = september. hash = 0.20588235294117646
+613: It is Bush: name = yenbzosjnipbvjwuebmciejtchqkrtoyfnmtceadnhugpppphebybqybcrbothgbqzfvtmgazqjiihazsgmkgbhclaulzpvfe, bloom month = october. hash = 0.20618556701030927
+614: It is Tree: name = kkjetqtzmejbkepiegwxniraagmtlxecfonprxtybhjgjibxrnhydnuckjutafcjwfttktkydaufctjsikltjizcluhlwspwavqsjylukyismoyhnwjacquzbvcqho, age = 12. hash = 0.20634920634920634
+615: It is Bush: name = ykvskmpxijlcrxpsaesmorxhrqqitjwiuwiyafdqnirqnqxaxzvjchrmzifrtfa, bloom month = march. hash = 0.20634920634920634
+616: It is Bush: name = hdlvkyijuwibtkxcvqnelrlupqjke, bloom month = april. hash = 0.20689655172413793
+617: It is Tree: name = vomlrrootqardbcfhwqjtlxcoqwzo, age = 55. hash = 0.20689655172413793
+618: It is Flower: name = bdioxvdczvrcerowcptwulnzbpcqkiutrmzlsiazaxbhglkyjevrsqsmac, flower type = wild. hash = 0.20689655172413793
+619: It is Flower: name = mowzoezijjniracvxlyuswtagzkvzxpfnopfuacjpunrdalpnvbbsurrteqqfbhfwlzojcycohndfeosgvkjxfdylimbjzxkwsgeovwrktvtdol, flower type = home. hash = 0.2072072072072072
+620: It is Bush: name = cefzqghyxszvrualckxtwhmfexzwoqrusigpsufgajfkmqnudncbrodtzlkdgsiniuyziktzsrygtsaelzebcxsighrtzqgtzztjnmuyikwizpu, bloom month = august. hash = 0.2072072072072072
+621: It is Bush: name = fcqwlysoncidewsyoshfhzawcwsdwgtlbusirgvmnnejbuzrklejswuxkolcivfbbomjqljatwegxxtitg, bloom month = october. hash = 0.2073170731707317
+622: It is Flower: name = thsygtykblupdlfljarbytzyqrzcaouptwhdlesognfvitioslijc, flower type = wild. hash = 0.20754716981132076
+623: It is Tree: name = hewoewuawpljulswfgghqnogatnavcejntcgphfjperlswjzzkxpr, age = 81. hash = 0.20754716981132076
+624: It is Flower: name = epvlqspakyllotoodcmpinxexrzlrxmlvjnynhtlglxeppccoyihyasjxxxsldcrgoeuacqdsfclasifkcqprshnsqlgregobuokq, flower type = home. hash = 0.2079207920792079
+625: It is Bush: name = vhgnyuuisbzgxtpaqacucgqazihmsvmqanzwgqzvyhlbdrpjfkeyebtwmhuskenffseyaegnifyrzqcuevjsixhmnjccwymojuythknppcmzfwaivlrsvdfqbbuop, bloom month = december. hash = 0.208
+626: It is Tree: name = faigbjbvnzezrehhurnxprxv, age = 19. hash = 0.20833333333333334
+627: It is Tree: name = wjdkowxispuiitilzobebtdgsihnnednzekosmfblbhbjbxtcuuxqsbtlydktddrmrykiteiukyandhbhqwdgdczyfpwymiz, age = 70. hash = 0.20833333333333334
+628: It is Bush: name = hreqcvsyhlxqgsjhqomiemwbnzrajwmvgvsqtebjyfobxapdnpugfqqnpcfepkotduwjqtuwvumesrljknmipoyclmhwrewgorsecbiemidquvdyhxhgatqk, bloom month = january. hash = 0.20833333333333334
+629: It is Flower: name = mjiftkyvdlcluyafjibiiwgsluzqwlzbvqnzucdksumysblpkfrawspneijcyouytfqrafiighhtgrnklokaybtqlcvjujxx, flower type = home. hash = 0.20833333333333334
+630: It is Bush: name = mjplldkradhzocovgxmkbufgmhwbbmpepqzneotzizzjhjgxdlauojqqvyferzrojuorkalltrcbdklphsreywzoxsiiwotqlbirgfmttzngdjzoosppzeyr, bloom month = november. hash = 0.20833333333333334
+631: It is Tree: name = qvdihsoivakyzztqhovydpkk, age = 61. hash = 0.20833333333333334
+632: It is Bush: name = vcgyhqukjkwfjmkiztkebcwekzeuwgbrtlkjyctfohrmtkeuoufyvxpgufeibmpwtmzmnopb, bloom month = march. hash = 0.20833333333333334
+633: It is Tree: name = fpauhwxtvjyucgagizbragxrxppbirdtrlcwcsszjxeomkbnpkivewyrzprgocitztcewmrrvvqgeeroztzomwcowtm, age = 47. hash = 0.2087912087912088
+634: It is Flower: name = xidgnezffhvebrrqkrspxuhqblmgunsnssnmvxhrqslkvhkzgvurszeibaweieufgypasglqygdpyeakravphoovacvxunbdbtsxbnkcevfebc, flower type = wild. hash = 0.20909090909090908
+635: It is Bush: name = ijganbygeojjcbmrtrcjeyummtoplbrevnvladitctrjnquokkzvcsrgczvguzwlbrxivebdaxvquqjsmvstag, bloom month = april. hash = 0.20930232558139536
+636: It is Bush: name = cohcescvkvnpwkquyetlygygwkapbihpbkvbpgxiirfxaotwlavylenfgdlyuryyaujbltgydtsbacnesostfd, bloom month = november. hash = 0.20930232558139536
+637: It is Flower: name = dqbxjavtozkvnaccasvbeuxjatlvurbgzsdcpjetxsf, flower type = garden. hash = 0.20930232558139536
+638: It is Flower: name = nsuvsgbgxpdckaifswsgcepcivybayitkpjozncqepx, flower type = garden. hash = 0.20930232558139536
+639: It is Tree: name = ueirpkbknskhszgzazilyuzrerfmmqfcqubethydkronocifnlnkzxxnomqzuycujtmesbrlvxdfgeopiufuoqslsfhcrtcftvdlwdxqy, age = 23. hash = 0.20952380952380953
+640: It is Bush: name = qvkxqseznzvpkzwjyffviihyrbctaxwpbdyanhdfigyioflnksbxsfnslergkymgqicahvviuggihpgobiehvsgmatavwkvktdkqltvpjhrdadizidejlykkoeba, bloom month = january. hash = 0.20967741935483872
+641: It is Bush: name = irdcwmnasuwmjcfgonriauaowdyrwhdoswydchssijqfyvtkghqhvcycgvscuu, bloom month = february. hash = 0.20967741935483872
+642: It is Tree: name = jzkvmnmebctmarbdvonytnylccqaaytpdoynqjxroumaqeesafjqaezfkgcrawjeqpsrtwxnjtlesnmjp, age = 62. hash = 0.20987654320987653
+643: It is Bush: name = jzfuhovdhmgnmkhyfavthgccvkojoatlskiznoxlgykyfaaswbgvumkqodimciybcksgwpyfqkasthseu, bloom month = april. hash = 0.20987654320987653
+644: It is Flower: name = riccnoybcnnsyosnsxwyacdvnnmpmwmtytdxxxvnloobfnzkhtohxhwjituxiucxxpejxolhuxswivboachgqjvusniuhxlltzdu, flower type = wild. hash = 0.21
+645: It is Tree: name = kftfgewrsrqosugtuouyvbzyteghzomoymtcbwvwfxfuemtwqvjaahiabhicqdqowqjsadehekvcndsnrqjjmxwjvcmngwhvnhub, age = 64. hash = 0.21
+646: It is Tree: name = ailcfxufypqrgnrodilpzdqwlkkrevlotctigmvcctkqzhkyryubfvoiyckzaofwjzzhdlknluleclxessgevnmjlahvzfrdowewaglphkixonxtvgbicla, age = 17. hash = 0.21008403361344538
+647: It is Bush: name = huprhfssbjanobpovfg, bloom month = june. hash = 0.21052631578947367
+648: It is Flower: name = foufdyqkbiutxwlorhjetlqgvdwikkjmnmwtbo, flower type = garden. hash = 0.21052631578947367
+649: It is Flower: name = xbtcuxjpuhdiroonotmkmtkxeohecxmslmhkbkrpsbybwrwytuxrkepwo, flower type = garden. hash = 0.21052631578947367
+650: It is Flower: name = qfjziwadypzygsiplfo, flower type = home. hash = 0.21052631578947367
+651: It is Tree: name = olkqmqedoecnoirwwvjhsgrnhwakenlrqpnzwhgylozgmvgmuaetmttyfdtloopowyifqlqfndjq, age = 3. hash = 0.21052631578947367
+652: It is Flower: name = wgjaeivpjenkqcqqpcgmuoaarreprxxejihyxltjshqgcszsjpgzswxyu, flower type = wild. hash = 0.21052631578947367
+653: It is Bush: name = nahxirdvmklefhhvhgnpfiugdoyzqwugnonccjvpyrxpuvtziqborhdptgdjkeltgrltyahqiiwnobyxbhoooxgorgkzbpf, bloom month = september. hash = 0.21052631578947367
+654: It is Bush: name = myrdkullnhvosyepbkoyhscesovgkmbaepkkmn, bloom month = april. hash = 0.21052631578947367
+655: It is Tree: name = ncltusiybjiatyiekanofwdwnlxtmwqdmlypry, age = 87. hash = 0.21052631578947367
+656: It is Flower: name = ctkasrttalaaifsbrvkncaidlfrjwrdisxnstvvhxznyonmbcetiifkgyupxlwcahbucutlbvkyqfsciooxbcsjthubrpfcmyukukizokjyjnqkfhtxfmckyimgerpok, flower type = wild. hash = 0.2109375
+657: It is Tree: name = zkvklmpvsxexuhiywngxwistyihrpboniufubruricsbcxbnsgdrxhenfpjqhpjonggcleygriyxuwzidvfwcwbwazzkucqcofzzbdisumnyi, age = 92. hash = 0.21100917431192662
+658: It is Flower: name = foymppbvxvzybboguicgornylugrwskqornvsyqboscknefrgmmnjbdyvbdmobtriswaaseekhfxtsoniqeyungbgy, flower type = garden. hash = 0.2111111111111111
+659: It is Bush: name = fhelmjdsbfnbprrmujrwibfzyxxjllicenywqazqzzwuhmixlfjcnlreadcvanuyijlzyqjyqhhxwfawupudltmvomqeqooilbilkngkssloeqxxjiqxvdotsfj, bloom month = july. hash = 0.21138211382113822
+660: It is Bush: name = ffezjdjplhepzcbjsqddqtsrcarytiqquowjqxmwkhpknzgxsoiuqmqjikpuudlwyacheojpdkkfsnrgmpbhiktrfraijumthaitpahm, bloom month = august. hash = 0.21153846153846154
+661: It is Bush: name = fbrqalpgnvjmujtktcxyibbpoxaoudhyedlwnckcutjhfidetfcg, bloom month = january. hash = 0.21153846153846154
+662: It is Tree: name = qohgmbomikfnvazqgoqkiijgpppsbsnihehspetlahquruvcaqkxcsslwffnkeswfwvvsyspkklueuvnvltxemvmhjagofqmblnvwuwx, age = 35. hash = 0.21153846153846154
+663: It is Bush: name = genscjwvhferwueuqxgbicftyarsmkivvdddusscdfnrpaeytrkuiidwnrttkbsxactjhbeirigqpdzvvuwdxksvkfvgfcuanmd, bloom month = october. hash = 0.21212121212121213
+664: It is Tree: name = rmcrfpoglpltoiymwhtkdtxjagpuuylfszmuvyfjmbpxekggxnxkfarpexlfalgfjoryaquydqeeeclbvdarlffexlyiuskyjcj, age = 35. hash = 0.21212121212121213
+665: It is Tree: name = hjcnqgirdsheuimijveemcrktycnsjbyevwiijoqalmnxluhjacbtlcgyjmbebtxovepsatomqvishuzulrxqvdrosglvyxcbxvyvdnwfwwwtping, age = 53. hash = 0.21238938053097345
+666: It is Flower: name = nikjjzzfauocexigvaewnzfqnyxggchfxvgkgqlihcgmusscsxtyrdkfpuiivtosqhahmvirflocjuppumajeyepadssvkcicgkwjdtvuksmubzbtzwcthazcgwjvzh, flower type = garden. hash = 0.2125984251968504
+667: It is Tree: name = lxugicujcpriarcmfuhkvsgkeiyzfuhwgeyijhxclwghilpfanvbltylbwfks, age = 39. hash = 0.21311475409836064
+668: It is Flower: name = swyunfmxcilkicqcymgejiuabpviumplhsxwqfyspnaosgqimsdfwfeswpfwk, flower type = garden. hash = 0.21311475409836064
+669: It is Bush: name = xvaquordoaxldlkhqwroramuvrekaplytengsenrsqisbratxkisjjsjxlpwllvbelfmfcqctlp, bloom month = july. hash = 0.21333333333333335
+670: It is Flower: name = zbjcsqjractisgckrhdiznaxvgjtughphihnhqhydepscvabxojjprdwbdssznbjbfcaulxmfewwmwiyaunfxdwjmiohvtauqbywafqpmzowuouzvfocb, flower type = garden. hash = 0.21367521367521367
+671: It is Bush: name = tmotfdqlzytoflrzvgitdntclngauzzwdpjydtyjrnxdooiailvzqlcokmrmyseejkiekn, bloom month = march. hash = 0.21428571428571427
+672: It is Flower: name = zobagzbffbxwoivtttnhnjuvqxsdlriytwvykwcxdprnpcidcuvaawviqdwfesxezlwigi, flower type = home. hash = 0.21428571428571427
+673: It is Bush: name = nothhpsmvbhije, bloom month = february. hash = 0.21428571428571427
+674: It is Bush: name = cspcqgsnjytxbmuyoxfofhnhdmtzcauatrxnosbsiwjzscicnxovbzkfemdgsedxhxvbwunhqnxqmlemakgedapwgqialpaovh, bloom month = august. hash = 0.21428571428571427
+675: It is Bush: name = gqkbgladixfrkekbglhkwdqmvepkwmchxxiecigsqobscfefvlnxtgyearnijjqiloefxazlztqcayqywyuircigxqtmwrkzof, bloom month = september. hash = 0.21428571428571427
+676: It is Flower: name = fnaymxtrfhcweekmvepqqhmwoiebmsvjxclwtouxoyuqzlmqqbcyfgwlcjeunjcipqypozlmmjdymblubszyuqayyqginuzgta, flower type = garden. hash = 0.21428571428571427
+677: It is Tree: name = yfkpmnyqdegctbmufxtgafcvgxrremegkoqypnqttvsoaaicmedzwncfjzaynituwsddcnspvdznziapbimwtosceykujplciskmrjsslzoxixab, age = 98. hash = 0.21428571428571427
+678: It is Flower: name = xobwankojiyjvmdgzmdcyjtnvmwkahtocqvordbdbrkrdeitkawdpbebtnyqvagveivsfakvckzfuhphnwjtfztqbfjqzuigquqdlsnqiasarowishrntuleh, flower type = garden. hash = 0.21487603305785125
+679: It is Tree: name = jckhkfodrdcivfnphgdncvktqizoyizqnbtadzueianycirpxzeowvxxrjpplzppwndlanwgyoqbynuuyyxabgemhssdtpletmzoimxrmuz, age = 41. hash = 0.21495327102803738
+680: It is Flower: name = sjqmluxhlirggaxsvyunzwfuazvqmlwwzdwjimthcjaimzooexxdrzhalpultvpfvowjegtxxbvcrpasdwkjuewvxigcy, flower type = garden. hash = 0.21505376344086022
+681: It is Flower: name = qujzefcymicaccwwuxzbscksyekiacsnyuvgjkchgtwxrdcewpcubtjqdkzrykdisjtrpsyeuepphea, flower type = wild. hash = 0.21518987341772153
+682: It is Tree: name = espxguijwvorxperoorfgexkuswbskptqudfsmymykyfpdyxjux, age = 20. hash = 0.21568627450980393
+683: It is Tree: name = wduzdrwrszuykclekwbhvjtdlpoklproigyhjbbcwoemifwqrxmezlrcherzupbinhenbwklbiwagiipnksvosdyqggvbquuzmximh, age = 56. hash = 0.21568627450980393
+684: It is Tree: name = anqdizrlmwlujopnaekuwvfuuagmckojrdjbdqzxgwigfpzpsihnrlgeydpfaduxagcdkpevfdgltwxnrpwkrybhyrqidlkaataghp, age = 80. hash = 0.21568627450980393
+685: It is Tree: name = soqnwigolobdgprwvolohwkzpccylphmtatwyaotrmlnfntichpyythkfdffreqpgtuerqempesbeklradmmziip, age = 3. hash = 0.2159090909090909
+686: It is Flower: name = ymkiblrweleykovwracyubtfyrmxajxwndkklqfphninxspiktjjuvepthelkrthjnyroiokazwtkckaactgyduxovndbaipvjxbffcftyrqodynqzixunyhzhiek, flower type = home. hash = 0.216
+687: It is Tree: name = hrpsjetvefrykbcztrhuydpvusnuksbetwpaukvmpbwkmvkiadviehombktnevraofakvpzhlpdsjtfozzvcpykovbiovxqyexzyrweejypnllr, age = 97. hash = 0.21621621621621623
+688: It is Flower: name = avmbxrjevowbisquxkwtyrtleeciweoecfenzpztmpxglkewnnfpoxppfrtsgtvqfymduapvopjmrmzlifuxylcohmcacdakwxredywunmbgzvxgakc, flower type = home. hash = 0.21739130434782608
+689: It is Tree: name = xeobgivtzonggelwmcdwwfv, age = 10. hash = 0.21739130434782608
+690: It is Flower: name = icuxgzhbpvqgyurbdojedcc, flower type = wild. hash = 0.21739130434782608
+691: It is Flower: name = omdcdwccevnyujsthdexxqfhlgikvjahjiiybnemggisuodbtynswclzuunzbxitrefrvfjqymnqrdmokwnrsklkpqimooqoeirjczzuxlttyd, flower type = home. hash = 0.21818181818181817
+692: It is Bush: name = jtoygjdyohyenxqksgpscvtysxxacekrdqkciondhyplpxiuauesfuyvutfqxjfkeawwutkllupkqvxajcedsmnqmgohrsppmrwvcebtcibmjyoilwosvsf, bloom month = october. hash = 0.2184873949579832
+693: It is Tree: name = itgdqhqfljajituqquibtrozlkgygmkr, age = 2. hash = 0.21875
+694: It is Tree: name = tiibvjxloeycjpdjcwiegzpbeztwprqm, age = 92. hash = 0.21875
+695: It is Tree: name = grgkpohfbmllrmituppafzrymfvocfxwprakyrymajfeqayqfsieebxqgmejigbq, age = 35. hash = 0.21875
+696: It is Flower: name = yuqcgagaeoygcnpdsqxpguumiqondozrciwzndsbllfyommlxxycdimzchhargvmdptumoqgihdvcpoekcorzqpwxcqrjzhldgavknokgoeqrsmomw, flower type = wild. hash = 0.21929824561403508
+697: It is Flower: name = eqzjbotorftbsnshjielsiopffdhmctsqjzhnntpqltcppnwmsrhhnukjpuvwoouopnlzuoukiiajsxtggnelooeypbrvvtyorneqltekphplstvmrdzzwadtft, flower type = wild. hash = 0.21951219512195122
+698: It is Flower: name = mqoyfsbkqjmcpmjlomtfzurspblhjthbqqayoupmnvxuvfciviilurafdauiypiyxfrscrmtitkkhoprlj, flower type = garden. hash = 0.21951219512195122
+699: It is Bush: name = zmuowjkknrahoxjjoocaqlgnfnswxhtzrchudukgk, bloom month = september. hash = 0.21951219512195122
+700: It is Bush: name = usllwfuaamycxedcqcfpxswbqimmbzzgutmmavrtokmptvbemgbknmcwhryhcdbosmzrfopppzubeaaedumyaqujwfm, bloom month = october. hash = 0.21978021978021978
+701: It is Flower: name = wxqiqwmccjzkggfqsimopcgysadcuugkrineyorawxmvcwgpex, flower type = garden. hash = 0.22
+702: It is Bush: name = gdxjwsklinxzvzaceunyxyapvagzieyncjvrkgrzgwoavaeatrteocpauhapfptirwdlzmfpqfdzvbigqzzbhdfivvojmacqzztsrdvdttufk, bloom month = april. hash = 0.22018348623853212
+703: It is Tree: name = pnbkryuxezorkpkdouuokzmmaeuwvrnctjligapokvykpaevbggbnqglhmxuaycsisbbpdvgdgrujujksgkqkivolfbunyqpwmjpvewvrgjmliqzysvezk, age = 83. hash = 0.22033898305084745
+704: It is Tree: name = exsgmwekjgwolstduhknjnolqavxxnfjpcimafmnxerowsoclqnrifcgrad, age = 63. hash = 0.22033898305084745
+705: It is Bush: name = dzmvpenqhuuzojjoaiiypjwnltbumhsntmqqhequmhknszqcxgqndqmwszioeanrvmjz, bloom month = july. hash = 0.22058823529411764
+706: It is Tree: name = vqevcleiptccjxtmdjliklgpezlnznpparreliguvhrkdjfyiiakcsqvfinvdstkmopi, age = 94. hash = 0.22058823529411764
+707: It is Tree: name = wywrhuammvugpmqaheiqrtlkzlidimeditvybauxngwaugzcppqjapksqkwxczewjsbhduvjncqml, age = 26. hash = 0.22077922077922077
+708: It is Bush: name = paumjmqonxufleaugjlptdyvkdhdxbfftzemgqnboxwfqyqihcqxwpenpqwujfqsybngugakiunbsesqfowmuv, bloom month = january. hash = 0.22093023255813954
+709: It is Tree: name = zyaxaucuvxqtcpmabfruygnepuucuskbnsnueksavkirbmncvgpfqgcottorlozegbfawztgmxhqwrgrqkhwxb, age = 15. hash = 0.22093023255813954
+710: It is Flower: name = zluexnihvoczrgegknoxfosnqmkmujdsdakyquqrszyprfqguopurxsvwurxvszkqedxtrnhogvsefvmqfoiuwlfetykwpbmgnjqakob, flower type = wild. hash = 0.22115384615384615
+711: It is Tree: name = srqhoonovsuverqbnfuaswgmnuygdvjmrjzzdmvqzvnnsmhvzidpfjkihnwngrxpicesypydarrxhaeykhlzdbvzljmsaukiwafmzqwgiuoeembiz, age = 42. hash = 0.22123893805309736
+712: It is Tree: name = anrboydgkkorsxawwpbptzplbryawzpnpgkurnwyoulwxjqfjieegjedzxkpjpqtujufqhbrtydypjkmtrezzylmcmixdtcpjtqycaeioastsokmibeliuesxy, age = 60. hash = 0.22131147540983606
+713: It is Bush: name = lkcnyxyuhvrazbqedatwvadcxocusaxoizhdyrkwffviwfanftnegpagxvshunyukjdgzioupekzirtzzhycfkcjnknrjzjqxvrtpferolzurioskilzllydys, bloom month = march. hash = 0.22131147540983606
+714: It is Bush: name = ryevnabziiqlhoensqqjbbshrfm, bloom month = september. hash = 0.2222222222222222
+715: It is Bush: name = cttjusrferysoktbybwdamvefob, bloom month = august. hash = 0.2222222222222222
+716: It is Bush: name = telvoyjdvfqndizdiawfnzexasehllifvzfsddcgcuabbhthslcmtzqpfjwhybxirdrlrramtacwtfilooenvribguaprhbwwaibncahiowbdbyvlfzdl, bloom month = march. hash = 0.2222222222222222
+717: It is Bush: name = gkuoqlrqfhhnzcttigkkbvqqycwqigbiyzksblpncifhszttzleflwfbqiblytyijuyayczqvugwenlsiyccyoodjaltjezhojeluqysowcexeyjlpoezxhwzezmek, bloom month = march. hash = 0.2222222222222222
+718: It is Tree: name = luewtlpnhbevygaoerotirxayrdfpjrvbfovndvjczvhnfakjwpwkuzuzuanhzinfvatgzusaghmeqhiznzxkdcgqhghtlbainljcofhhqhjkhvqrhfiwlwrcqreau, age = 76. hash = 0.2222222222222222
+719: It is Tree: name = vypqxirvmckcroclxxcuumxpfoqjpqcxkliipyfnxhhpkiqdyarijwtyljnalwhiknhauxzqlifoanzisrysktehjuliygqsiwixhuwjnnimnphxlkgez, age = 86. hash = 0.2222222222222222
+720: It is Bush: name = fmmalwtun, bloom month = january. hash = 0.2222222222222222
+721: It is Flower: name = mysumyyvuhitotjohtqjnzagtwlhpgoihsby, flower type = home. hash = 0.2222222222222222
+722: It is Flower: name = uylfefejxqmpddzamypvpzeylgeyiatblwyw, flower type = home. hash = 0.2222222222222222
+723: It is Bush: name = vpmcvcloi, bloom month = december. hash = 0.2222222222222222
+724: It is Tree: name = qpyufhpxasaxmhyiyv, age = 1. hash = 0.2222222222222222
+725: It is Tree: name = geahimjgxkksjihkinwypzupvkneveuvpamlxzgeigqsqqgcptlnyh, age = 52. hash = 0.2222222222222222
+726: It is Bush: name = gofzaonvbtponxertfammwwzcmgqkhjtcbxeumkdvvxqtfwhixutieaowbyizazvzncdcovxjygs, bloom month = may. hash = 0.2236842105263158
+727: It is Flower: name = qekonffejuwkjbcvnlihofqxsuwircngccffwcsemotllvhtebguenygpx, flower type = home. hash = 0.22413793103448276
+728: It is Tree: name = fjcmnzfugfvhvayvhfnsmmevpwwphxjooqjmoyesmkjtqnthfzpdjbyzybbrgdtacamupqnmhfuliuvedfudomifilxiuzvrlqktyupaicqimcsvejox, age = 11. hash = 0.22413793103448276
+729: It is Flower: name = qatedzfqjctmlvkgukemevcwbxbhamokvzkgeqymdnahtsuexkekpeirgfebsegynszoveelwleqhvuukqsvvqczgcrvprgtaizhnbnnuhtxhzvkwoyr, flower type = home. hash = 0.22413793103448276
+730: It is Tree: name = xlaqgmgojetyeflpbvfcbmcfwdflgithqlngoikotiqrohdarxuzkcvuryayreyyszidtfmvsboutvipmkmpohgnkhnpbotytuicfrnybce, age = 98. hash = 0.22429906542056074
+731: It is Flower: name = vceobftiaondperucgpvfiosdcjbfkqfjtuvutbrwizsykauusioxkpwbaxsqgbhqnqzyparbhcnmlhdvybohezxirzwssxpqg, flower type = wild. hash = 0.22448979591836735
+732: It is Flower: name = qoxabhmzwxseidiflptazbimvbysszbypiqubqwkjqzrqoxmaiiejsdzggyvxgrhvxlmzzoutdxusvfbiukbfnsxa, flower type = home. hash = 0.2247191011235955
+733: It is Tree: name = npndbzmbvqajelmwauzeafwcgguulhczigaburjahojtnusppvnpbgoktmrtshukdstfyjlzvbegfexj, age = 87. hash = 0.225
+734: It is Flower: name = adooaldyqgmxsijphvvxmivovehlvfeowqgxodlkbdisgcijsncejnphwjuflnqsafjiqmwrflddiwssupllstdsizwonjeqzdcscoihrztxjbjcfvhiikiz, flower type = home. hash = 0.225
+735: It is Tree: name = bgrioumbqzirjikrqvxbggwuipbmmcpjwhfaiheuyagctksvjubdcrgywuaknmmrmbmuenztxaumanwhcfwdthfgyyogejdlzpcung, age = 44. hash = 0.22549019607843138
+736: It is Tree: name = msvnhbimrjdqehvkieqkpakybpulfbo, age = 95. hash = 0.22580645161290322
+737: It is Bush: name = gtzgqojitudkbnzrccikhpdeegbikrd, bloom month = october. hash = 0.22580645161290322
+738: It is Tree: name = rjzkhaovyzdjhvdcgihitksdatbqgkwzdlxpehaowrzyznnoluihwusbxejetqwjtgrfxedppczxniopmlsganaukgoklluwzumibunsucwpkjijzzwdkjmvrnxe, age = 53. hash = 0.22580645161290322
+739: It is Tree: name = vdgenpbkkhoewwghhofxmeurplhwtod, age = 81. hash = 0.22580645161290322
+740: It is Tree: name = gxjnlnpzzuvobnelqfnmszlbcxhqbtvagmibqqoennemcqxmsoealpissrlgagjzuvqgznpmylzehnzxkljrqbwdqefoofvedkbajdbeufbsuttuxboijvezzqikhnzu, age = 7. hash = 0.2265625
+741: It is Bush: name = hucoiomhhgdodqwparyjfutctihglpmhshnljhuzzmgveztpadhqgggiefmvwtdqfqrgodinguo, bloom month = july. hash = 0.22666666666666666
+742: It is Bush: name = nmjijiiobpppgcefkznruzqlbvwrofdhudocxgvxmfttdbzfjuybjahempuywyiddcbopycnvrgklfoiwwulbxhmlhfeqmrgmkuyielfnaziqu, bloom month = november. hash = 0.22727272727272727
+743: It is Flower: name = ybmnqivzluagbsiednwrpg, flower type = home. hash = 0.22727272727272727
+744: It is Bush: name = ldtxfahzmgnrunciswpoov, bloom month = november. hash = 0.22727272727272727
+745: It is Flower: name = mvipwetywhoygihckqycaw, flower type = wild. hash = 0.22727272727272727
+746: It is Flower: name = zxqccanmjgxpavvnhegmepzmkxznepevdjbpftoxfdoukmlnlkglonkeanehxfqseplboufxoseygndpsnrgzlerxattodhshypnbaeyydoebb, flower type = home. hash = 0.22727272727272727
+747: It is Tree: name = qdvsotgaqwduczaitnpineofokyrfrhhuivfnomdszgrpgmwkfbagkqztgxxfcaupg, age = 33. hash = 0.22727272727272727
+748: It is Bush: name = bcdpdrvzlcolkcivzmtmtugtuliedvwuryhktzotdouj, bloom month = july. hash = 0.22727272727272727
+749: It is Tree: name = ejiyivwivpyvaswaflhpyhreigylolpbodaxtisuvghzckdcnmbengmymeuknfnhvyifbxjtaxeqldfiseckmtlajkkklriochkkdiuqwenrndjtlpghswzzric, age = 72. hash = 0.22764227642276422
+750: It is Bush: name = trbujjfewuifinljlfydricvlqhokknaqqiikibmbrkthxlswolvusxqrtlcwbdpwbybfdlahwjdhvadfvuoutuvupwfgrzgmplaneuchmaygaedbb, bloom month = january. hash = 0.22807017543859648
+751: It is Tree: name = xvvhyimvwowxmodepmakfvahmsipxlfjpizihmkqbuutljjhsgqvrgsfbnjzyerkyiwznptoqhxmbcjopcbxqvsexbhyijzjherebubmoaaqafomnagikjjgwupurgc, age = 12. hash = 0.2283464566929134
+752: It is Tree: name = pgoemkvahppgruwndudsdsxcdnvudelvayz, age = 46. hash = 0.22857142857142856
+753: It is Bush: name = oaizqievbdqsfvzqzivjuxvhppsfllibkry, bloom month = august. hash = 0.22857142857142856
+754: It is Bush: name = kfbqxeunwdigfcecbbynnaipqtaemytyhty, bloom month = october. hash = 0.22857142857142856
+755: It is Tree: name = qqvyuzldbseweehhpobjmuljpobdawqeqffrhzkupptospnsbmsdqmwqaguwgynirhprufrmhkjelewgkewmwqbtsloqpchurawcuwfiemtjajyponjgko, age = 85. hash = 0.2288135593220339
+756: It is Flower: name = qlsvsyiipeheptbtyoicemhqysxuuyovkaelpehlfdfkkpmsilpwpgxfzbjutwedihdgsxbkqrfjcarkdad, flower type = garden. hash = 0.2289156626506024
+757: It is Tree: name = ksuhbwebhlcmyofcaakqobtoofejbxvmbgcedtsfmaadcvbmcnitdfknoeipjnlsfgdxejqarjwmffusklvzuenazgwbisxfhacyzrupdtrrl, age = 75. hash = 0.22935779816513763
+758: It is Tree: name = zicghtqmnwqdtolpjobcpkrisiwuulbfnxygysstoawvnwzjvmzocroehdfmqjmtcgquyrvzrjgoqwtrhzitvepauaegxvpoffttkbcajhrylououjapelbbpq, age = 64. hash = 0.22950819672131148
+759: It is Bush: name = eecfnbovwplkjhndnezkmgpgatsjkqlpvlnluphyhlyarziiwvhbckryeaexrodhzaaezlzclevisyjjigxpjac, bloom month = january. hash = 0.22988505747126436
+760: It is Flower: name = ebjuqgbehfuooilkdvaoozceaqbgmdhgodelwyiwwwqhdimogklczqgrssqhviarpvqgsfgytyjvwpijwoamlgkgrykzukpbydtbobyjpwxehacqb, flower type = home. hash = 0.23008849557522124
+761: It is Flower: name = byhcoaszshxyhznjcjqxfiiuoiokydwilcvwpnp, flower type = garden. hash = 0.23076923076923078
+762: It is Flower: name = mieobsmlzbywf, flower type = garden. hash = 0.23076923076923078
+763: It is Bush: name = kiijkesplnicobcbkruuhitqysuhghxzuyfvslzllsdkguuddknheuqtngjrsxvqjltvpoiewqddapheujftimjaretovhxkxpkgtnwr, bloom month = september. hash = 0.23076923076923078
+764: It is Bush: name = tledodwgsytbpeuvyaeqgsosnmgvzquetpvkvcwkljuvrhzkqxppeeyujtoepqwjfdyxafdewzcabx, bloom month = january. hash = 0.23076923076923078
+765: It is Flower: name = iznzsdxnmpawbucisxjzimzdoedqukeappyoewvfsxduspvftbijvblywontckyuabytydsxwxkbij, flower type = home. hash = 0.23076923076923078
+766: It is Bush: name = todomlikgkupupfahnreyepcyjqopbfaftkhtyxavobqjjpkcsbtkopvzcqxnumvndvpjnoeikiehwmoxhxrcpqarwbliqnvahmwyzrqysdqyppaereoz, bloom month = april. hash = 0.23076923076923078
+767: It is Flower: name = upousvohtkcjoxxirpyblubmbchulumwsuglfnpgapknzxucjjjkbkgzfnywracqunxclmonwqagaysivoccnfekkhxtccgunamejpddrmemnwlbgayaxwfue, flower type = garden. hash = 0.23140495867768596
+768: It is Tree: name = oqeipfeszigwxcdjehkfjmjalexqjwgnlblameoakrtfunxchblgtshl, age = 49. hash = 0.23214285714285715
+769: It is Tree: name = jpakatnnawqomlemfjwcfatllgcllairnqimukezjxfiwzycfganncdppqmwufxngjipkxqqeeogkxxttzsiujsjrwceavcsuvl, age = 43. hash = 0.23232323232323232
+770: It is Tree: name = elftkcxgzncyemkzqwgnoexywluckcmljblamemivaswhmeisywzqrwvupvqgwikwmuiunhfmnghbvvtilnkuiualllleuvrhjz, age = 67. hash = 0.23232323232323232
+771: It is Flower: name = owletbpfondyfzuwjxapikdugilgllyjbkcnfwhkjuspgxgnlkvaboalgbjneuqwbuetuwciglghlaouyzgvkggiaqthmqqgrtt, flower type = wild. hash = 0.23232323232323232
+772: It is Flower: name = cdnjkzuhhiajhtrgehbypthkygfndloubpsaridiezz, flower type = wild. hash = 0.23255813953488372
+773: It is Tree: name = zycdupwjvqjhbgcxxyqfnmnvqevalcueqiuybwisxuu, age = 17. hash = 0.23255813953488372
+774: It is Bush: name = ndjbmmdkparoiuyvhdyqglvkexqdbbzvsyjfewwperyijaddyvjktyeegrtwvwmakrlatusbhaddlofpsjbcryryuhooadcqslbhrubaabfioixzuvbt, bloom month = may. hash = 0.23275862068965517
+775: It is Flower: name = xkxdkwxyzzgxmkciszqybzekmekyexssefcqhoujtkovjfapxeiiselmmgnboylcthiadavdp, flower type = home. hash = 0.2328767123287671
+776: It is Bush: name = jvadvpoyzckroxmauqjmmgczxlqaylhmhktocbaokxmhsohvsmizpzbozomaavqmxlynsdkwamajlfswemujafwjkfwezogmunfodqp, bloom month = april. hash = 0.23300970873786409
+777: It is Flower: name = tobyzwlotecbrjepbimqghlpfueuiedtkphwwrhxotcnovjwcutlzoxfgidmzgspxlaqdeaemctjmvwbemqhnbjsan, flower type = wild. hash = 0.23333333333333334
+778: It is Flower: name = bhlvrjaabbwmcasiiwoehudcbulqbrxzdmypftognimaexcdrvyokollyzfliqsncyoojslfymbzz, flower type = garden. hash = 0.23376623376623376
+779: It is Bush: name = yqzkiqtgzdzghosvozgayvoipuyvwgmocfanutdtgghxsep, bloom month = december. hash = 0.23404255319148937
+780: It is Flower: name = akxnkwneyzouumwcvussdgncpnitbgzzxopsoukesmevthsxjywjuzcrdbxgudzdebbwxahyezpqfoosonhhiryerhmzcl, flower type = home. hash = 0.23404255319148937
+781: It is Bush: name = invlcjachukwcotouybcozhlfjbezmhufyjfjnbetgvhytqcanqoezuolbvjdekfbnhipkercvyehdlmrwawgjcedifqcygnworternthgajzxqaixr, bloom month = august. hash = 0.23478260869565218
+782: It is Flower: name = tnujiftbwrhppzizvcqfagmebanujrttmu, flower type = home. hash = 0.23529411764705882
+783: It is Tree: name = vgzqlunbjjeogxqaxztzpjfjmiawqasnca, age = 9. hash = 0.23529411764705882
+784: It is Tree: name = rhdzotksuuoxxrplg, age = 30. hash = 0.23529411764705882
+785: It is Flower: name = qkfkwmohrccipkoax, flower type = wild. hash = 0.23529411764705882
+786: It is Bush: name = jiljtnniaehnvsnvj, bloom month = october. hash = 0.23529411764705882
+787: It is Flower: name = odywfldzxggfracowxvytegfohofuhagml, flower type = home. hash = 0.23529411764705882
+788: It is Bush: name = tcjxwjsfepnseibjutjudaahaiqfoddfnclnmdxlyjgushvknru, bloom month = january. hash = 0.23529411764705882
+789: It is Bush: name = auoquubluxfxhrjjfifasdghjnmbxfdztkupmazggvvdodqyvdgpxlxntetjwceojaywrmqaibnmiwcosyoritrqb, bloom month = september. hash = 0.23595505617977527
+790: It is Bush: name = zkecoutiwcejtfvntnmyzvnmfnwrlcgeaefhpwslfvzcucoxibsoqjhzicveoiiayveouaudhkewzcrbhfqbgbsyyjkwsqvgvivopkzbscpyjl, bloom month = october. hash = 0.23636363636363636
+791: It is Bush: name = ohimobufsflermehkzuwqjbewjkndempxalyvydebxikxyzmccynudmdavxgomskmqxghccukkofezpezzzfkwhulbeugqepmoylxaqzxugrvr, bloom month = august. hash = 0.23636363636363636
+792: It is Bush: name = dothisjidgvhjruydifjlqyynzkkvxrxcranwmgeypdnozartphpistqbigujgtoeghyacemlnqwtevqzoaouvbxzhdbo, bloom month = january. hash = 0.23655913978494625
+793: It is Tree: name = rwikoxryqigkidpgoyhihjudaplqbnzbnktfqnvaarsiajksehiwkuxzplopjrkykceyfnxnfkwi, age = 79. hash = 0.23684210526315788
+794: It is Flower: name = ltxhwzzezjdfwutryoldlfokfrqpfganxnguufvxajstpoqeqhtrcuiietg, flower type = garden. hash = 0.23728813559322035
+795: It is Flower: name = ywnxwyringnvpervpeaozzmqpfayndwddafwipaswbjqtsiffewisuxfydhcknqsoyjezokvirepngek, flower type = wild. hash = 0.2375
+796: It is Flower: name = bwrfoxxegozzomoftlxdw, flower type = wild. hash = 0.23809523809523808
+797: It is Flower: name = lxtuqbfykipbuxxkaijqveiwwbvueiqvlafhqqlcwmfflmveqrlujlsdbgziwoy, flower type = garden. hash = 0.23809523809523808
+798: It is Tree: name = yhyqndneqzszqvpzhsodnitgzcbwpmnxdglqufznahaogtnauaaujqebwahovfx, age = 2. hash = 0.23809523809523808
+799: It is Tree: name = rgjofuobidtkosrwixvmdolsmwzsuljlsheomhbiunagzjlthgtxfnldcedkpiz, age = 10. hash = 0.23809523809523808
+800: It is Tree: name = secxlheqdxckxscmhensruvtzwvbyixtresdagmeohkzjnqeogukuagjjirjvzk, age = 0. hash = 0.23809523809523808
+801: It is Flower: name = imjzlyjfymnarxtzgoxmcoajsheqokumgvfuegrfpv, flower type = garden. hash = 0.23809523809523808
+802: It is Flower: name = fzeyktzsaeexovcyjyqiihvjylpfsyvjgdagerzudl, flower type = garden. hash = 0.23809523809523808
+803: It is Tree: name = kwohryasjecissaomxgphhdsiphmldmpufkbspvqfilgiswcigypzmqrxbwaijyecykspeeiwapinptlldal, age = 70. hash = 0.23809523809523808
+804: It is Tree: name = bijprkzqkbikhzpacpgkivrlleeuyzrlgoxfvnxwfgoaah, age = 34. hash = 0.2391304347826087
+805: It is Flower: name = gpndlkmrwxbquufnisnadaolq, flower type = garden. hash = 0.24
+806: It is Flower: name = ddnbaoywhsiehdwqaeqfpnvhtuevtdzkcbgejjtmqpsfazoesz, flower type = garden. hash = 0.24
+807: It is Bush: name = vodtmkiyhpyvmhgdvgkqxuauuqisqnbuwufzuoirzdayelttxltubrumfechrntlaijmcmeitxzkvqtywsmkpry, bloom month = june. hash = 0.2413793103448276
+808: It is Bush: name = tdfbjskfnpqbokdhwjdxlvioeeaqa, bloom month = august. hash = 0.2413793103448276
+809: It is Flower: name = hmaabiqiytwurtqlbpvuqtnltzgod, flower type = garden. hash = 0.2413793103448276
+810: It is Bush: name = ynpvplmllewfqtsxgunibjojehuorqpugfitryajoiyrvvbslfaiitjusyabxtryncxogvzhpnbjpwprtulinxltguevxuinnngqrdnzricavutldqnodqzu, bloom month = december. hash = 0.24166666666666667
+811: It is Flower: name = xapehwoqplzejeqkrsnounbcbfqgtupjg, flower type = home. hash = 0.24242424242424243
+812: It is Flower: name = enlwaewxoewwlucceugbmvtzuepoxiqosxcgpjtxdmtviomnxgtrzrjdpsrezmzzbs, flower type = garden. hash = 0.24242424242424243
+813: It is Flower: name = qenskjlzwbngibkvhucbpdwduqcdexkeaovwbsdsnsxgafafuogoavyrhjjrpoavhovkfj, flower type = garden. hash = 0.24285714285714285
+814: It is Tree: name = agqfsxptjtdoebrscmigczpioffapfizwzacj, age = 25. hash = 0.24324324324324326
+815: It is Tree: name = skwksmpspwefkebclqabobbvuynipejcheatkpbci, age = 61. hash = 0.24390243902439024
+816: It is Bush: name = xohqjnisagjoceihgpycvedojwsyknbnizugqhajnqnsixabbbaoqmgtlsnetutwlvusicvijxzpbxjsavknajcyrioggdhdqvoxialnlkktexhlebktunqtqweczyq, bloom month = april. hash = 0.2440944881889764
+817: It is Tree: name = umwdbvkwgovtipcbedzshhgnovzplprheebazibwmiriv, age = 97. hash = 0.24444444444444444
+818: It is Flower: name = yomautyyemnqoyyanrtokkujjtuzndafrjewbxzxbdhwk, flower type = wild. hash = 0.24444444444444444
+819: It is Flower: name = yxjuaqrigcibfakxncotoioafxidydvjdhwqddyipyfkuchhcifqfnyizkqoydbfanvhbpvuujygzdxruqsqyefbzecmuezshl, flower type = home. hash = 0.24489795918367346
+820: It is Tree: name = choggtouevagckdfrzydatrqggncdsdlmqalkuhoqnqponcdimoiakfrjceeucffuxifbtbkfyesvvrppbzxnqeatkpbveunwecuhckhkh, age = 39. hash = 0.24528301886792453
+821: It is Tree: name = jgebbaorktvydlmqptrampujydxbfzfsptnqllbhinyxnifsobkcutjwjhafsplgjytmhiqoiwnvaaivneuolyceteufpzmowerdjuziphdulv, age = 72. hash = 0.24545454545454545
+822: It is Bush: name = ijelddkokfrblvsugnnsmstxinttugmiewexiwxsxswsdiwarbqndhokiovcmwyypepfozfadduxjcszasoplvwjguzhlqocwjihqqryebwalo, bloom month = october. hash = 0.24545454545454545
+823: It is Tree: name = wuraichvhbmnlacafaplcsmrsbugsmbqdiiizshktqszrsufrkafbiswa, age = 33. hash = 0.24561403508771928
+824: It is Flower: name = zidbdovkveprpqsiruygxvdfxqjzqdezbulaowuuhalwqthtfqfecnqvfparcwtayuamfgzgbnoliygrecbbgokbgwadhdpmogijvntucaaprgufrl, flower type = wild. hash = 0.24561403508771928
+825: It is Tree: name = cujshguhnfigwlfcjmtanlvbbjebpkdogriorubvdclexyvwnitgiazpuqpvu, age = 89. hash = 0.2459016393442623
+826: It is Tree: name = mklkapejobwoseruyowpafzubritduesuazcszxfspcfmrvvfxkjpqszbmrfceevf, age = 75. hash = 0.24615384615384617
+827: It is Tree: name = buuxxatpngtuhkpzoqlamcebnawfoybducposizxyljufrinrlcrcfvctpgejmrtoxqiv, age = 92. hash = 0.2463768115942029
+828: It is Tree: name = wuppecntiarkkowzxveivzsthkkjehzvwuicaaemkzjfwmhjguuntrcwfuaeufukcwsvtmlkdesypciyjmvywdxvrxaepwqhhbdir, age = 2. hash = 0.24752475247524752
+829: It is Flower: name = bwdlvssznbvhyitwavdabmgybeuaaswsnzojdzwtophqdedyeapfasqdcxaxwizvuenrxhwoorektumrsxcpagomlbktkicmjzusuwjsx, flower type = garden. hash = 0.24761904761904763
+830: It is Bush: name = qxjalangavkkdwovyroxcbjwmzkmrbkttatxseueglfbujlllnukotghcicnwncvllxijiuvgjpqmxzjgouizyielzprqvlmxuvfdubaueizetjgfurcq, bloom month = august. hash = 0.24786324786324787
+831: It is Flower: name = gganjcptijakthpeulmvyrilnbhekajmlagyqahgirglsatcmmzuprcdraiuoplghabyphlpalxxaycymopj, flower type = home. hash = 0.25
+832: It is Flower: name = noizynpykjqderxzkfgfohdziiim, flower type = home. hash = 0.25
+833: It is Flower: name = vijowpmplftidfrretzeulnnqyrucfzhfdouaytwqsbheehclpud, flower type = wild. hash = 0.25
+834: It is Flower: name = hmtauogpzvmdontyojpjqarm, flower type = wild. hash = 0.25
+835: It is Tree: name = rifhmnqiwkoloexgrcnlggmngwmbelijbzjustwbuujjabsa, age = 63. hash = 0.25
+836: It is Flower: name = vsqpfuvkxeczodvxqpjyyfzeuwfuclkaanbgjjejiymurbcswqlelliewrunouujmylcwuknfkjplsegunqtezfw, flower type = wild. hash = 0.25
+837: It is Flower: name = cvswnfrbaaelqnufvfzumctdxljoxeoypofx, flower type = wild. hash = 0.25
+838: It is Tree: name = dxugvbhnmorifubf, age = 30. hash = 0.25
+839: It is Flower: name = xeoxbkrk, flower type = garden. hash = 0.25
+840: It is Bush: name = sdufpkjhkexlornojkgbafbvamioxluqumrntwumidxqdwhurcijupdrzrlijykb, bloom month = june. hash = 0.25
+841: It is Tree: name = pqnxzoef, age = 92. hash = 0.25
+842: It is Flower: name = ifheytbm, flower type = home. hash = 0.25
+843: It is Tree: name = gphyuojksxumcrmqifpbsuuk, age = 7. hash = 0.25
+844: It is Flower: name = buwqhmlmfxhxprujwsuubxcxgkjayiypuoyvpbknvokzougpcnuxzputtdhigwaoexxswruc, flower type = wild. hash = 0.25
+845: It is Tree: name = ptidvfhvkptfpviblxkwybicpkerjxuamlazaagiapwqsuhoitwxgvxq, age = 69. hash = 0.25
+846: It is Bush: name = ooirujsglbmgxytewisrtavjbhssfbibvmbalndeaqgdkvfnizthvipmnucdmehidjiz, bloom month = february. hash = 0.25
+847: It is Tree: name = gimlutiyilgqwcvn, age = 18. hash = 0.25
+848: It is Bush: name = upazxeqiegczzwkxilqjewlbzdzivmihttyduwmzqteexcmobgoaqkzuiduxpjkxsqgjtyuunmmjptlc, bloom month = june. hash = 0.25
+849: It is Bush: name = irdbfgflieoiacvntxsaujktdrtspdmytuihghqvvantsbweahubxtxszutm, bloom month = october. hash = 0.25
+850: It is Bush: name = ornemivvzyzbidsbspoixwtiavzbymdcqxuzmfgesrlpzsusimmxuwtmrvcxwqiveeddexssuuoedkvdiucosksojomkhkzihpajqhfxnqlqcrqr, bloom month = october. hash = 0.25
+851: It is Flower: name = lifcxruwxzhzxlbeeiyucasqjwxazkpebqprouwgfbrspacumffpkvzxkozmnqprqilurayicckbmcppvsdkimveheateywxwwmoepqahubtjiwpcxjdyqaudovr, flower type = home. hash = 0.25
+852: It is Flower: name = cbwpcconhafgpmbutiriaefsnoeleemijwjwamvkhufkbkgdjhtdgocttksgbbvxkmbuveywvjbcjztenjiouslzoogs, flower type = wild. hash = 0.25
+853: It is Tree: name = rrrtxugdjluhfpepupux, age = 65. hash = 0.25
+854: It is Flower: name = exotozfhnqimwppdgakkryzfieejelysesvyrslbwbmykvkljbkirvwcbihpjiwvaotiiqzu, flower type = garden. hash = 0.25
+855: It is Tree: name = doifbxkupwzuibrdxuighgdokrhrygmnerthlbxo, age = 3. hash = 0.25
+856: It is Flower: name = ookthauqvbigjojnwtugipmtdogjyxulhwmdwumukwhevliutqlfdwycvukcfxezpedbwtmyzvpulqer, flower type = home. hash = 0.25
+857: It is Flower: name = hznerdibhpeuhfigmmggssciykbiojph, flower type = home. hash = 0.25
+858: It is Tree: name = ikbaewvihfvooqaymytxktynrdnh, age = 11. hash = 0.25
+859: It is Bush: name = vfrdlpfoucnemecrilvilrrftculhhbhiidcdlwojowzwqzkgwctranfemewmnzaerowuwwawtgpnddriyimzhamcphoollpjzaelxs, bloom month = june. hash = 0.2524271844660194
+860: It is Flower: name = xwiykxjdvjrruacukiakkeaddzwxdhhmjoovrajszeyujahtoetnuxkwdpsdjqcgmaktznvshbinrujtsrqtqobfepjwxou, flower type = wild. hash = 0.25263157894736843
+861: It is Bush: name = cfejqjjskocuatvehhuynvjefqehfbryhityxkseyyisshahlwylvbvcjfshjobxnjozcwdaiazqehrguei, bloom month = january. hash = 0.25301204819277107
+862: It is Flower: name = ahqnajwrhqhnobyyzvleixuzkawomdthfdminyfukuukhycaljnduiwoktnejnnqxjzqwvzbedpwuix, flower type = home. hash = 0.25316455696202533
+863: It is Bush: name = umvzzvxojkfnyluuaejokrnulqfgykbymuctkzqnfbujfnmiudklnguuuobcidsxnhuvasweftojpiedaprxovqradpvuwnoyclhiyasjrroakvglgksqxzyxktclm, bloom month = september. hash = 0.25396825396825395
+864: It is Tree: name = ncgaasrbpoiooxugalkoirdhrbzuymyicydvlwungqddefjeggarphkeabzhjitcuvdkwdyasymmyvpfvvmpssanbodvieowekihfqdnnyqaghyrfhkyrfoaltyfpe, age = 68. hash = 0.25396825396825395
+865: It is Tree: name = yoceiklgzayezudntswyfrtbuofzwytfibohjyavwioidpgogxokjvuktyobewaeucgqvmwjffnrnzbzewnwynlqrhgzkagoqirelwboxaqvzltmzn, age = 79. hash = 0.2543859649122807
+866: It is Tree: name = laeuimmsvimxncqbhewgsjpszegtfqzjgfviaqkpekottatmzha, age = 36. hash = 0.2549019607843137
+867: It is Tree: name = opolwthlesobuwelxovsfqcrkjosjwecssyjnqpsijvjzeuqadexyxkvrxidvlewnllsndqklqiqlaatlluacragcqefesnzet, age = 72. hash = 0.25510204081632654
+868: It is Flower: name = opocgmbecgfonpqnksuaywfxxlkhjgquzaktaooxgtuzcirfzgqthbmgsorhliiaomldadaddzniabmtctecthlmvfglcu, flower type = garden. hash = 0.2553191489361702
+869: It is Bush: name = ogzuktotcojpjuykzihklonztpqbjkanfxcrfutigidjnil, bloom month = august. hash = 0.2553191489361702
+870: It is Tree: name = awbpznxvwjwgeumetkjiuoayqmelvkvfzdyravizlstapmmwcfqjcmiwfkocmoqgpoyudpynkhjeuuipesnqtuixdxtbhy, age = 93. hash = 0.2553191489361702
+871: It is Tree: name = rpeoivfrxesovjyusvzjborbqdbxduioynqcbzoaerhhgmzfzrwxududyeasbzrynmtpnlrewuwpuqhtuh, age = 40. hash = 0.25609756097560976
+872: It is Tree: name = wubokdnulkdnxjvvnhaaespycjqrbazydnbleydmfzlfkvdomuskudygysqlvoiffuaknaiaxbyluo, age = 38. hash = 0.2564102564102564
+873: It is Tree: name = pyhkeyqfwsyosalabizqahxgpkgkiasmpbodfej, age = 5. hash = 0.2564102564102564
+874: It is Flower: name = ybdpdjpqpucwkaexrqaegufxbgrecxsakfjjcvegktgmubpkxcovxidofroacdoesaziynvfjy, flower type = garden. hash = 0.25675675675675674
+875: It is Bush: name = woptjgiaotcnfmhuhobucduxwtwrhuoklujwcpeyzmguxjxsogsxpwklzvjdbgqgmeublapsao, bloom month = june. hash = 0.25675675675675674
+876: It is Bush: name = enlpihsonqqypcumfnvrsytzsvnvlhemndtruwijsijuqizrxxibolhhrtiyumzlrobaiyultqftjbaioczufgwdiqaaizdwbdblz, bloom month = october. hash = 0.25742574257425743
+877: It is Bush: name = hhyunczgicnzalrozfitxeznxocaoajdtukwpeuefknsulxsyshcikrdfsvnpztwllcrlztaaayyhougjcqwotedz, bloom month = march. hash = 0.25842696629213485
+878: It is Flower: name = dqgmfwetceahwittsgfjirgeuosojvcqzymnqpoplcdszzpmtjizpowtubjflclwrmooagoxztsvhzotaioofismz, flower type = wild. hash = 0.25842696629213485
+879: It is Flower: name = mvaqxwqbjemvmpbuwiroqhdhahitbtigtgnafkxtvbkulwkjhkaioqhigipbetfcuevsaryigcdwy, flower type = garden. hash = 0.2597402597402597
+880: It is Flower: name = zafzmxhxoveumqbiywqnxyquhcqfizmfxmipezendyontogrneeeywbtxxrjtcjwmiosrqion, flower type = wild. hash = 0.2602739726027397
+881: It is Bush: name = wodeopmptotsnxqwmgfibso, bloom month = july. hash = 0.2608695652173913
+882: It is Bush: name = iyafouskuwclzgicvkidsvxhjvdoekveicodywviwvyoijnesmonebdunnasxdsdfvlxdawqxbtqccaabfpqxmtsdkcswoswkajwois, bloom month = april. hash = 0.2621359223300971
+883: It is Flower: name = lcrabzcndzezzazryiwjgoaawcjynsabronrlunhuyfkclsxoavyxituuhvgx, flower type = home. hash = 0.26229508196721313
+884: It is Flower: name = xazeutrxtcwipangfoirvitblgccosmngkubhk, flower type = home. hash = 0.2631578947368421
+885: It is Tree: name = ltonudwyjnuzvepcejp, age = 38. hash = 0.2631578947368421
+886: It is Tree: name = wjjaseybzmidydobefmvaynxbgiqbwvwosfyvrnilzelargsukohtmafkykpjisehxyuwpdmmuanvmxvieowkewulucyootjqyqnllpilbfilzucz, age = 45. hash = 0.26548672566371684
+887: It is Tree: name = uwplamcouvlohifctrpauhlgbswokogummfpacptxhpwlebaecqnccnhwoaehmrjqrrkanssecvkbez, age = 24. hash = 0.26582278481012656
+888: It is Flower: name = yzaxpjkzevqtvmvbiumjolekvbuoipcxkwqugirrgcersnakejuvrqopagubrktmdbccevpeoaqpnwfubscgconpubgdpy, flower type = garden. hash = 0.26595744680851063
+889: It is Tree: name = kbwiztgjyibdkau, age = 91. hash = 0.26666666666666666
+890: It is Bush: name = kcirckkiiztiiafpjmjyefohkzqvng, bloom month = march. hash = 0.26666666666666666
+891: It is Flower: name = mlfghiarwaqntyraimepwvyctkjkjeccvfguivebiorlvfecwutpivpttuthaqzqarmxtqkmpvwqilbvvlinfkijzckowzibgtkeuiaedlbjarewnujs, flower type = garden. hash = 0.2672413793103448
+892: It is Flower: name = koxferuxukubpeddappnukoxwurzcvlhuvirnqzfjxduisoxppujvuktfftqmwewaxxihkrfpwaxiztvnm, flower type = home. hash = 0.2682926829268293
+893: It is Tree: name = oyjghfwztoclvtrtsvabaftvaowakbtedyuzbksoadegbnpetwrmuyrurabzieuquchmilxbtzkkpq, age = 42. hash = 0.2692307692307692
+894: It is Bush: name = zimxkcmnyiyeeuygupizxatvqhssgoucdxizvfdgueyingesxakqetzhlgsgpoydlzwkpealcachsw, bloom month = march. hash = 0.2692307692307692
+895: It is Bush: name = uuiqiusecakrethcqzzhskuyfvuibpeiimaycpwaudnqwjctscldnsguzqubhhfivpkfxzegqmnkgxbonujwrspiw, bloom month = november. hash = 0.2696629213483146
+896: It is Tree: name = eieplulnuegecydpeshrdstfmzzkimexshcnp, age = 30. hash = 0.2702702702702703
+897: It is Flower: name = qhqwtzusodbwjksasjijgwoausubjsrrooehloumytnvnjbbahtnadolftxnmqohuzggsgnuxa, flower type = wild. hash = 0.2702702702702703
+898: It is Flower: name = aqtnknrophkegnyvzziojtunyyzpicoaticjh, flower type = wild. hash = 0.2702702702702703
+899: It is Flower: name = pvuuiyfqjhj, flower type = wild. hash = 0.2727272727272727
+900: It is Flower: name = huitntzbcaz, flower type = wild. hash = 0.2727272727272727
+901: It is Flower: name = uuykaflvfnr, flower type = garden. hash = 0.2727272727272727
+902: It is Tree: name = oajwtvjdhme, age = 24. hash = 0.2727272727272727
+903: It is Tree: name = usiuyxqsffy, age = 29. hash = 0.2727272727272727
+904: It is Tree: name = udqevotghvindzifnmjebt, age = 35. hash = 0.2727272727272727
+905: It is Tree: name = rkzobfoloqeeqpioyjyfmtupwdwhvqmso, age = 55. hash = 0.2727272727272727
+906: It is Tree: name = uqdedikxqvs, age = 17. hash = 0.2727272727272727
+907: It is Tree: name = ofebwnnelnt, age = 46. hash = 0.2727272727272727
+908: It is Flower: name = vtsmjsxedrjtzncrxgaugtofijrluncoolbsiwabviksjhmuhwtmuezdsiedijmvne, flower type = garden. hash = 0.2727272727272727
+909: It is Bush: name = qmiumzuoocarzfdkqolawwjoehpyyfupfsphmgbxqpervubnksapiwpoubcsoghktkinynkav, bloom month = july. hash = 0.273972602739726
+910: It is Flower: name = lumeiaczqqumugtkwpuflulkzttfpamsdibblokdygxcnlgxiuawdnmuorrhup, flower type = home. hash = 0.27419354838709675
+911: It is Flower: name = zurlsufrieyyycedanrhtxlcchaiqqnpvywzregaknluabxjaub, flower type = garden. hash = 0.27450980392156865
+912: It is Flower: name = aadpjfozufjeahdwgexwcinnotlhhoipsrtttyfd, flower type = garden. hash = 0.275
+913: It is Tree: name = juvfuvpchabciidoitcewrmphxnhyuetehwqmrxlfarflfzjilsdppocbvwuueoysbgmu, age = 75. hash = 0.2753623188405797
+914: It is Bush: name = tpaibzmriaqdzeechwlmlmdajybsaxsazqkpvsywrinulszseenghratjblnuuizduevv, bloom month = january. hash = 0.2753623188405797
+915: It is Tree: name = foudfrklnepdtvduapdlhblockuxbjiqjojyiurfzlthzwjnaqbdaczcjoeonofaouhqrakaaakbqxrystlpmyx, age = 22. hash = 0.27586206896551724
+916: It is Tree: name = ztauezadcbqqwbpeafyweiiicdcpgnueqyegvyerkemzanznscvqvdpfmcddxdeehuvijvbrufedkhxombrfqbwdiaxaaqqhaijywkpegvmjftribehrrgtwcio, age = 46. hash = 0.2764227642276423
+917: It is Flower: name = tgmrstzfrqfedlpmiipbaghrmcoveedwbkmllluueieoehceluvwwolspcpeqbztb, flower type = wild. hash = 0.27692307692307694
+918: It is Tree: name = ewkdeoaruhbqfisfoayijlvkxzybxfjdblus, age = 99. hash = 0.2777777777777778
+919: It is Tree: name = orjbsntoswhezjmxwezhmysulmapzuiepnat, age = 53. hash = 0.2777777777777778
+920: It is Flower: name = oseagvwzvxzaetmazsrozhtymeqjbzccvynzfziodee, flower type = garden. hash = 0.27906976744186046
+921: It is Tree: name = rvdjmbuintupmpjimmbajhaiasagieoukaphhvjeujibkgfbngbljedrkwkcncxcuzny, age = 31. hash = 0.27941176470588236
+922: It is Bush: name = simpaxeapjbaakslfvtpreguwepsrvkr, bloom month = september. hash = 0.28125
+923: It is Bush: name = iwgryuytnayffxxjewxrjmladmudojae, bloom month = march. hash = 0.28125
+924: It is Tree: name = watnxjbzdfxjftpvppiepeyxufwzzbamearmgcckoeboaofouyaamdropnavpqrzuzjqksvargvfupipekvpdmrvouvsasaxbwkcdfkuuc, age = 19. hash = 0.2830188679245283
+925: It is Flower: name = pygkzauewedtdhzysgnwkmcbupalvowxnljkdpqxiqdlkuzxbmmsnoqzugtbetaveyqjgoopuiesaoculoiywilq, flower type = garden. hash = 0.2840909090909091
+926: It is Bush: name = guxjfwdehnbxxerzofuuv, bloom month = july. hash = 0.2857142857142857
+927: It is Tree: name = ctqdezqkcsnuou, age = 70. hash = 0.2857142857142857
+928: It is Tree: name = uqvwixacmqkuvx, age = 31. hash = 0.2857142857142857
+929: It is Tree: name = eikmgyacimtwomjvgweietzhkzbrogtlilizfnagjh, age = 60. hash = 0.2857142857142857
+930: It is Bush: name = jllyikydeipegy, bloom month = december. hash = 0.2857142857142857
+931: It is Tree: name = wilsuujzdbujckzwxzeaf, age = 13. hash = 0.2857142857142857
+932: It is Flower: name = lxfliiebesvzezqozfmpy, flower type = home. hash = 0.2857142857142857
+933: It is Tree: name = qkrutalgqfrrei, age = 14. hash = 0.2857142857142857
+934: It is Flower: name = iqbbumfrhngkiejocyajhnovhipfrmvofjxuzrjcoeotignukvarobuirsqvdhhaawpfkeyaxktwtdqhgwbmydutupwurhitluuuqggenemjkqhfjgedgigkum, flower type = garden. hash = 0.28688524590163933
+935: It is Tree: name = iabsocydbxoehbamwusapfsfsybterq, age = 52. hash = 0.2903225806451613
+936: It is Flower: name = mgrxhqdiuuiypkumbfxwoqwhixasagv, flower type = garden. hash = 0.2903225806451613
+937: It is Bush: name = burrihdzfplnexxlnmiaeenq, bloom month = january. hash = 0.2916666666666667
+938: It is Bush: name = lauinwicfujsnnbmayglchguqlughriivk, bloom month = december. hash = 0.29411764705882354
+939: It is Tree: name = qotluixpaccxvvdin, age = 45. hash = 0.29411764705882354
+940: It is Bush: name = fjwjogqvhdaybqoaimeiirhgcoxnesdkkcwldaeutxbk, bloom month = april. hash = 0.29545454545454547
+941: It is Bush: name = vjbosyvnytciaiqxiflimsqlnapznooneqeenceejtsjdxoaudcsetedcbuoxmxnfbsllewvsadkw, bloom month = december. hash = 0.2987012987012987
+942: It is Flower: name = oqrmousghojdvhgdqpoi, flower type = home. hash = 0.3
+943: It is Bush: name = kyamtbhomleojwieoliosizjlfcjvpmgxaqdmprivlkhuldsee, bloom month = july. hash = 0.3
+944: It is Flower: name = kwwpzqhqhidihejijoob, flower type = garden. hash = 0.3
+945: It is Flower: name = baevozgfedywwugeeycygnknmtooxx, flower type = garden. hash = 0.3
+946: It is Bush: name = hlkoesuppatqmzopualtybwdayxanf, bloom month = august. hash = 0.3
+947: It is Flower: name = johhtvsoshoaquegaphyailqdhjvgxerrpzkmgwtaoaaqvnyosmin, flower type = wild. hash = 0.3018867924528302
+948: It is Bush: name = fyjpbgqieufoavdmloboosiekexcxwsdpnpyocyuzdqhusqpxhjkhdmgieloaeekethfucflxnjneij, bloom month = august. hash = 0.3037974683544304
+949: It is Bush: name = hnfezbymokyjoeuffocjyselaaevupskcrlawncxtdvtui, bloom month = january. hash = 0.30434782608695654
+950: It is Tree: name = buredmrsodslocefftbdidi, age = 2. hash = 0.30434782608695654
+951: It is Bush: name = rfemtgwezcomavzxuagibfk, bloom month = april. hash = 0.30434782608695654
+952: It is Bush: name = hqlnavorezjdxqtrurxuieohjzzahapulbnk, bloom month = november. hash = 0.3055555555555556
+953: It is Bush: name = qtueeyrrzaytt, bloom month = february. hash = 0.3076923076923077
+954: It is Flower: name = oaxbltqcazboaigwykyzfztiilippagdtiapidynsh, flower type = wild. hash = 0.30952380952380953
+955: It is Tree: name = bzzfxotlukaooshqpkwyenribighiumwmokjtmozaergazgeginztvhsepajtobchfquanj, age = 34. hash = 0.30985915492957744
+956: It is Tree: name = deentqivfqvpayjvnlsfdkipcjadbpaeitfpgoebqdeakoorgibflaohuhuxhaeftrcjnteicameiyfegeqjlzwmmbqehlbwmnbe, age = 31. hash = 0.31
+957: It is Bush: name = mricfejfkhzdualhupbyfzuxejmkomafobwdumrxxekcmiixfeiahjsur, bloom month = november. hash = 0.3157894736842105
+958: It is Bush: name = auwkreajttcgauchqljurlcouajikjvjnkmdlo, bloom month = march. hash = 0.3157894736842105
+959: It is Flower: name = obcelgldvubzpvivauh, flower type = garden. hash = 0.3157894736842105
+960: It is Tree: name = raiakixfenunebptpazbxfaznhuurjnexqbehpovvwuuylievqchrtlexashkmidefeutfwfnlklphkrkwogaiyzqieoqjb, age = 98. hash = 0.3157894736842105
+961: It is Tree: name = ioaopfoknqkuprfklkv, age = 95. hash = 0.3157894736842105
+962: It is Flower: name = niimyufzwgdaqoqtlow, flower type = garden. hash = 0.3157894736842105
+963: It is Tree: name = xoowfiivblzhuuozpnipbuprpatuussveqbsrqkpw, age = 45. hash = 0.3170731707317073
+964: It is Bush: name = vycspeuqemeouxhlziweosowcykzdblmeividfbxhpjjtgwuviygnoxwqakretoiupaauxvmjkstifnwdboxzvrouxaipg, bloom month = july. hash = 0.3191489361702128
+965: It is Flower: name = vrizupotcyxplipuuurgoaiwuqyapwozmppllwulczy, flower type = garden. hash = 0.32558139534883723
+966: It is Tree: name = lldqishciabmijezuuwoguoavqikfmfxjquofzodqixceglhotdcqdjnnufen, age = 13. hash = 0.32786885245901637
+967: It is Bush: name = wwnigjfftijjkwsigdenmerkyeledeazfawmvvtuhrazyxuokcwefxlectucoiujzxihfpyxrlsuoipikuioeusjnrj, bloom month = december. hash = 0.32967032967032966
+968: It is Bush: name = tqiistnopiwy, bloom month = march. hash = 0.3333333333333333
+969: It is Tree: name = cfiucgfyauowgsx, age = 83. hash = 0.3333333333333333
+970: It is Tree: name = ces, age = 91. hash = 0.3333333333333333
+971: It is Bush: name = kiyocbbxraom, bloom month = may. hash = 0.3333333333333333
+972: It is Tree: name = lmgaodsatfufrjwigbnoejwauaelgfkgb, age = 94. hash = 0.3333333333333333
+973: It is Flower: name = igf, flower type = home. hash = 0.3333333333333333
+974: It is Flower: name = owy, flower type = garden. hash = 0.3333333333333333
+975: It is Bush: name = awh, bloom month = may. hash = 0.3333333333333333
+976: It is Tree: name = uzobtmudahmm, age = 94. hash = 0.3333333333333333
+977: It is Bush: name = ixl, bloom month = january. hash = 0.3333333333333333
+978: It is Tree: name = wuirxexusrpmfpkiev, age = 69. hash = 0.3333333333333333
+979: It is Tree: name = toliagmfgcmwimiwctakloud, age = 69. hash = 0.3333333333333333
+980: It is Flower: name = efmwjjexbxiqyodrnilsiyuuufinjcmienmeyq, flower type = wild. hash = 0.34210526315789475
+981: It is Bush: name = rnoyjydojejofanujdvlhiu, bloom month = june. hash = 0.34782608695652173
+982: It is Tree: name = mstftahhmeinefrraoek, age = 94. hash = 0.35
+983: It is Flower: name = iopaeesigdoiheoeufxxrzicgjktfryxhhhyl, flower type = garden. hash = 0.35135135135135137
+984: It is Tree: name = voaekxduahzvlwoegneveuqigqsavdftdxefpwtexa, age = 45. hash = 0.35714285714285715
+985: It is Flower: name = rtexlothbia, flower type = home. hash = 0.36363636363636365
+986: It is Flower: name = zosvjpzaoju, flower type = garden. hash = 0.36363636363636365
+987: It is Tree: name = oooqxghikn, age = 66. hash = 0.4
+988: It is Flower: name = eoimptklukwjuwsaoeugqndu, flower type = wild. hash = 0.4166666666666667
+989: It is Bush: name = aiotaakqvtwk, bloom month = april. hash = 0.4166666666666667
+990: It is Tree: name = uuktcfo, age = 18. hash = 0.42857142857142855
+991: It is Bush: name = edehzom, bloom month = august. hash = 0.42857142857142855
+992: It is Flower: name = eyfnuafoheq, flower type = garden. hash = 0.45454545454545453
+993: It is Tree: name = uisuokguosdlv, age = 57. hash = 0.46153846153846156
+994: It is Tree: name = fo, age = 68. hash = 0.5
+995: It is Bush: name = euwre, bloom month = december. hash = 0.6
+996: It is Tree: name = fiaca, age = 30. hash = 0.6
+997: It is Tree: name = riu, age = 2. hash = 0.6666666666666666
+998: It is Tree: name = ain, age = 80. hash = 0.6666666666666666
+999: It is Tree: name = a, age = 1. hash = 1.0
