@@ -2,9 +2,9 @@
 
 import random
 
-from src.bush import Bush
-from src.flower import Flower
-from src.tree import Tree
+from bush import Bush
+from flower import Flower
+from tree import Tree
 
 
 class Plant:

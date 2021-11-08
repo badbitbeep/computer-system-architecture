@@ -5,7 +5,7 @@ from typing import Union
 
 import random
 
-from src.plant import Plant
+from plant import Plant
 
 
 class Container:

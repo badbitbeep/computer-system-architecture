@@ -4,7 +4,7 @@
 import sys
 import random
 
-from src.container import Container
+from container import Container
 
 
 def err_message_1():
