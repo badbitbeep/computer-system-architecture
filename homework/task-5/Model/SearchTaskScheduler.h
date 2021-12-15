@@ -4,6 +4,7 @@
 #include "ForestChunkGenerator.h"
 
 #include <atomic>
+#include <algorithm>
 
 // результат поиска по участку леса
 struct ForestChunkSearchResult

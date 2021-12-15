@@ -9,6 +9,8 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${BUILD_DIR}/../bin")
 
 set(BINARY_DIR "${CMAKE_BINARY_DIR}")
 
+find_package(Threads REQUIRED)
+
 # Source files list
 set(SOURCE_FILES
     "EntryPoint.cpp"
@@ -19,3 +21,4 @@ set(SOURCE_FILES
 )
 
 add_executable(task5 ${SOURCE_FILES})
+target_link_libraries(task5 ${CMAKE_THREAD_LIBS_INIT})

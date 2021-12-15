@@ -42,7 +42,7 @@ bee group #X searched chunk #Y for N ms
 ```
 Если Винни Пух найден, в конец сообщения добавляется фраза `Winny Pooh was found and punished!`
 
-В конце выводится общее число обысканных участков леса:
+В конце выводится общее число участков леса:
 ```
 there were M chunks in total
 ```
