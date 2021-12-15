@@ -1,39 +1,77 @@
 #pragma once
 
+
+
 #include "ForestChunk.h"
 
+
+
 #include <random>
+
 #include <ctime>
 
-// Генератор участков леса для поиска
+
+
+// Р“РµРЅРµСЂР°С‚РѕСЂ СѓС‡Р°СЃС‚РєРѕРІ Р»РµСЃР° РґР»СЏ РїРѕРёСЃРєР°
+
 class ForestChunkGenerator
+
 {
-    // Вероятность найти Винни Пуха в участке леса
+
+    // Р’РµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РЅР°Р№С‚Рё Р’РёРЅРЅРё РџСѓС…Р° РІ СѓС‡Р°СЃС‚РєРµ Р»РµСЃР°
+
     const float winnyPoohProbability;
-    // Генератор случайных чисел
+
+    // Р“РµРЅРµСЂР°С‚РѕСЂ СЃР»СѓС‡Р°Р№РЅС‹С… С‡РёСЃРµР»
+
     std::default_random_engine generator;
-    // Генератор вероятности [0.0; 1.0]
+
+    // Р“РµРЅРµСЂР°С‚РѕСЂ РІРµСЂРѕСЏС‚РЅРѕСЃС‚Рё [0.0; 1.0]
+
     std::uniform_real_distribution<float> probabilityRandomGenerator;
-    // Генератор времени поиска [min, max]
+
+    // Р“РµРЅРµСЂР°С‚РѕСЂ РІСЂРµРјРµРЅРё РїРѕРёСЃРєР° [min, max]
+
     std::uniform_int_distribution<unsigned int> timeRandomGenerator;
 
+
+
 public:
-    // Конструктор генератора
+
+    // РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РіРµРЅРµСЂР°С‚РѕСЂР°
+
     ForestChunkGenerator(
+
         float winnyPoohProbability, std::chrono::milliseconds minSearchTime, std::chrono::milliseconds maxSearchTime
+
     )
+
         : winnyPoohProbability(winnyPoohProbability), generator(time(nullptr))
+
     {
+
         timeRandomGenerator = std::uniform_int_distribution<unsigned int>(minSearchTime.count(), maxSearchTime.count());
+
     }
 
-    // сгенерировать участок леса
+
+
+    // СЃРіРµРЅРµСЂРёСЂРѕРІР°С‚СЊ СѓС‡Р°СЃС‚РѕРє Р»РµСЃР°
+
     ForestChunk Generate()
+
     {
+
         ForestChunk result;
+
         result.containsWinnyPooh = (probabilityRandomGenerator(generator) < winnyPoohProbability);
+
         result.timeToSearch = std::chrono::milliseconds(timeRandomGenerator(generator));
+
         return result;
+
     }
+
+
 
 };

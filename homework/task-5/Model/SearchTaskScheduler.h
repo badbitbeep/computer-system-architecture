@@ -1,139 +1,277 @@
 #pragma once
 
+
+
 #include "SearchTask.h"
+
 #include "ForestChunkGenerator.h"
+
+
 
 #include <atomic>
 
-// результат поиска по участку леса
+
+
+// СЂРµР·СѓР»СЊС‚Р°С‚ РїРѕРёСЃРєР° РїРѕ СѓС‡Р°СЃС‚РєСѓ Р»РµСЃР°
+
 struct ForestChunkSearchResult
+
 {
+
     constexpr static size_t CHUNK_IGNORED_INDEX = -1;
 
+
+
     size_t chunkIndex = CHUNK_IGNORED_INDEX;
+
     size_t beeGroupId = 0;
+
     std::chrono::milliseconds timeSpent = 0ms;
+
     bool winnyPoohFound = false;
+
 };
 
-// организатор задач поиска по лесу
+
+
+// РѕСЂРіР°РЅРёР·Р°С‚РѕСЂ Р·Р°РґР°С‡ РїРѕРёСЃРєР° РїРѕ Р»РµСЃСѓ
+
 class SearchTaskScheduler
+
 {
-    // Количество групп пчел
+
+    // РљРѕР»РёС‡РµСЃС‚РІРѕ РіСЂСѓРїРї РїС‡РµР»
+
     size_t beeGroupCount;
-    // Генератор участков леса
+
+    // Р“РµРЅРµСЂР°С‚РѕСЂ СѓС‡Р°СЃС‚РєРѕРІ Р»РµСЃР°
+
     ForestChunkGenerator generator;
-    // Список участков леса
+
+    // РЎРїРёСЃРѕРє СѓС‡Р°СЃС‚РєРѕРІ Р»РµСЃР°
+
     std::vector<ForestChunk> forestChunks;
-    // Результаты поиска в участках леса
+
+    // Р РµР·СѓР»СЊС‚Р°С‚С‹ РїРѕРёСЃРєР° РІ СѓС‡Р°СЃС‚РєР°С… Р»РµСЃР°
+
     std::vector<ForestChunkSearchResult> chunkResults;
-    // Группы пчел в виде потоков
+
+    // Р“СЂСѓРїРїС‹ РїС‡РµР» РІ РІРёРґРµ РїРѕС‚РѕРєРѕРІ
+
     std::vector<std::thread> beeGroups;
-    // Индекс следующего доступного участка для поиска
+
+    // РРЅРґРµРєСЃ СЃР»РµРґСѓСЋС‰РµРіРѕ РґРѕСЃС‚СѓРїРЅРѕРіРѕ СѓС‡Р°СЃС‚РєР° РґР»СЏ РїРѕРёСЃРєР°
+
     std::atomic<size_t> availableChunkIndex;
 
-    // Возвращает конечный индекс доступных участков (задача завершена)
+
+
+    // Р’РѕР·РІСЂР°С‰Р°РµС‚ РєРѕРЅРµС‡РЅС‹Р№ РёРЅРґРµРєСЃ РґРѕСЃС‚СѓРїРЅС‹С… СѓС‡Р°СЃС‚РєРѕРІ (Р·Р°РґР°С‡Р° Р·Р°РІРµСЂС€РµРЅР°)
+
     size_t GetEndChunkIndex() const
+
     {
+
         return forestChunks.size();
+
     }
 
-    // возвращает ближайший доступный индекс участка (инкрементирует индекс для следующих обращений)
+
+
+    // РІРѕР·РІСЂР°С‰Р°РµС‚ Р±Р»РёР¶Р°Р№С€РёР№ РґРѕСЃС‚СѓРїРЅС‹Р№ РёРЅРґРµРєСЃ СѓС‡Р°СЃС‚РєР° (РёРЅРєСЂРµРјРµРЅС‚РёСЂСѓРµС‚ РёРЅРґРµРєСЃ РґР»СЏ СЃР»РµРґСѓСЋС‰РёС… РѕР±СЂР°С‰РµРЅРёР№)
+
     size_t GetAvailableChunkIndex()
+
     {
+
         return availableChunkIndex++;
+
     }
 
-    // Уведомить все группы пчел, что Винни Пух найден
+
+
+    // РЈРІРµРґРѕРјРёС‚СЊ РІСЃРµ РіСЂСѓРїРїС‹ РїС‡РµР», С‡С‚Рѕ Р’РёРЅРЅРё РџСѓС… РЅР°Р№РґРµРЅ
+
     void NotifyWinnyPoohFound()
+
     {
+
         availableChunkIndex = GetEndChunkIndex();
+
     }
 
-    // Получить участок леса по индексу
+
+
+    // РџРѕР»СѓС‡РёС‚СЊ СѓС‡Р°СЃС‚РѕРє Р»РµСЃР° РїРѕ РёРЅРґРµРєСЃСѓ
+
     ForestChunk GetForestChunk(size_t index)
+
     {
+
         return forestChunks[index];
+
     }
 
-    // Уведомить, что участок леса обыскан и записать результат поиска
+
+
+    // РЈРІРµРґРѕРјРёС‚СЊ, С‡С‚Рѕ СѓС‡Р°СЃС‚РѕРє Р»РµСЃР° РѕР±С‹СЃРєР°РЅ Рё Р·Р°РїРёСЃР°С‚СЊ СЂРµР·СѓР»СЊС‚Р°С‚ РїРѕРёСЃРєР°
+
     void NotifyChunkSearched(size_t index, ForestChunkSearchResult result)
+
     {
+
         chunkResults[index] = result;
+
     }
 
-    // Функция поиска группой пчел (функция, исполняемая рабочим потоком)
+
+
+    // Р¤СѓРЅРєС†РёСЏ РїРѕРёСЃРєР° РіСЂСѓРїРїРѕР№ РїС‡РµР» (С„СѓРЅРєС†РёСЏ, РёСЃРїРѕР»РЅСЏРµРјР°СЏ СЂР°Р±РѕС‡РёРј РїРѕС‚РѕРєРѕРј)
+
     static void BeeGroupThreadFunc(SearchTaskScheduler& scheduler, size_t groupIndex)
+
     {
+
         while (true)
+
         {
+
             size_t chunkIndex = scheduler.GetAvailableChunkIndex();
+
             if (chunkIndex < scheduler.GetEndChunkIndex())
+
             {
+
                 ForestChunk chunk = scheduler.GetForestChunk(chunkIndex);
+
                 SearchTask task(chunk);
+
                 SearchTaskResult result = task.Run();
+
                 if (result.WinnyPoohFound)
+
                     scheduler.NotifyWinnyPoohFound();
 
+
+
                 ForestChunkSearchResult searchResult{ 
+
                     chunkIndex, 
+
                     groupIndex,
+
                     chunk.timeToSearch, 
+
                     result.WinnyPoohFound 
+
                 };
+
                 scheduler.NotifyChunkSearched(chunkIndex, searchResult);
+
             }
+
             else break;
+
         }
+
     }
+
+
 
 public:
-    // Конечные результаты поиска группами пчел
+
+    // РљРѕРЅРµС‡РЅС‹Рµ СЂРµР·СѓР»СЊС‚Р°С‚С‹ РїРѕРёСЃРєР° РіСЂСѓРїРїР°РјРё РїС‡РµР»
+
     struct SearchResults
+
     {
-        // Общее число обысканых участков (может быть меньше общего числа участков, если Винни Пуха нашли вначале поиска)
+
+        // РћР±С‰РµРµ С‡РёСЃР»Рѕ РѕР±С‹СЃРєР°РЅС‹С… СѓС‡Р°СЃС‚РєРѕРІ (РјРѕР¶РµС‚ Р±С‹С‚СЊ РјРµРЅСЊС€Рµ РѕР±С‰РµРіРѕ С‡РёСЃР»Р° СѓС‡Р°СЃС‚РєРѕРІ, РµСЃР»Рё Р’РёРЅРЅРё РџСѓС…Р° РЅР°С€Р»Рё РІРЅР°С‡Р°Р»Рµ РїРѕРёСЃРєР°)
+
         size_t totalChunks = 0;
-        // Список результатов поиска по участкам леса
+
+        // РЎРїРёСЃРѕРє СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ РїРѕРёСЃРєР° РїРѕ СѓС‡Р°СЃС‚РєР°Рј Р»РµСЃР°
+
         std::vector<ForestChunkSearchResult> logEntries;
+
     };
 
-    // Конструктор огранизатора поиска
+
+
+    // РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РѕРіСЂР°РЅРёР·Р°С‚РѕСЂР° РїРѕРёСЃРєР°
+
     SearchTaskScheduler(size_t beeGroupCount, ForestChunkGenerator generator)
+
         : beeGroupCount(beeGroupCount), generator(std::move(generator))
+
     {
+
+
 
     }
 
-    // Запуск поиска по участкам леса
+
+
+    // Р—Р°РїСѓСЃРє РїРѕРёСЃРєР° РїРѕ СѓС‡Р°СЃС‚РєР°Рј Р»РµСЃР°
+
     void Run()
+
     {
+
         while (true)
+
         {
+
             ForestChunk chunk = generator.Generate();
+
             forestChunks.push_back(chunk);
+
             if (chunk.containsWinnyPooh)
+
                 break;
+
         }
+
         std::random_shuffle(forestChunks.begin(), forestChunks.end());
+
         chunkResults.resize(forestChunks.size());
 
+
+
         for (size_t i = 0; i < beeGroupCount; i++)
+
         {
+
             beeGroups.push_back(std::thread([this, i]() { BeeGroupThreadFunc(*this, i); }));
+
         }
+
         for (size_t i = 0; i < beeGroupCount; i++)
+
         {
+
             beeGroups[i].join();
+
         }
+
+
 
         while (!chunkResults.empty() && chunkResults.back().chunkIndex == ForestChunkSearchResult::CHUNK_IGNORED_INDEX)
+
             chunkResults.pop_back();
+
     }
 
-    // Получить результаты поиска по участкам леса
+
+
+    // РџРѕР»СѓС‡РёС‚СЊ СЂРµР·СѓР»СЊС‚Р°С‚С‹ РїРѕРёСЃРєР° РїРѕ СѓС‡Р°СЃС‚РєР°Рј Р»РµСЃР°
+
     const SearchResults GetSearchResults() const
+
     {
+
         return SearchResults{ forestChunks.size(), chunkResults };
+
     }
+
 };

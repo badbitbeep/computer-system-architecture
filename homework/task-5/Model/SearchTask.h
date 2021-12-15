@@ -1,33 +1,65 @@
 #pragma once
 
+
+
 #include "ForestChunk.h"
+
+
 
 #include <thread>
 
-// Результат поиска по участку леса
+
+
+// Р РµР·СѓР»СЊС‚Р°С‚ РїРѕРёСЃРєР° РїРѕ СѓС‡Р°СЃС‚РєСѓ Р»РµСЃР°
+
 struct SearchTaskResult
+
 {
-    // Найден ли Винни Пух в участке
+
+    // РќР°Р№РґРµРЅ Р»Рё Р’РёРЅРЅРё РџСѓС… РІ СѓС‡Р°СЃС‚РєРµ
+
     bool WinnyPoohFound = false;
+
 };
 
-// Задача поиска в участке леса 
+
+
+// Р—Р°РґР°С‡Р° РїРѕРёСЃРєР° РІ СѓС‡Р°СЃС‚РєРµ Р»РµСЃР° 
+
 class SearchTask
+
 {
-    // Участок леса
+
+    // РЈС‡Р°СЃС‚РѕРє Р»РµСЃР°
+
     ForestChunk chunk;
+
 public:
-    // Конструктор задачи поиска
+
+    // РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ Р·Р°РґР°С‡Рё РїРѕРёСЃРєР°
+
     SearchTask(const ForestChunk& chunk)
+
         : chunk(chunk)
+
     {
+
+
 
     }
 
-    // Запуск поиска
+
+
+    // Р—Р°РїСѓСЃРє РїРѕРёСЃРєР°
+
     SearchTaskResult Run()
+
     {
+
         std::this_thread::sleep_for(chunk.timeToSearch);
+
         return SearchTaskResult{ chunk.containsWinnyPooh };
+
     }
+
 };
